@@ -20,7 +20,7 @@ ROOT = Path(__file__).resolve().parents[1]
 CONFIG = ROOT / "config" / "sources.json"
 OUTPUT = ROOT / "data" / "auto-news.json"
 USER_AGENT = "CryptoRadarBot/1.0 (+https://github.com/pavel9213/crypto-radar)"
-RUMOR_WORDS = re.compile(r"\b(rumou?rs?|speculation|speculative|unconfirmed|allegedly|leaked|leak|insider claims|not confirmed)\b", re.I)
+RUMOR_WORDS = re.compile(r"\b(rumou?rs?|rumou?red?|speculation|speculative|unconfirmed|allegedly|leaked|leak|insider claims|not confirmed)\b", re.I)
 CATEGORIES = [
     ("TGE", re.compile(r"\b(tge|token generation|token launch|launch date|token launch date|listing date)\b", re.I)),
     ("Snapshot", re.compile(r"\b(snapshot|snapshot date|eligibility check|checker)\b", re.I)),
