@@ -1,0 +1,87 @@
+{
+  "projects": [
+    {
+      "id": "ink",
+      "name": "Ink",
+      "keywords": [
+        "Ink blockchain",
+        "Ink L2"
+      ],
+      "official_urls": [
+        "https://inkonchain.com/"
+      ],
+      "official_domains": [
+        "inkonchain.com"
+      ],
+      "x_handles": [
+        "inkonchain"
+      ]
+    },
+    {
+      "id": "soneium",
+      "name": "Soneium",
+      "keywords": [
+        "Soneium blockchain"
+      ],
+      "official_urls": [
+        "https://soneium.org/"
+      ],
+      "official_domains": [
+        "soneium.org"
+      ],
+      "x_handles": [
+        "soneium"
+      ]
+    },
+    {
+      "id": "base",
+      "name": "Base",
+      "keywords": [
+        "Base blockchain Coinbase"
+      ],
+      "official_urls": [
+        "https://www.base.org/"
+      ],
+      "official_domains": [
+        "base.org"
+      ],
+      "x_handles": [
+        "base"
+      ]
+    },
+    {
+      "id": "malda",
+      "name": "Malda",
+      "keywords": [
+        "Malda crypto lending"
+      ],
+      "official_urls": [
+        "https://malda.xyz/"
+      ],
+      "official_domains": [
+        "malda.xyz"
+      ],
+      "x_handles": [
+        "MaldaFinance"
+      ]
+    },
+    {
+      "id": "rhuna",
+      "name": "Rhuna",
+      "keywords": [
+        "Rhuna crypto web3"
+      ],
+      "official_urls": [
+        "https://rhuna.io/"
+      ],
+      "official_domains": [
+        "rhuna.io"
+      ],
+      "x_handles": [
+        "rhuna_io"
+      ]
+    }
+  ],
+  "poll_interval_hours": 4,
+  "max_events": 250
+}
