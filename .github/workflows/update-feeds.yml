@@ -25,7 +25,7 @@ jobs:
           python-version: "3.12"
       - name: Collect source updates
         env:
-          X_BEARER_TOKEN: \${{ secrets.X_BEARER_TOKEN }}
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
         run: python scripts/collect_news.py
       - name: Commit changed feed
         run: |
