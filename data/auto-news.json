@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-26T07:48:33Z",
-  "source_mode": "official feeds + secondary news index",
+  "updated_at": "2026-10-26T15:11:49Z",
+  "source_mode": "official feeds + secondary news index + X API",
   "events": [
+    {
+      "id": "auto-28824066d256e6197d77",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony-backed Soneium plans a native token for entertainment IP and royalties - The Cryptonomist",
+      "status": "Unconfirmed",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T10:42:08Z",
+      "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03QzZYblhkMGdyXzhFWUhnV2JzMjNDYjhjUVJxbmI3aDNmMXRFdnJkMGlqZ1JwNlhKN1ptNlBtdHh3dG1QcVZmZWpHS2JtakR4N3FRWlJZOFVfcXVVd1BHN0IyMlB6V08zSkZycm91czRwcEhIVEdv?oc=5",
+      "sourceName": "The Cryptonomist",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (The Cryptonomist); not an official confirmation. Verify with the project before acting."
+    },
     {
       "id": "auto-ddb5240dba908286aafa",
       "projectId": "base",
@@ -196,6 +211,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (BigGo Finance); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-a631e08ef1de8cf8a103",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Kraken Introduces Yield-Earning Vaults for Tokenized Nvidia (NVDA) Shares and ETFs - Blockonomi",
+      "status": "Unconfirmed",
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc0pIcGNYdVlzRlppMF9HdjM3UVYyUDRpR3pNR2JGRmNqUUxsLUc3LXZNM3RMVkZ3SUpzc3g3dW8wYkFzazVTTUh6a3lRcXNDTUdWSlZPM2RXZE1pTml6U0dqMjlqY21teTZtaklOR2pFaWctelFtX25TTFVjZjFCVXZxVEI1RWd4NEYwYWtWc2NsOFpQRk5jUk51UU94bkp3QkJBNm1CSQ?oc=5",
+      "sourceName": "Blockonomi",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Blockonomi); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-79b44d8cb0af65d4399e",
@@ -1336,21 +1366,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-5cd0cb34bf7604d59c89",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony Music Publishing Jumps Into… NFTs? - Digital Music News",
-      "status": "Unconfirmed",
-      "date": "2025-02-26",
-      "publishedAt": "2025-02-26T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON0FWdmpJbnZyWnNxM2ptQktNVERCYkotWGZoZ2FPWlY5WjBsZTFScmpvYjNrVGVKMDRXUF85eEJrU3pMSzZNa2JBTnNhZ05Da3Z4MVRzdWpmS2JHZ3B4djlldVJHeV9DSmwwTVVvOFFSWFF1TjNKRVJRTzZhY0l5Yi1idUxGVEN2bmc?oc=5",
-      "sourceName": "Digital Music News",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Digital Music News); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-45d10877358c123555ce",
