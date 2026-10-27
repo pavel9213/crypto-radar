@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-26T21:01:11Z",
+  "updated_at": "2026-10-27T14:31:05Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
+    {
+      "id": "auto-06128ce3a8b777ded6a1",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony’s Soneium Brings Access to $549 Million Royalties Fund Onchain - HackerNoon",
+      "status": "Unconfirmed",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T08:36:52Z",
+      "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY3M3ZldpMlNzYXhNS3NCT2NJWklWa1Z6cE5ObFp2LS0wQS0wM1F1Smt3S254MUZMaHdURHd5NTEzVlZWejYxSmE2WWpqZDJsTVROTWE5VzNTNHdjdUh3OUpzR1U2Njh0MUVhelJWb3NRVWRJLWoxbmx2ZTBSNVltQi15UW1CejVLOW9LaXdUai13SG8?oc=5",
+      "sourceName": "HackerNoon",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (HackerNoon); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-76d4dfb5f0c2147b620c",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony's Blockchain Plans New Token and AI Royalties. Will It Recover? - Yahoo Finance",
+      "status": "Unconfirmed",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T01:11:00Z",
+      "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYlU0NWNFTVBLRGxVM2x0cmRWQzFRUTBzMjFDdVlha29oeWs3VWh4bWJQeHVYVUt4bTNwMDJPYUkxUll0UWtuVkNiOERDb3B2bUVMdzRScWhVLW1iUm9RR2RzVkIzZlRYcVU2eElTYVY4RUJCaFBQUHh6S1o2ek1pSmIzc2pET1RtckYzc2luMWRxWFZBTXY3N3lpbw?oc=5",
+      "sourceName": "Yahoo Finance",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Yahoo Finance); not an official confirmation. Verify with the project before acting."
+    },
     {
       "id": "auto-28824066d256e6197d77",
       "projectId": "soneium",
@@ -661,21 +691,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-d2495b3971a4b3479d86",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Soneium Score Season 5 NFT guide - paragraph.com",
-      "status": "Unconfirmed",
-      "date": "2025-12-21",
-      "publishedAt": "2025-12-21T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRQTF0cFFhZUJRbURjZnBvejAtclVrWUJ1OWJwd0JjYjk5bEI3aVhVX09OSDBSX0lPd3RRdzNkV2FiVFpNZkRteHpGX2dNUDIyVHhTWlN4UzVvb3cyU2pSQ2RfY1NQTW1RMXVIOUJuek9HNGM?oc=5",
-      "sourceName": "paragraph.com",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (paragraph.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-f79ea71bc7afed143e90",
@@ -1576,6 +1591,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Binance); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-377e8419709937608e31",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony’s public blockchain platform Soneium launches on mainnet - The Block",
+      "status": "Unconfirmed",
+      "date": "2025-01-13",
+      "publishedAt": "2025-01-13T08:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGZCSjVHaE9sOFVFTjZ1ek92VW15YjRnVlp6SnRvdEZybUtwdHlfMlFFQnV4Q0dLUzA2S192RlBUWlVQa0VWUWRMU3NiTkR0LWxjaEZsTW9rT0J2c2UwZFk0ZE5ReVJ6STJWeHZyYVZhMXA3czRna0tib1A2MkpGT3JyQmJ0OTFGbFNJT0FfdVZCZzVWS1hnU0FwcnV0UlpCd1hIeUh2N1NsbDZGNmFJVGx1dEE2T1U?oc=5",
+      "sourceName": "The Block",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-bbd17af9d001c1b73c4a",

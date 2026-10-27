@@ -1,23 +1,27 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-10-26T21:01:11Z
+> Feed updated: 2026-10-27T14:31:05Z
 
 ## Overview
 
-- Total signals: **178**
+- Total signals: **180**
 - Projects represented: **3**
 - Confirmed source-origin items: **112**
-- Unconfirmed items: **66**
+- Unconfirmed items: **68**
 - Rumors: **0**
 
 ## Categories
 
 - Airdrop: 5
-- News: 164
+- News: 166
 - Partnership: 9
 
 ## Latest signals
 
+- **[Unconfirmed] Soneium · News · 2026-10-27** — Sony’s Soneium Brings Access to $549 Million Royalties Fund Onchain - HackerNoon
+  Source: <https://news.google.com/rss/articles/CBMikwFBVV95cUxPY3M3ZldpMlNzYXhNS3NCT2NJWklWa1Z6cE5ObFp2LS0wQS0wM1F1Smt3S254MUZMaHdURHd5NTEzVlZWejYxSmE2WWpqZDJsTVROTWE5VzNTNHdjdUh3OUpzR1U2Njh0MUVhelJWb3NRVWRJLWoxbmx2ZTBSNVltQi15UW1CejVLOW9LaXdUai13SG8?oc=5>
+- **[Unconfirmed] Soneium · News · 2026-10-27** — Sony's Blockchain Plans New Token and AI Royalties. Will It Recover? - Yahoo Finance
+  Source: <https://news.google.com/rss/articles/CBMimwFBVV95cUxPYlU0NWNFTVBLRGxVM2x0cmRWQzFRUTBzMjFDdVlha29oeWs3VWh4bWJQeHVYVUt4bTNwMDJPYUkxUll0UWtuVkNiOERDb3B2bUVMdzRScWhVLW1iUm9RR2RzVkIzZlRYcVU2eElTYVY4RUJCaFBQUHh6S1o2ek1pSmIzc2pET1RtckYzc2luMWRxWFZBTXY3N3lpbw?oc=5>
 - **[Unconfirmed] Soneium · News · 2026-10-26** — Sony-backed Soneium plans a native token for entertainment IP and royalties - The Cryptonomist
   Source: <https://news.google.com/rss/articles/CBMid0FVX3lxTE03QzZYblhkMGdyXzhFWUhnV2JzMjNDYjhjUVJxbmI3aDNmMXRFdnJkMGlqZ1JwNlhKN1ptNlBtdHh3dG1QcVZmZWpHS2JtakR4N3FRWlJZOFVfcXVVd1BHN0IyMlB6V08zSkZycm91czRwcEhIVEdv?oc=5>
 - **[Confirmed] Base · News · 2026-10-22** — How Aave unlocked stock-backed loans on Base
@@ -54,10 +58,6 @@
   Source: <https://base.org/blog/b20-tokenized-stocks-on-base>
 - **[Confirmed] Base · News · 2026-08-27** — How Bitwise brought portfolio design onchain
   Source: <https://base.org/customers/bitwise>
-- **[Unconfirmed] Ink · News · 2026-08-24** — Ink Chain Guide for Beginners: How to Get Started With Kraken’s Ethereum Layer 2 - Gizmo Times
-  Source: <https://news.google.com/rss/articles/CBMikgFBVV95cUxNRF9TNzc2TE1wc01lRU9ucHBDT0VOSDhqRFplaFduNDdiNWdoTkw2QWkwRU81ZExHcEN4YlM2WGg2N250RzRBS2VEb1NQb0VVNkFHckpTY0hiVGVFOVBTXzNUQzFlYldHaExXWUhIY3pHRnl3QWNvUWUzQ21jM2h1TXYwQWdsdGdpcGgza1F4bnBxdw?oc=5>
-- **[Confirmed] Base · News · 2026-08-24** — Stocks just got updated.
-  Source: <https://base.org/blog/tokenized-stocks>
 
 ---
 Automatically generated from data/auto-news.json. Labels indicate source confidence, not investment advice.
