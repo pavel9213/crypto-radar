@@ -27,6 +27,8 @@ jobs:
         env:
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
         run: python scripts/collect_news.py
+      - name: Validate generated snapshot
+        run: python scripts/validate_data.py
       - name: Commit changed feed
         run: |
           if git diff --quiet -- data/auto-news.json; then
