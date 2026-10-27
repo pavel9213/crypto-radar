@@ -15,6 +15,7 @@ A lightweight, local-first Web3 watchlist for tracking crypto projects, news, TG
 - Official RSS/Atom autodiscovery, Google News secondary coverage, normalized dates, and rumor labels
 - Optional official X account monitoring through the X API using a repository secret
 - Dependency-free unit tests and a validator for source configuration and generated feed data
+- Automatically generated Markdown digest with latest signals and category/status counts
 
 ## Run locally
 
@@ -34,7 +35,13 @@ Validate the project source configuration and generated feed:
 python scripts/validate_data.py
 ```
 
-The tests run through GitHub Actions on pushes and pull requests. The scheduled feed workflow validates the generated JSON before committing it.
+Build the Markdown digest locally:
+
+```sh
+python scripts/build_digest.py
+```
+
+The tests run through GitHub Actions on pushes and pull requests. The scheduled feed workflow validates the generated JSON and refreshes the digest before committing changes.
 
 ## Important limitations
 
@@ -62,8 +69,10 @@ The tests run through GitHub Actions on pushes and pull requests. The scheduled 
 - Schedule: every four hours; start manually from **Actions → Update Crypto Radar feeds → Run workflow**.
 - Collector: `scripts/collect_news.py`
 - Validator: `scripts/validate_data.py`
+- Digest generator: `scripts/build_digest.py`
 - Source configuration: `config/sources.json`
 - Generated data: `data/auto-news.json`
+- Generated digest: `data/latest-digest.md`
 - Configuration schema: `config/sources.schema.json`
 - Add or edit projects in `config/sources.json` to change keywords, official domains, websites, and X handles. Only list accounts/domains you have verified as official.
 
@@ -74,6 +83,7 @@ The tests run through GitHub Actions on pushes and pull requests. The scheduled 
 - [Signal labels](docs/signal-labels.md)
 - [Data model](docs/data-model.md)
 - [Testing](docs/testing.md)
+- [Signal digest](docs/digest.md)
 - [Operations runbook](docs/operations.md)
 - [Signal triage checklist](docs/triage-checklist.md)
 - [Known limitations](docs/known-limitations.md)
