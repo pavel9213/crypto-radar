@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T14:31:05Z",
+  "updated_at": "2026-10-27T20:41:48Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -693,6 +693,21 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
+      "id": "auto-d2495b3971a4b3479d86",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Soneium Score Season 5 NFT guide - paragraph.com",
+      "status": "Unconfirmed",
+      "date": "2025-12-21",
+      "publishedAt": "2025-12-21T08:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRQTF0cFFhZUJRbURjZnBvejAtclVrWUJ1OWJwd0JjYjk5bEI3aVhVX09OSDBSX0lPd3RRdzNkV2FiVFpNZkRteHpGX2dNUDIyVHhTWlN4UzVvb3cyU2pSQ2RfY1NQTW1RMXVIOUJuek9HNGM?oc=5",
+      "sourceName": "paragraph.com",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (paragraph.com); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-f79ea71bc7afed143e90",
       "projectId": "base",
       "project": "Base",
@@ -1383,6 +1398,21 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
+      "id": "auto-5cd0cb34bf7604d59c89",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony Music Publishing Jumps Into… NFTs? - Digital Music News",
+      "status": "Unconfirmed",
+      "date": "2025-02-26",
+      "publishedAt": "2025-02-26T08:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON0FWdmpJbnZyWnNxM2ptQktNVERCYkotWGZoZ2FPWlY5WjBsZTFScmpvYjNrVGVKMDRXUF85eEJrU3pMSzZNa2JBTnNhZ05Da3Z4MVRzdWpmS2JHZ3B4djlldVJHeV9DSmwwTVVvOFFSWFF1TjNKRVJRTzZhY0l5Yi1idUxGVEN2bmc?oc=5",
+      "sourceName": "Digital Music News",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Digital Music News); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-45d10877358c123555ce",
       "projectId": "base",
       "project": "Base",
@@ -1561,21 +1591,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Ledger Insights); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-59815f11d255febbdfe3",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Soneium blockchain launches as Sony dives deeper into NFT and crypto space - CryptoRank",
-      "status": "Unconfirmed",
-      "date": "2025-01-14",
-      "publishedAt": "2025-01-14T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUVpRamhGZ2NYcjdITm15UWFaMjdOVDdyNTJSZ0pGdHh4WEJiNENldUpKN1pNOWNXMzdhRmNmcWtHYVlfQXpaRG1YZ1hsZ1JTVjVBWTBDQWd3ekRMb0xQdHVQNkRQVmdGYkVud0M4d3NCOTZiODFDVmxzaTNySERkOTVVeVJGZEF2YzVpMHBiQ2huZ2pUR2EwcDdzeFZweXFpcE42TUZzOU41cDdxb25PWFhR?oc=5",
-      "sourceName": "CryptoRank",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (CryptoRank); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-3113ebd57aa263ea1357",
