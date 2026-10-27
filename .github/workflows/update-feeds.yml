@@ -29,14 +29,16 @@ jobs:
         run: python scripts/collect_news.py
       - name: Validate generated snapshot
         run: python scripts/validate_data.py
-      - name: Commit changed feed
+      - name: Build Markdown digest
+        run: python scripts/build_digest.py
+      - name: Commit changed feed and digest
         run: |
-          if git diff --quiet -- data/auto-news.json; then
-            echo "No feed changes to commit."
+          if git diff --quiet -- data/auto-news.json data/latest-digest.md; then
+            echo "No feed or digest changes to commit."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/auto-news.json
-          git commit -m "chore: refresh automated crypto signals"
+          git add data/auto-news.json data/latest-digest.md
+          git commit -m "chore: refresh automated crypto signals and digest"
           git push
