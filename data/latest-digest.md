@@ -1,20 +1,20 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-10-28T05:41:41Z
+> Feed updated: 2026-10-28T15:06:21Z
 
 ## Overview
 
-- Total signals: **180**
+- Total signals: **177**
 - Projects represented: **3**
 - Confirmed source-origin items: **112**
-- Unconfirmed items: **68**
+- Unconfirmed items: **65**
 - Rumors: **0**
 
 ## Categories
 
 - Airdrop: 5
-- News: 166
-- Partnership: 9
+- News: 164
+- Partnership: 8
 
 ## Latest signals
 
@@ -38,8 +38,6 @@
   Source: <https://base.org/blog/cobalt>
 - **[Unconfirmed] Soneium · Partnership · 2026-09-29** — Soneium and DayOneDream partner to bring K-pop IP onchain - The Next Web
   Source: <https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV2Zyclh0R19NNWROSnFvS1ViX2dZTWI3bHpSYVUyclZCZG9CNVJzd0JsaEowZEdUc2xqNjBDeFFVcEdqeE1ZUGNuVENPaWVOZGlPb1RqcjBZd2g5QllMV0pySUpUbG9EVVkwazRmWXZKR2hBT1NkaHNtbXU4NFNZV3JfLVVHc0Zv?oc=5>
-- **[Unconfirmed] Soneium · Partnership · 2026-09-29** — Soneium and DayOneDream partner to tokenize K-pop IP - Crypto News
-  Source: <https://news.google.com/rss/articles/CBMifkFVX3lxTE5WZ0tzODAzandiTllXRkJGUW1RVWFqSVRIZFFkR0pjVUt1UUR4MTAzMWpCeWV4R0J5Rloxci1kMVlNVi1acW1yRHpRMGh6ZXJvMU1jQ1BOVkd0VXZlQ245dDBDaFpNb3FEeGM2aXczUUhNNngxU3VaOGtsWThYdw?oc=5>
 - **[Unconfirmed] Soneium · News · 2026-09-29** — BTOB, Lee Chae Yeon and More: K-POP IP Goes Onchain With Sony Crypto - TradingView
   Source: <https://news.google.com/rss/articles/CBMixgFBVV95cUxNdTQ1ZlFoSFIyUHJLcVVmdXBiMjZmaEFqNktwbTdsbDBfcmRvNUprTFQzd0ZEeEJmN2daaVA5dV9UWXRMd3VXalBST0x1RUY2SkdvTHFrNUV4aV8taE5OOTBzLVNTT3FsbUZIN28wYVBJbEpwNFU3dGJVUDRLWjdVLXk2OGM4YUJOVjJNdDBvcmxoLThIdmwxVjNPS3k1VjRvTTRETzkta1lpU2NrVEZpYkFaY3JhS2p4cllvSlVSR1NEY0N2dVE?oc=5>
 - **[Unconfirmed] Soneium · News · 2026-09-29** — Soneium Brings K-Pop IP to Blockchain Ecosystem With Dayonedream - Bitcoin News
@@ -58,6 +56,8 @@
   Source: <https://base.org/blog/b20-tokenized-stocks-on-base>
 - **[Confirmed] Base · News · 2026-08-27** — How Bitwise brought portfolio design onchain
   Source: <https://base.org/customers/bitwise>
+- **[Unconfirmed] Ink · News · 2026-08-24** — Ink Chain Guide for Beginners: How to Get Started With Kraken’s Ethereum Layer 2 - Gizmo Times
+  Source: <https://news.google.com/rss/articles/CBMikgFBVV95cUxNRF9TNzc2TE1wc01lRU9ucHBDT0VOSDhqRFplaFduNDdiNWdoTkw2QWkwRU81ZExHcEN4YlM2WGg2N250RzRBS2VEb1NQb0VVNkFHckpTY0hiVGVFOVBTXzNUQzFlYldHaExXWUhIY3pHRnl3QWNvUWUzQ21jM2h1TXYwQWdsdGdpcGgza1F4bnBxdw?oc=5>
 
 ---
 Automatically generated from data/auto-news.json. Labels indicate source confidence, not investment advice.

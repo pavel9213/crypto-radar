@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T05:41:41Z",
+  "updated_at": "2026-10-28T15:06:21Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -151,21 +151,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (The Next Web); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-70192480a4d067ac58d1",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "Partnership",
-      "title": "Soneium and DayOneDream partner to tokenize K-pop IP - Crypto News",
-      "status": "Unconfirmed",
-      "date": "2026-09-29",
-      "publishedAt": "2026-09-29T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WZ0tzODAzandiTllXRkJGUW1RVWFqSVRIZFFkR0pjVUt1UUR4MTAzMWpCeWV4R0J5Rloxci1kMVlNVi1acW1yRHpRMGh6ZXJvMU1jQ1BOVkd0VXZlQ245dDBDaFpNb3FEeGM2aXczUUhNNngxU3VaOGtsWThYdw?oc=5",
-      "sourceName": "Crypto News",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Crypto News); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-8ccbd79ec4c5f349320b",
@@ -631,6 +616,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Castle Crypto); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-a8b6964c73f1fd463c9b",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Tether Backs LayerZero in Bet on Cross-Chain Stablecoin Infrastructure - Crypto News Australia",
+      "status": "Unconfirmed",
+      "date": "2026-02-11",
+      "publishedAt": "2026-02-11T08:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaEhNTXZibUYyMDNrb0swZ3RpRk0yQXc1V0FXSkR5TVA2V1dYYVBtTUo2cUNlS041NGdxbWRHVFY5TTBEbzlnT2JYc1Rxc3RNOEdXa2hnMUJCT3NNdFJ5ZXBJc25RajNxd2haTmdPNDNULUZ6WnEwMWtEX0xmRk1LSXY0X0dWZkRSX1hGamF0OHZMVlI1bVZrVFlMWlUzVDZtSE9DQjZiTFNtVXdoT0E?oc=5",
+      "sourceName": "Crypto News Australia",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Crypto News Australia); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-6ace60e728d357c2487e",
@@ -1608,19 +1608,19 @@
       "notes": "Secondary source (Ledger Insights); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-3113ebd57aa263ea1357",
+      "id": "auto-dd6add5e0afb1a0525fb",
       "projectId": "soneium",
       "project": "Soneium",
       "category": "News",
-      "title": "Sony launches Soneium blockchain on Ethereum - Binance",
+      "title": "Sony Unveils Soneium Mainnet, Faces Criticism from Crypto Community on Launch Day - BeInCrypto",
       "status": "Unconfirmed",
       "date": "2025-01-14",
       "publishedAt": "2025-01-14T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wNG5ubUtYMmtnLUtXSnNMMVc2RmJtRzNNLWJzUDNZWHB2TElMSTdvMW5SM054OWhENV9uTG52aWVjVG1EWllBTnhqVS05SWlOMXRxOFN2a0ctTlBYWHZRdlU2TQ?oc=5",
-      "sourceName": "Binance",
+      "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NaWVjN0VPOEZWUExMQVdGQTVsU0ZSQ01kbW1tSG02WENoX25YVDlhNUJCT0hkYzhtaUdoOUZOOXNUVTFxVTdacDJkQlJkR3RyRmZIeU50NG1pMHNEQUFkWTFNVlVjLUF6OWs2Z25QWQ?oc=5",
+      "sourceName": "BeInCrypto",
       "sourceType": "news-index",
       "automatic": true,
-      "notes": "Secondary source (Binance); not an official confirmation. Verify with the project before acting."
+      "notes": "Secondary source (BeInCrypto); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-377e8419709937608e31",
@@ -1636,21 +1636,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-bbd17af9d001c1b73c4a",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Squidswap Statistics: Markets, Trading Volume & Trust Score - CoinGecko",
-      "status": "Unconfirmed",
-      "date": "2025-01-10",
-      "publishedAt": "2025-01-10T10:45:37Z",
-      "source": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xUHloemVqcENFVW5IWXhLQnMtRzJoM0RmNTRhTVE1ci0zbEtxLS1wSHZ5aWNMV2dUSHFFV0oyVVhNV2Z0YTVkR0EzcDRSeFlsS0k0WHM1OXZYTXhW?oc=5",
-      "sourceName": "CoinGecko",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (CoinGecko); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-047d81d6046d1c62dc0e",
@@ -1801,21 +1786,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (CryptoRank); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-fc79b687088531d10635",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Scam Sniffer Exposes Google Ad for Sony’s Soneium Blockchain as Crypto Wallet Drainer - CryptoPotato",
-      "status": "Unconfirmed",
-      "date": "2024-10-23",
-      "publishedAt": "2024-10-23T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUo1Ul9GSzF4b2N3QV9VNExya0NPMU53LXQyNG10REt2VGFZR0hzMEdZVWlaeVlPZURRUDN0V3k3aktINERwaC02UGV2d2UxS1RqYURpVUtOcENpQlllcFFQV1pFZVloT3R4THFCYkc5d2ZhY2k0Y0dzUGs2bS1vTUt6eXRRNUtESXl3UWl6N1hPWkFSQkF0SG1ieEhKQnIyVmJmWXQzVmlHWkg4d0w0?oc=5",
-      "sourceName": "CryptoPotato",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (CryptoPotato); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-2b0f9000057e3372f454",
@@ -2011,21 +1981,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (GamesBeat); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-9a16149061acbe2ecd5e",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Soneium: Sony & Startale's Revolutionary Step Towards Web3 - Coin Gabbar",
-      "status": "Unconfirmed",
-      "date": "2024-08-23",
-      "publishedAt": "2024-08-23T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWWpQMEdKd2Z0Y0dnUHdEODlsS1VVWG0yQlJtSzVFdU9CY2ZqQjdzZWE2QnloWVhNNi12LXVPWHF5UHRSWEpQN1VFRVlMY2VaOHRIQTVOaE05TzYyMThGMWlxT3JVOEZQd3hmUE1QMTFhNlUyZG1TeFhVSERyY2lEMTk0XzAzVzR0ekVn?oc=5",
-      "sourceName": "Coin Gabbar",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Coin Gabbar); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-66292ac97633ecb191c6",
