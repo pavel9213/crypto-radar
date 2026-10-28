@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T20:41:48Z",
+  "updated_at": "2026-10-28T05:41:41Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -423,6 +423,21 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
+      "id": "auto-29cfc5e301a9bc29ac75",
+      "projectId": "base",
+      "project": "Base",
+      "category": "News",
+      "title": "Agentic AI & ‘crypto’: Chocolate & peanut butter, or nuts & gum? - CoinGeek",
+      "status": "Unconfirmed",
+      "date": "2026-06-16",
+      "publishedAt": "2026-06-16T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObnVuY3NyZ2x5N1pYdXpWNVVoY0VUZUpXdjl2NTI0Qkx5Q0QzU2x4NFlFMmFzNXZUbkJ5VVY0NGJ4NUFSZ01RRGdOaW1TYnphYzJTanB5NjUzU2hfdE9aTUprVzh6RHBUb2lVTWI5cEVwYXdLUGtxeWlHUDJta1lPQw?oc=5",
+      "sourceName": "CoinGeek",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (CoinGeek); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-f570194ced1ab5c438dd",
       "projectId": "base",
       "project": "Base",
@@ -468,19 +483,19 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-c45951249751530e562e",
+      "id": "auto-ffa34d5951924f0404d3",
       "projectId": "ink",
       "project": "Ink",
       "category": "Airdrop",
-      "title": "How to Farm the Base Airdrop in 2026: A Step-by-Step Guide - Bitget",
+      "title": "How to Farm the Base Airdrop in 2026: A Step-by-Step Guide - Cryptonews.net",
       "status": "Unconfirmed",
-      "date": "2026-05-12",
-      "publishedAt": "2026-05-12T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ITUlYekpPcTBuM1ROQWtvVC1IQ242UVJpbFJuTllLOUFHaTM2ano4Nm5BdnZLNWlpS0E5RWlRRUtRaEZjejE1U29zRmVLVW9lbjB4UV9IR3BkMlZPVWfSAWNBVV95cUxQTEsxZGpzdGxJcXo4cTlXVndQU3FUd0kwRWZBa2gwMzY1MWs0MUthZEEyNjM5QUpXT3NkaGh6RTduVmdTc1RKWVJjZWdFOHhtWHdCZ3JuNENYZGRuc282QzlzUDA?oc=5",
-      "sourceName": "Bitget",
+      "date": "2026-05-13",
+      "publishedAt": "2026-05-13T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VeWtjSk5QUEl2eElKNHluWVVoSk9SNWRlckUtZkx6TFZYUk9LZGlaVXRldUhKR2w2T0g5TVpxN2JyQU9SNWhJbHJaRjBzbW5iNXJJTXYzVk1Ldw?oc=5",
+      "sourceName": "Cryptonews.net",
       "sourceType": "news-index",
       "automatic": true,
-      "notes": "Secondary source (Bitget); not an official confirmation. Verify with the project before acting."
+      "notes": "Secondary source (Cryptonews.net); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-7a05f46b5ac7d5f23db3",
@@ -1233,6 +1248,21 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
+      "id": "auto-069919bb67131febe2df",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "[YOAKE entertainment] Fundraising Efforts Successfully Bring In ¥180 Million to Build a Next-Generation Entertainment Platform - アソビシステム株式会社",
+      "status": "Unconfirmed",
+      "date": "2025-04-28",
+      "publishedAt": "2025-04-28T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RVzI5aEdKWFRsT05Yd2I1SkhGeTllekJsSjdraTk2VVQzX2xsZjhKbzBsUllFSW5oM2NsbHlzSG9uem41YVJKWWJPUXNRaEU?oc=5",
+      "sourceName": "アソビシステム株式会社",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (アソビシステム株式会社); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-72760a2f0f895ab71fc2",
       "projectId": "base",
       "project": "Base",
@@ -1426,21 +1456,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-b9cf1494306be745ad72",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony forms Astar-Soneium alliance - Binance",
-      "status": "Unconfirmed",
-      "date": "2025-02-11",
-      "publishedAt": "2025-02-11T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fZlo2Q19vSk1DVEdKMktWZmdJRy1KM1EzYzU5bDhjdjluMENEU3dFODdQR1ZkOU1XVDRUdnJnZnRnWTk5U3Nzd0lhd2E2UzF5cURLQ09pZHhJMElubHhQNkVxRQ?oc=5",
-      "sourceName": "Binance",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Binance); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-214b6062c0f873c5dae1",
@@ -1773,21 +1788,6 @@
       "notes": "Secondary source (CoinGape); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-d598fb03d3d9b7a2d6df",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Here’s How Kraken’s Ink Blockchain Will Work - DailyCoin",
-      "status": "Unconfirmed",
-      "date": "2024-10-24",
-      "publishedAt": "2024-10-24T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CT0QwTWhOVEVKOFI4cFB4am8zSFlXNGtnb3JYYTRxM1EwWTcwZUFfVC1FaEJjdjhXdWZpVl9TVjNHQnhOZGkzWGk3c196TEVJUEcyTVpPNnRrcGpDS0N0YnlyWlJ6VDJFMVdiRjBmdklDUGc?oc=5",
-      "sourceName": "DailyCoin",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (DailyCoin); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-ab11f3f9802780b8fddc",
       "projectId": "soneium",
       "project": "Soneium",
@@ -2086,21 +2086,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-1e948c74e3478fd235a2",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "Report: Coinbase Asset Management Creating Tokenized Money Market Fund - PYMNTS.com",
-      "status": "Unconfirmed",
-      "date": "2024-07-24",
-      "publishedAt": "2024-07-24T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS2M4WmxheGpobTFxdWhSX3JweV9iOTFDTHNwZGwyNk9SQnAzbHJkN3BuUmNDVUFrdXVLb0VJcVNTeW42NlJfZm1MMUZneUZGWTE0V1VxVEZUeVNDTmdEZVBXbFhEbUlkM3hKc3lPTkFmNjcxYWNETGp4azAzb1c0eENicWZ3Y1c0UUJjNWZoSXUtSzNtX1RhdGZZU09UckM4NHFybGxhVzNuNjFiNWR2dVdsMA?oc=5",
-      "sourceName": "PYMNTS.com",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (PYMNTS.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-4a621c5389230a1d90cc",
