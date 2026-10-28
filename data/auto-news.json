@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T15:06:21Z",
+  "updated_at": "2026-10-28T21:04:30Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -213,21 +213,6 @@
       "notes": "Secondary source (unchainedcrypto.com); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-5b763ce14236dd3d7acb",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Kraken Rolls Out DeFi Lending Vaults for Tokenized Nvidia Stock and Major ETFs - BigGo Finance",
-      "status": "Unconfirmed",
-      "date": "2026-09-15",
-      "publishedAt": "2026-09-15T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xSWxKdENYYUZ6MDBiOWtQakpudFotdU1rUW05NTkxUW1EaGo4dTdDM2wtVVROb2Mza3hETTFGQmZyMEJtUTE0TEg2Mnp3MVZ0NjVFR0ktZXhKZjZCYXFrTk4xVUFhb0d4d1hpVGNvaHBkYzlrUVE?oc=5",
-      "sourceName": "BigGo Finance",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (BigGo Finance); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-a631e08ef1de8cf8a103",
       "projectId": "ink",
       "project": "Ink",
@@ -241,6 +226,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Blockonomi); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-5b763ce14236dd3d7acb",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Kraken Rolls Out DeFi Lending Vaults for Tokenized Nvidia Stock and Major ETFs - BigGo Finance",
+      "status": "Unconfirmed",
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xSWxKdENYYUZ6MDBiOWtQakpudFotdU1rUW05NTkxUW1EaGo4dTdDM2wtVVROb2Mza3hETTFGQmZyMEJtUTE0TEg2Mnp3MVZ0NjVFR0ktZXhKZjZCYXFrTk4xVUFhb0d4d1hpVGNvaHBkYzlrUVE?oc=5",
+      "sourceName": "BigGo Finance",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (BigGo Finance); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-79b44d8cb0af65d4399e",
@@ -1786,6 +1786,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (CryptoRank); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-fc79b687088531d10635",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Scam Sniffer Exposes Google Ad for Sony’s Soneium Blockchain as Crypto Wallet Drainer - CryptoPotato",
+      "status": "Unconfirmed",
+      "date": "2024-10-23",
+      "publishedAt": "2024-10-23T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUo1Ul9GSzF4b2N3QV9VNExya0NPMU53LXQyNG10REt2VGFZR0hzMEdZVWlaeVlPZURRUDN0V3k3aktINERwaC02UGV2d2UxS1RqYURpVUtOcENpQlllcFFQV1pFZVloT3R4THFCYkc5d2ZhY2k0Y0dzUGs2bS1vTUt6eXRRNUtESXl3UWl6N1hPWkFSQkF0SG1ieEhKQnIyVmJmWXQzVmlHWkg4d0w0?oc=5",
+      "sourceName": "CryptoPotato",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (CryptoPotato); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-2b0f9000057e3372f454",

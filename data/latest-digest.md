@@ -1,19 +1,19 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-10-28T15:06:21Z
+> Feed updated: 2026-10-28T21:04:30Z
 
 ## Overview
 
-- Total signals: **177**
+- Total signals: **178**
 - Projects represented: **3**
 - Confirmed source-origin items: **112**
-- Unconfirmed items: **65**
+- Unconfirmed items: **66**
 - Rumors: **0**
 
 ## Categories
 
 - Airdrop: 5
-- News: 164
+- News: 165
 - Partnership: 8
 
 ## Latest signals
@@ -46,10 +46,10 @@
   Source: <https://base.org/customers/centrifuge>
 - **[Unconfirmed] Soneium · News · 2026-09-28** — Sony-Backed Soneium Partners With DayOneDream to Tokenize K-Pop Revenue - unchainedcrypto.com
   Source: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQajBkQmRXWmx5Z3BaZ3kwMWZCQW5rSkREbWMzN3pibU5IVFFadXJCWHFzeVFWaW1uOHVSTFRjZXNuMnFDQlFlSHJUWlZHR09iVWczb0U3LVl0TEtfTERYbl9WcDdITndMa1FMdmU0U0RZYTZPd0tBOHFBSTJaaG1hUkh1ak5qWEZEa3p4RjdtTVRFVW15RmRIMDYxc0pNWGNJYmc?oc=5>
-- **[Unconfirmed] Ink · News · 2026-09-15** — Kraken Rolls Out DeFi Lending Vaults for Tokenized Nvidia Stock and Major ETFs - BigGo Finance
-  Source: <https://news.google.com/rss/articles/CBMidkFVX3lxTE0xSWxKdENYYUZ6MDBiOWtQakpudFotdU1rUW05NTkxUW1EaGo4dTdDM2wtVVROb2Mza3hETTFGQmZyMEJtUTE0TEg2Mnp3MVZ0NjVFR0ktZXhKZjZCYXFrTk4xVUFhb0d4d1hpVGNvaHBkYzlrUVE?oc=5>
 - **[Unconfirmed] Ink · News · 2026-09-15** — Kraken Introduces Yield-Earning Vaults for Tokenized Nvidia (NVDA) Shares and ETFs - Blockonomi
   Source: <https://news.google.com/rss/articles/CBMipwFBVV95cUxQc0pIcGNYdVlzRlppMF9HdjM3UVYyUDRpR3pNR2JGRmNqUUxsLUc3LXZNM3RMVkZ3SUpzc3g3dW8wYkFzazVTTUh6a3lRcXNDTUdWSlZPM2RXZE1pTml6U0dqMjlqY21teTZtaklOR2pFaWctelFtX25TTFVjZjFCVXZxVEI1RWd4NEYwYWtWc2NsOFpQRk5jUk51UU94bkp3QkJBNm1CSQ?oc=5>
+- **[Unconfirmed] Ink · News · 2026-09-14** — Kraken Rolls Out DeFi Lending Vaults for Tokenized Nvidia Stock and Major ETFs - BigGo Finance
+  Source: <https://news.google.com/rss/articles/CBMidkFVX3lxTE0xSWxKdENYYUZ6MDBiOWtQakpudFotdU1rUW05NTkxUW1EaGo4dTdDM2wtVVROb2Mza3hETTFGQmZyMEJtUTE0TEg2Mnp3MVZ0NjVFR0ktZXhKZjZCYXFrTk4xVUFhb0d4d1hpVGNvaHBkYzlrUVE?oc=5>
 - **[Confirmed] Base · News · 2026-09-01** — Request for Builders: Tokenized Stocks
   Source: <https://base.org/blog/request-for-builders-tokenized-stocks>
 - **[Confirmed] Base · News · 2026-08-27** — B20: The Standard Behind Tokenized Stocks on Base
