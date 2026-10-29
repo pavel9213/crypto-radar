@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T21:04:30Z",
+  "updated_at": "2026-10-29T05:47:57Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -226,6 +226,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Blockonomi); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-dc25a8748dce0b754337",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Uniswap Burns 592K Tokens in a Week New All-Time High Next? - Coin Gabbar",
+      "status": "Unconfirmed",
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZT0Zkam14OEJodThhT2ZHajR2TlpBZnVZUzdGWlZiNEZ6a1dkRnpRS0tSTkg2eEk1RGVWQ1Q5TlR6V3U1R3dkZG51cHBvaVlWaVFBZ1ZTUm9JOVNXOTZYeHVrbjZHNUFBY3RVeGQ5M1d3MUlYMS16RmRad0tpdw?oc=5",
+      "sourceName": "Coin Gabbar",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Coin Gabbar); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-5b763ce14236dd3d7acb",
@@ -616,21 +631,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Castle Crypto); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-a8b6964c73f1fd463c9b",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Tether Backs LayerZero in Bet on Cross-Chain Stablecoin Infrastructure - Crypto News Australia",
-      "status": "Unconfirmed",
-      "date": "2026-02-11",
-      "publishedAt": "2026-02-11T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaEhNTXZibUYyMDNrb0swZ3RpRk0yQXc1V0FXSkR5TVA2V1dYYVBtTUo2cUNlS041NGdxbWRHVFY5TTBEbzlnT2JYc1Rxc3RNOEdXa2hnMUJCT3NNdFJ5ZXBJc25RajNxd2haTmdPNDNULUZ6WnEwMWtEX0xmRk1LSXY0X0dWZkRSX1hGamF0OHZMVlI1bVZrVFlMWlUzVDZtSE9DQjZiTFNtVXdoT0E?oc=5",
-      "sourceName": "Crypto News Australia",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Crypto News Australia); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-6ace60e728d357c2487e",
@@ -1293,6 +1293,21 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
+      "id": "auto-1281879b08957dba15e7",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Animoca Brands Partners With Soneium by Sony Block Solutions Labs to Develop Moca Network’s Identity Layer - FF News",
+      "status": "Unconfirmed",
+      "date": "2025-03-28",
+      "publishedAt": "2025-03-28T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWXZWbjFuMFk2T0d5X1ROWEk2NFJ2RGxrS3dYU3ZZcDdGclE5YWVFWXNBWlNjRjdLUlRNRHJ0d2R6djEyMVd2UmpPeU0yeGFfMjVreUs1ZW81Q08tS0JVVlI4WlpjaHpwdDROMzFUNUNVNDVSd3NnTXZWU2d1Z1FCR3BQQW5KdEpxdVAzZUtldnNHYVZaOThuU3N3bW94VFNfWjZFdVhXWXBKYW5pblBYbllFeFpSWUVZZXUwSG5TcmlsaXhFdXllYQ?oc=5",
+      "sourceName": "FF News",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (FF News); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-768446623cd29fa41881",
       "projectId": "soneium",
       "project": "Soneium",
@@ -1773,36 +1788,6 @@
       "notes": "Secondary source (CoinGape); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-ab11f3f9802780b8fddc",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony’s Soneium Blockchain Project Hit by Google Ad Phishing Scam - CryptoRank",
-      "status": "Unconfirmed",
-      "date": "2024-10-23",
-      "publishedAt": "2024-10-23T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjdHZUZWU3VWbmVhekRTZ1VEem96SUkzRTdNUThTRnNhOWR1a0pkb3YxYXNmdW9KRDZfTGtjSy1tY3J1dmRmUTVsTXdKV1Q1VmFfNVh5SXpYZWZ3X3E4a1dMWXVyU2FzWTF5SmdXNWFvLVNYRDdTZlFkcUFhLTVoQW5pNF8ycGNZTlpIdzFwcWdwMVljbVluQ25pME11MTl0VzFF?oc=5",
-      "sourceName": "CryptoRank",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (CryptoRank); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-fc79b687088531d10635",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Scam Sniffer Exposes Google Ad for Sony’s Soneium Blockchain as Crypto Wallet Drainer - CryptoPotato",
-      "status": "Unconfirmed",
-      "date": "2024-10-23",
-      "publishedAt": "2024-10-23T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUo1Ul9GSzF4b2N3QV9VNExya0NPMU53LXQyNG10REt2VGFZR0hzMEdZVWlaeVlPZURRUDN0V3k3aktINERwaC02UGV2d2UxS1RqYURpVUtOcENpQlllcFFQV1pFZVloT3R4THFCYkc5d2ZhY2k0Y0dzUGs2bS1vTUt6eXRRNUtESXl3UWl6N1hPWkFSQkF0SG1ieEhKQnIyVmJmWXQzVmlHWkg4d0w0?oc=5",
-      "sourceName": "CryptoPotato",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (CryptoPotato); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-2b0f9000057e3372f454",
       "projectId": "soneium",
       "project": "Soneium",
@@ -1981,21 +1966,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Binance); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-c961480f7bfd040c650c",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony Group and Startale unveil Soneium blockchain to accelerate Web3 innovation - GamesBeat",
-      "status": "Unconfirmed",
-      "date": "2024-08-23",
-      "publishedAt": "2024-08-23T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWDVYYUNlWTc0QklSOEdIVlNXTkkyTV92UGNMY1NCMEM4Q0Q3WHptUDh2amlYd0N6SmFJYUFJdjFyWmxBWEdWanE0LUtKSHlQTUtQcjFxaUVwX0dJWTBkaFR3UFM2dmZtcVpuZUl5eVRnRjRMbnVMMEN2WGo0TTB6WVRZc0V0dUVvazBqQURDdDBURktWUVZXMGhqMmxHbHJreTE5Zw?oc=5",
-      "sourceName": "GamesBeat",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (GamesBeat); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-66292ac97633ecb191c6",
