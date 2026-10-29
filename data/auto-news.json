@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-10-29T05:47:57Z",
+  "updated_at": "2026-10-29T15:13:45Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
+    {
+      "id": "auto-38098b6703aa7dd6d338",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony launches Soneium program, giving Sony Group stock a new digital angle - ad-hoc-news.de",
+      "status": "Unconfirmed",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T14:47:11Z",
+      "source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa3ZQMk5XemdLSEdhRHJsOURmU05zMFNpOTlrTmtRYmxoVEt5QTFGQWttRjJHNzI3bklqX0R5bU5rNnhSQ0d2cTllUkdfazEwSVlLSGgwT0w3R3FpbEx6UExQMmpPZUZzZ3U1S0lHSzVxZ0l0R05JUV9yMzQ0Y1pnRWpJeGNybF9nVTFtRF9RakF1T2dhamczdXRBNU51VV9SM2I0Rjc3cTFrb3dUZVQ5X2hKdmhneW1hVkJIRVJ3alZ1QnJFWGctMm5QODRZckxrdVE?oc=5",
+      "sourceName": "ad-hoc-news.de",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (ad-hoc-news.de); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-f19e1502b987ed8fa96c",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony launches global onchain entertainment incubation programme - grafa.com",
+      "status": "Unconfirmed",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T06:53:22Z",
+      "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVktUbWgyUU9uc1NRVFZlYXZPWXlUajVXdHlocDhiM2VTZ2VSZEVMODhhMUpUZ1U2WDlzWHZzMGhHaGloZkRsRnc5bFVTblg1eXFTY2QzeGJFRkVqdjVVaUk0TnR1QUtjbUM1bDdhdWhyZFpMS1pMRnpXcmQ3V0tmVWRDVmNwVFA5OEZOaVFpcGtqcWxKcVJDejEtMDM?oc=5",
+      "sourceName": "grafa.com",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (grafa.com); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-cc6a1dfbdd1f11f0e1d1",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony launches Soneium incubation program for creators - Crypto News",
+      "status": "Unconfirmed",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T06:03:00Z",
+      "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11VkNjdlA3bkh2X3VFZWN3SEVDOEhyaFlhbU9Fai1XeGZMeEtOOUJrdkZjZ0NranFpQV9vNVFEeE92ejl6dHVqclU3dkk2c0hUUHI0MDRxTmpraGJMTDVGakZJNE5yVjc4UC1lNmU3SDA2X0dYM2VzTUFDSVhBVXM?oc=5",
+      "sourceName": "Crypto News",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Crypto News); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-a31b7baaf649b3f88aa9",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "ETHUSD Futures Contract (Nov 2026) Trade Ideas — HTX:ETHUSD06X2026 - TradingView",
+      "status": "Unconfirmed",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T14:41:36Z",
+      "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzk2cE55clZ2Y0ZaSWxXb3pCX3NFMXVjejAxSTJQNEFYNElsc2NGc1lJNzNnREM0MW5raHNBODdlZUVpb3JOZzF5NzBKT0t3MExlbTBPMUp3ZVB1bUktd2x3ajVkR0xzSU5Pb0x0c2ZzNWY3Y1lUaHJFRjNpT0N2TWRnT3Fyb2hDb1FjTFVRczRaaUhuWkVVNVpqMHplcVU?oc=5",
+      "sourceName": "TradingView",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
+    },
     {
       "id": "auto-06128ce3a8b777ded6a1",
       "projectId": "soneium",
@@ -63,21 +123,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-cc77973791d6007ad0c8",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "The Coinbase Bull Case Comes Down to One Very Big Number - AOL.com",
-      "status": "Unconfirmed",
-      "date": "2026-10-21",
-      "publishedAt": "2026-10-21T17:30:16Z",
-      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lMEVOY3NoTDMyYkVLOXU2Z2JZTjE1N2R4V3R1NkJJbHVITWc5LWJ3ckNTZFE3Y0pWeW5uWHg4czI1Vzdsak02dzhlSVpDckJEaG13dzRFVXZfMkx5ZExnNnpacHZ0VUxuWHhkS251RWd0MTN3SkJ1cERVSDRGUQ?oc=5",
-      "sourceName": "AOL.com",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (AOL.com); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-fe0b906f66bf4dde9e3e",
       "projectId": "base",
       "project": "Base",
@@ -91,6 +136,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (24/7 Wall St.); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-cc77973791d6007ad0c8",
+      "projectId": "base",
+      "project": "Base",
+      "category": "News",
+      "title": "The Coinbase Bull Case Comes Down to One Very Big Number - AOL.com",
+      "status": "Unconfirmed",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lMEVOY3NoTDMyYkVLOXU2Z2JZTjE1N2R4V3R1NkJJbHVITWc5LWJ3ckNTZFE3Y0pWeW5uWHg4czI1Vzdsak02dzhlSVpDckJEaG13dzRFVXZfMkx5ZExnNnpacHZ0VUxuWHhkS251RWd0MTN3SkJ1cERVSDRGUQ?oc=5",
+      "sourceName": "AOL.com",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (AOL.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-ff563154a01bfef074f8",
@@ -138,6 +198,21 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
+      "id": "auto-d9b1f5ada42d15185c91",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Soneium Brings K-Pop IP to Blockchain Ecosystem With Dayonedream - Bitcoin News",
+      "status": "Unconfirmed",
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMGJ1aVp5S0p3WDdBQjJFMWwyOWc4YzFqc1JvV1RoVDF2aGhhSjRTUndSQVZNamtiR05aOWM1TndXTVAwdmd3eWFEVmtfRUNnUGFiZWhqQThXcDF2bDhqYmgtMGFWT0xKMnpQT1JfQzJHamFlQ09Xbi1FbllDcXRFaE5weDVQaDJQSV90N1FmQUZKRzZ0WF80OVY3eS1Kd0FEMTlZ?oc=5",
+      "sourceName": "Bitcoin News",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Bitcoin News); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-f0f03131e8dffe80dd6d",
       "projectId": "soneium",
       "project": "Soneium",
@@ -166,21 +241,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-d9b1f5ada42d15185c91",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Soneium Brings K-Pop IP to Blockchain Ecosystem With Dayonedream - Bitcoin News",
-      "status": "Unconfirmed",
-      "date": "2026-09-29",
-      "publishedAt": "2026-09-29T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMGJ1aVp5S0p3WDdBQjJFMWwyOWc4YzFqc1JvV1RoVDF2aGhhSjRTUndSQVZNamtiR05aOWM1TndXTVAwdmd3eWFEVmtfRUNnUGFiZWhqQThXcDF2bDhqYmgtMGFWT0xKMnpQT1JfQzJHamFlQ09Xbi1FbllDcXRFaE5weDVQaDJQSV90N1FmQUZKRzZ0WF80OVY3eS1Kd0FEMTlZ?oc=5",
-      "sourceName": "Bitcoin News",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Bitcoin News); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-af9a493448dcebf12b2d",
@@ -1308,21 +1368,6 @@
       "notes": "Secondary source (FF News); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-768446623cd29fa41881",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Animoca Brands partners with Soneium by Sony Block Solutions Labs to develop Moca Network’s identity layer and launch San FranTokyo’s anime initiatives on Soneium - Animoca Brands",
-      "status": "Unconfirmed",
-      "date": "2025-03-27",
-      "publishedAt": "2025-03-27T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNT1JsM0NEMHJZclExOVZrWXJRakM1N25QcTVXUVk0YURKd3BDbE1CT1ZFaGJURk9JTWxjM0RvcURZVVNoQmVwRFA2VktTeVBfZFhqUVF2X09ZZlJkalNuMVdjUGFlQmtscVNwU0dQTVBKNllLa1U2Q3VvMWFKeDNJMDE2YUllWXp5a3I4cGxnQnZkTGM1MkFSZ3pkLVpMNEplY015eWVYeEFfdmdRZzdCZXAxYk5VR2pZSFRzQU1oWlE5anFsRTBoR1NGNmF0RVpfODVHU3VCOXB2Tk9QbnBzeGNHMFZsYmoybTdYT2dROG13VzhfMHRMV3VWbkVVa0puY0N0eVJjWkM3b3pwcFNHVWlITi1WUUVwM0p4T0FCT2t0dXhWTTdlS3VJNA?oc=5",
-      "sourceName": "Animoca Brands",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Animoca Brands); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-895e63d1e15f5ca10f9e",
       "projectId": "soneium",
       "project": "Soneium",
@@ -1336,6 +1381,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-768446623cd29fa41881",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Animoca Brands partners with Soneium by Sony Block Solutions Labs to develop Moca Network’s identity layer and launch San FranTokyo’s anime initiatives on Soneium - Animoca Brands",
+      "status": "Unconfirmed",
+      "date": "2025-03-27",
+      "publishedAt": "2025-03-27T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNT1JsM0NEMHJZclExOVZrWXJRakM1N25QcTVXUVk0YURKd3BDbE1CT1ZFaGJURk9JTWxjM0RvcURZVVNoQmVwRFA2VktTeVBfZFhqUVF2X09ZZlJkalNuMVdjUGFlQmtscVNwU0dQTVBKNllLa1U2Q3VvMWFKeDNJMDE2YUllWXp5a3I4cGxnQnZkTGM1MkFSZ3pkLVpMNEplY015eWVYeEFfdmdRZzdCZXAxYk5VR2pZSFRzQU1oWlE5anFsRTBoR1NGNmF0RVpfODVHU3VCOXB2Tk9QbnBzeGNHMFZsYmoybTdYT2dROG13VzhfMHRMV3VWbkVVa0puY0N0eVJjWkM3b3pwcFNHVWlITi1WUUVwM0p4T0FCT2t0dXhWTTdlS3VJNA?oc=5",
+      "sourceName": "Animoca Brands",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Animoca Brands); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-e7171e827df4b0aeb6eb",
@@ -2626,21 +2686,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-ba7d3af33f579155e8d1",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "Partnership",
-      "title": "Samsung SDS, Credorax ink blockchain-based financial services partnership - The Korea Herald",
-      "status": "Unconfirmed",
-      "date": "2020-03-04",
-      "publishedAt": "2020-03-04T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rZVF2ODFjdHpjZm9naXNHbU1CVW96YklHa2xJRDFWVXY3MEJxVXZ2MTJSX19oU1dGNzNWekpCU3hjVHF5V2JmZGpnUmJ5a1libU9zcEZB?oc=5",
-      "sourceName": "The Korea Herald",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (The Korea Herald); not an official confirmation. Verify with the project before acting."
     }
   ]
 }
