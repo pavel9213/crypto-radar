@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T15:13:45Z",
+  "updated_at": "2026-10-29T21:07:29Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -25,7 +25,7 @@
       "title": "Sony launches global onchain entertainment incubation programme - grafa.com",
       "status": "Unconfirmed",
       "date": "2026-10-29",
-      "publishedAt": "2026-10-29T06:53:22Z",
+      "publishedAt": "2026-10-29T06:47:57Z",
       "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVktUbWgyUU9uc1NRVFZlYXZPWXlUajVXdHlocDhiM2VTZ2VSZEVMODhhMUpUZ1U2WDlzWHZzMGhHaGloZkRsRnc5bFVTblg1eXFTY2QzeGJFRkVqdjVVaUk0TnR1QUtjbUM1bDdhdWhyZFpMS1pMRnpXcmQ3V0tmVWRDVmNwVFA5OEZOaVFpcGtqcWxKcVJDejEtMDM?oc=5",
       "sourceName": "grafa.com",
       "sourceType": "news-index",
@@ -48,6 +48,21 @@
       "notes": "Secondary source (Crypto News); not an official confirmation. Verify with the project before acting."
     },
     {
+      "id": "auto-a101dd600e08be3a2405",
+      "projectId": "base",
+      "project": "Base",
+      "category": "News",
+      "title": "How Shopify brought stablecoin payments to checkout on Base",
+      "status": "Confirmed",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T00:00:00Z",
+      "source": "https://base.org/customers/shopify",
+      "sourceName": "base.org",
+      "sourceType": "official",
+      "automatic": true,
+      "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
       "id": "auto-a31b7baaf649b3f88aa9",
       "projectId": "ink",
       "project": "Ink",
@@ -55,7 +70,7 @@
       "title": "ETHUSD Futures Contract (Nov 2026) Trade Ideas — HTX:ETHUSD06X2026 - TradingView",
       "status": "Unconfirmed",
       "date": "2026-10-28",
-      "publishedAt": "2026-10-28T14:41:36Z",
+      "publishedAt": "2026-10-28T14:41:35Z",
       "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzk2cE55clZ2Y0ZaSWxXb3pCX3NFMXVjejAxSTJQNEFYNElsc2NGc1lJNzNnREM0MW5raHNBODdlZUVpb3JOZzF5NzBKT0t3MExlbTBPMUp3ZVB1bUktd2x3ajVkR0xzSU5Pb0x0c2ZzNWY3Y1lUaHJFRjNpT0N2TWRnT3Fyb2hDb1FjTFVRczRaaUhuWkVVNVpqMHplcVU?oc=5",
       "sourceName": "TradingView",
       "sourceType": "news-index",
@@ -198,21 +213,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-d9b1f5ada42d15185c91",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Soneium Brings K-Pop IP to Blockchain Ecosystem With Dayonedream - Bitcoin News",
-      "status": "Unconfirmed",
-      "date": "2026-09-29",
-      "publishedAt": "2026-09-29T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMGJ1aVp5S0p3WDdBQjJFMWwyOWc4YzFqc1JvV1RoVDF2aGhhSjRTUndSQVZNamtiR05aOWM1TndXTVAwdmd3eWFEVmtfRUNnUGFiZWhqQThXcDF2bDhqYmgtMGFWT0xKMnpQT1JfQzJHamFlQ09Xbi1FbllDcXRFaE5weDVQaDJQSV90N1FmQUZKRzZ0WF80OVY3eS1Kd0FEMTlZ?oc=5",
-      "sourceName": "Bitcoin News",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Bitcoin News); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-f0f03131e8dffe80dd6d",
       "projectId": "soneium",
       "project": "Soneium",
@@ -241,6 +241,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-d9b1f5ada42d15185c91",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Soneium Brings K-Pop IP to Blockchain Ecosystem With Dayonedream - Bitcoin News",
+      "status": "Unconfirmed",
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMGJ1aVp5S0p3WDdBQjJFMWwyOWc4YzFqc1JvV1RoVDF2aGhhSjRTUndSQVZNamtiR05aOWM1TndXTVAwdmd3eWFEVmtfRUNnUGFiZWhqQThXcDF2bDhqYmgtMGFWT0xKMnpQT1JfQzJHamFlQ09Xbi1FbllDcXRFaE5weDVQaDJQSV90N1FmQUZKRzZ0WF80OVY3eS1Kd0FEMTlZ?oc=5",
+      "sourceName": "Bitcoin News",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Bitcoin News); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-af9a493448dcebf12b2d",
@@ -286,21 +301,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Blockonomi); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-dc25a8748dce0b754337",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Uniswap Burns 592K Tokens in a Week New All-Time High Next? - Coin Gabbar",
-      "status": "Unconfirmed",
-      "date": "2026-09-15",
-      "publishedAt": "2026-09-15T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZT0Zkam14OEJodThhT2ZHajR2TlpBZnVZUzdGWlZiNEZ6a1dkRnpRS0tSTkg2eEk1RGVWQ1Q5TlR6V3U1R3dkZG51cHBvaVlWaVFBZ1ZTUm9JOVNXOTZYeHVrbjZHNUFBY3RVeGQ5M1d3MUlYMS16RmRad0tpdw?oc=5",
-      "sourceName": "Coin Gabbar",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Coin Gabbar); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-5b763ce14236dd3d7acb",
@@ -691,6 +691,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Castle Crypto); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-a8b6964c73f1fd463c9b",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Tether Backs LayerZero in Bet on Cross-Chain Stablecoin Infrastructure - Crypto News Australia",
+      "status": "Unconfirmed",
+      "date": "2026-02-11",
+      "publishedAt": "2026-02-11T08:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaEhNTXZibUYyMDNrb0swZ3RpRk0yQXc1V0FXSkR5TVA2V1dYYVBtTUo2cUNlS041NGdxbWRHVFY5TTBEbzlnT2JYc1Rxc3RNOEdXa2hnMUJCT3NNdFJ5ZXBJc25RajNxd2haTmdPNDNULUZ6WnEwMWtEX0xmRk1LSXY0X0dWZkRSX1hGamF0OHZMVlI1bVZrVFlMWlUzVDZtSE9DQjZiTFNtVXdoT0E?oc=5",
+      "sourceName": "Crypto News Australia",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Crypto News Australia); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-6ace60e728d357c2487e",
@@ -1366,21 +1381,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (FF News); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-895e63d1e15f5ca10f9e",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Animoca Brands teams up with Soneium to extend Moca Network's identity layer - The Block",
-      "status": "Unconfirmed",
-      "date": "2025-03-27",
-      "publishedAt": "2025-03-27T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdk5nLW1tdVZ6eGtkMGhFZDBtYnBNUzFoamt2emVGRGYycTFBWUlLdnNPQXA2aWxPQ3ViYU45YXBhRUpWZHdSYkRJdWtKOERReFdTbmRYS09LU2FzTkN5ZkF0SUt4RExleF9yS0pfNGN0bmh3OXZwWkZEaFZ0OTZKeFBmZllMWDlTTVNLMVR4NzM1UkJpZGo2MmhmQUk3NE9TNDZzWDhuTjBmYnhxU0Uyem9ENmQ2M0xiUWRvVlJoVFgyTnFPQzVZeXdmd1JReDllME5N?oc=5",
-      "sourceName": "The Block",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-768446623cd29fa41881",
