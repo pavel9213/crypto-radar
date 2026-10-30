@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-29T21:07:29Z",
+  "updated_at": "2026-10-30T05:48:49Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
+    {
+      "id": "auto-7dfbd72978353268156d",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "ETHUSD Futures Contract (Nov 2026) Trade Ideas — HTX:ETHUSD06X2026 - TradingView",
+      "status": "Unconfirmed",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T16:02:19Z",
+      "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcllBZ211TTJPVXVYcUpwWlR2SnQtY0VsSlJYZEl3bDAtNUdVZVVremJ4RFJFWTNqMHhDRHAyRXV5ck54SVpPbnZJel9mSDVCU1hXSHZvNUo0WnBZbkFXcnE1YmxITzlxb09BbFcyeW1hekowbE1mMkR3dmJVUXZCckRfajhUeDJDTUhUWUtB?oc=5",
+      "sourceName": "TradingView",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
+    },
     {
       "id": "auto-38098b6703aa7dd6d338",
       "projectId": "soneium",
@@ -61,21 +76,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-a31b7baaf649b3f88aa9",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "ETHUSD Futures Contract (Nov 2026) Trade Ideas — HTX:ETHUSD06X2026 - TradingView",
-      "status": "Unconfirmed",
-      "date": "2026-10-28",
-      "publishedAt": "2026-10-28T14:41:35Z",
-      "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzk2cE55clZ2Y0ZaSWxXb3pCX3NFMXVjejAxSTJQNEFYNElsc2NGc1lJNzNnREM0MW5raHNBODdlZUVpb3JOZzF5NzBKT0t3MExlbTBPMUp3ZVB1bUktd2x3ajVkR0xzSU5Pb0x0c2ZzNWY3Y1lUaHJFRjNpT0N2TWRnT3Fyb2hDb1FjTFVRczRaaUhuWkVVNVpqMHplcVU?oc=5",
-      "sourceName": "TradingView",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-06128ce3a8b777ded6a1",
@@ -288,19 +288,19 @@
       "notes": "Secondary source (unchainedcrypto.com); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-a631e08ef1de8cf8a103",
+      "id": "auto-dc25a8748dce0b754337",
       "projectId": "ink",
       "project": "Ink",
       "category": "News",
-      "title": "Kraken Introduces Yield-Earning Vaults for Tokenized Nvidia (NVDA) Shares and ETFs - Blockonomi",
+      "title": "Uniswap Burns 592K Tokens in a Week New All-Time High Next? - Coin Gabbar",
       "status": "Unconfirmed",
       "date": "2026-09-15",
       "publishedAt": "2026-09-15T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc0pIcGNYdVlzRlppMF9HdjM3UVYyUDRpR3pNR2JGRmNqUUxsLUc3LXZNM3RMVkZ3SUpzc3g3dW8wYkFzazVTTUh6a3lRcXNDTUdWSlZPM2RXZE1pTml6U0dqMjlqY21teTZtaklOR2pFaWctelFtX25TTFVjZjFCVXZxVEI1RWd4NEYwYWtWc2NsOFpQRk5jUk51UU94bkp3QkJBNm1CSQ?oc=5",
-      "sourceName": "Blockonomi",
+      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZT0Zkam14OEJodThhT2ZHajR2TlpBZnVZUzdGWlZiNEZ6a1dkRnpRS0tSTkg2eEk1RGVWQ1Q5TlR6V3U1R3dkZG51cHBvaVlWaVFBZ1ZTUm9JOVNXOTZYeHVrbjZHNUFBY3RVeGQ5M1d3MUlYMS16RmRad0tpdw?oc=5",
+      "sourceName": "Coin Gabbar",
       "sourceType": "news-index",
       "automatic": true,
-      "notes": "Secondary source (Blockonomi); not an official confirmation. Verify with the project before acting."
+      "notes": "Secondary source (Coin Gabbar); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-5b763ce14236dd3d7acb",
@@ -693,21 +693,6 @@
       "notes": "Secondary source (Castle Crypto); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-a8b6964c73f1fd463c9b",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Tether Backs LayerZero in Bet on Cross-Chain Stablecoin Infrastructure - Crypto News Australia",
-      "status": "Unconfirmed",
-      "date": "2026-02-11",
-      "publishedAt": "2026-02-11T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaEhNTXZibUYyMDNrb0swZ3RpRk0yQXc1V0FXSkR5TVA2V1dYYVBtTUo2cUNlS041NGdxbWRHVFY5TTBEbzlnT2JYc1Rxc3RNOEdXa2hnMUJCT3NNdFJ5ZXBJc25RajNxd2haTmdPNDNULUZ6WnEwMWtEX0xmRk1LSXY0X0dWZkRSX1hGamF0OHZMVlI1bVZrVFlMWlUzVDZtSE9DQjZiTFNtVXdoT0E?oc=5",
-      "sourceName": "Crypto News Australia",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Crypto News Australia); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-6ace60e728d357c2487e",
       "projectId": "base",
       "project": "Base",
@@ -1051,21 +1036,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-6564b50c26ccd0ef872c",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony’s Soneium Blockchain Launches Reward Program for Users - The Crypto Times",
-      "status": "Unconfirmed",
-      "date": "2025-08-28",
-      "publishedAt": "2025-08-28T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa0ZIaWpPSkt3VGVVZWhrdnJTcFB3M29Cd2lVQndMQ3c0YzBrUzczQWlTaW1sSHEwTzlEb0tieE1QODNibUhHNnJ2bzlraHY4QUR1ZlBvRWZVWm54ZmRGc0xJYWlvVXgtSFNWSDJlMDJTdzhfaU5IZzgxVWRQWElpeW1ma2xpZW9od1BOS1phbFZBYVRlYXFocUpwR3J1dw?oc=5",
-      "sourceName": "The Crypto Times",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (The Crypto Times); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-03f8ed3fadc39fc501dd",
@@ -1936,6 +1906,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-dfa4e5efeb9ac894a15b",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony Launches Soneium Minato Testnet and Web3 Developer Program, \"Soneium Spark\" - Crypto News Australia",
+      "status": "Unconfirmed",
+      "date": "2024-08-29",
+      "publishedAt": "2024-08-29T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcW00d2hkRkpSWTFFZTBEUUpaR0FWZW91Q3BfUXE3MmNNZ2ZmZGdNUG5OWEJ2Q3BuSzBpVFVpaUVvOGxsZldGOUM4Rnd6emw1Ti1IWFVkMWpuckM1dk1xOE5QOWJ3M1Roc1V3YWJaUnlrcmhkdEpJYk5ManBnMzhrU3ItY2ZrUWNXNEdha2VHazB2N2FUeHdzZTJFQl9kOEdHN21TOFJqelJGeU11ZUpkTnhGeVJuWE0?oc=5",
+      "sourceName": "Crypto News Australia",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Crypto News Australia); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-4d68b235d1ff0fcd070d",
