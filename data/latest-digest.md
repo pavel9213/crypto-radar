@@ -1,6 +1,6 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-10-30T05:48:49Z
+> Feed updated: 2026-10-30T15:02:57Z
 
 ## Overview
 
@@ -18,8 +18,6 @@
 
 ## Latest signals
 
-- **[Unconfirmed] Ink · News · 2026-10-29** — ETHUSD Futures Contract (Nov 2026) Trade Ideas — HTX:ETHUSD06X2026 - TradingView
-  Source: <https://news.google.com/rss/articles/CBMijgFBVV95cUxOcllBZ211TTJPVXVYcUpwWlR2SnQtY0VsSlJYZEl3bDAtNUdVZVVremJ4RFJFWTNqMHhDRHAyRXV5ck54SVpPbnZJel9mSDVCU1hXSHZvNUo0WnBZbkFXcnE1YmxITzlxb09BbFcyeW1hekowbE1mMkR3dmJVUXZCckRfajhUeDJDTUhUWUtB?oc=5>
 - **[Unconfirmed] Soneium · News · 2026-10-29** — Sony launches Soneium program, giving Sony Group stock a new digital angle - ad-hoc-news.de
   Source: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa3ZQMk5XemdLSEdhRHJsOURmU05zMFNpOTlrTmtRYmxoVEt5QTFGQWttRjJHNzI3bklqX0R5bU5rNnhSQ0d2cTllUkdfazEwSVlLSGgwT0w3R3FpbEx6UExQMmpPZUZzZ3U1S0lHSzVxZ0l0R05JUV9yMzQ0Y1pnRWpJeGNybF9nVTFtRF9RakF1T2dhamczdXRBNU51VV9SM2I0Rjc3cTFrb3dUZVQ5X2hKdmhneW1hVkJIRVJ3alZ1QnJFWGctMm5QODRZckxrdVE?oc=5>
 - **[Unconfirmed] Soneium · News · 2026-10-29** — Sony launches global onchain entertainment incubation programme - grafa.com
@@ -28,6 +26,8 @@
   Source: <https://news.google.com/rss/articles/CBMif0FVX3lxTE11VkNjdlA3bkh2X3VFZWN3SEVDOEhyaFlhbU9Fai1XeGZMeEtOOUJrdkZjZ0NranFpQV9vNVFEeE92ejl6dHVqclU3dkk2c0hUUHI0MDRxTmpraGJMTDVGakZJNE5yVjc4UC1lNmU3SDA2X0dYM2VzTUFDSVhBVXM?oc=5>
 - **[Confirmed] Base · News · 2026-10-29** — How Shopify brought stablecoin payments to checkout on Base
   Source: <https://base.org/customers/shopify>
+- **[Unconfirmed] Ink · News · 2026-10-28** — ETHUSD Futures Contract (Nov 2026) Trade Ideas — HTX:ETHUSD06X2026 - TradingView
+  Source: <https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzk2cE55clZ2Y0ZaSWxXb3pCX3NFMXVjejAxSTJQNEFYNElsc2NGc1lJNzNnREM0MW5raHNBODdlZUVpb3JOZzF5NzBKT0t3MExlbTBPMUp3ZVB1bUktd2x3ajVkR0xzSU5Pb0x0c2ZzNWY3Y1lUaHJFRjNpT0N2TWRnT3Fyb2hDb1FjTFVRczRaaUhuWkVVNVpqMHplcVU?oc=5>
 - **[Unconfirmed] Soneium · News · 2026-10-27** — Sony’s Soneium Brings Access to $549 Million Royalties Fund Onchain - HackerNoon
   Source: <https://news.google.com/rss/articles/CBMikwFBVV95cUxPY3M3ZldpMlNzYXhNS3NCT2NJWklWa1Z6cE5ObFp2LS0wQS0wM1F1Smt3S254MUZMaHdURHd5NTEzVlZWejYxSmE2WWpqZDJsTVROTWE5VzNTNHdjdUh3OUpzR1U2Njh0MUVhelJWb3NRVWRJLWoxbmx2ZTBSNVltQi15UW1CejVLOW9LaXdUai13SG8?oc=5>
 - **[Unconfirmed] Soneium · News · 2026-10-27** — Sony's Blockchain Plans New Token and AI Royalties. Will It Recover? - Yahoo Finance
@@ -56,8 +56,8 @@
   Source: <https://base.org/customers/centrifuge>
 - **[Unconfirmed] Soneium · News · 2026-09-28** — Sony-Backed Soneium Partners With DayOneDream to Tokenize K-Pop Revenue - unchainedcrypto.com
   Source: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQajBkQmRXWmx5Z3BaZ3kwMWZCQW5rSkREbWMzN3pibU5IVFFadXJCWHFzeVFWaW1uOHVSTFRjZXNuMnFDQlFlSHJUWlZHR09iVWczb0U3LVl0TEtfTERYbl9WcDdITndMa1FMdmU0U0RZYTZPd0tBOHFBSTJaaG1hUkh1ak5qWEZEa3p4RjdtTVRFVW15RmRIMDYxc0pNWGNJYmc?oc=5>
-- **[Unconfirmed] Ink · News · 2026-09-15** — Uniswap Burns 592K Tokens in a Week New All-Time High Next? - Coin Gabbar
-  Source: <https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZT0Zkam14OEJodThhT2ZHajR2TlpBZnVZUzdGWlZiNEZ6a1dkRnpRS0tSTkg2eEk1RGVWQ1Q5TlR6V3U1R3dkZG51cHBvaVlWaVFBZ1ZTUm9JOVNXOTZYeHVrbjZHNUFBY3RVeGQ5M1d3MUlYMS16RmRad0tpdw?oc=5>
+- **[Unconfirmed] Ink · News · 2026-09-15** — Kraken Rolls Out DeFi Lending Vaults for Tokenized Nvidia Stock and Major ETFs - BigGo Finance
+  Source: <https://news.google.com/rss/articles/CBMidkFVX3lxTE0xSWxKdENYYUZ6MDBiOWtQakpudFotdU1rUW05NTkxUW1EaGo4dTdDM2wtVVROb2Mza3hETTFGQmZyMEJtUTE0TEg2Mnp3MVZ0NjVFR0ktZXhKZjZCYXFrTk4xVUFhb0d4d1hpVGNvaHBkYzlrUVE?oc=5>
 
 ---
 Automatically generated from data/auto-news.json. Labels indicate source confidence, not investment advice.

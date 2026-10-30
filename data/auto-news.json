@@ -1,22 +1,7 @@
 {
-  "updated_at": "2026-10-30T05:48:49Z",
+  "updated_at": "2026-10-30T15:02:57Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
-    {
-      "id": "auto-7dfbd72978353268156d",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "ETHUSD Futures Contract (Nov 2026) Trade Ideas — HTX:ETHUSD06X2026 - TradingView",
-      "status": "Unconfirmed",
-      "date": "2026-10-29",
-      "publishedAt": "2026-10-29T16:02:19Z",
-      "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcllBZ211TTJPVXVYcUpwWlR2SnQtY0VsSlJYZEl3bDAtNUdVZVVremJ4RFJFWTNqMHhDRHAyRXV5ck54SVpPbnZJel9mSDVCU1hXSHZvNUo0WnBZbkFXcnE1YmxITzlxb09BbFcyeW1hekowbE1mMkR3dmJVUXZCckRfajhUeDJDTUhUWUtB?oc=5",
-      "sourceName": "TradingView",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
-    },
     {
       "id": "auto-38098b6703aa7dd6d338",
       "projectId": "soneium",
@@ -76,6 +61,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-a31b7baaf649b3f88aa9",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "ETHUSD Futures Contract (Nov 2026) Trade Ideas — HTX:ETHUSD06X2026 - TradingView",
+      "status": "Unconfirmed",
+      "date": "2026-10-28",
+      "publishedAt": "2026-10-28T14:41:36Z",
+      "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzk2cE55clZ2Y0ZaSWxXb3pCX3NFMXVjejAxSTJQNEFYNElsc2NGc1lJNzNnREM0MW5raHNBODdlZUVpb3JOZzF5NzBKT0t3MExlbTBPMUp3ZVB1bUktd2x3ajVkR0xzSU5Pb0x0c2ZzNWY3Y1lUaHJFRjNpT0N2TWRnT3Fyb2hDb1FjTFVRczRaaUhuWkVVNVpqMHplcVU?oc=5",
+      "sourceName": "TradingView",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-06128ce3a8b777ded6a1",
@@ -145,7 +145,7 @@
       "title": "The Coinbase Bull Case Comes Down to One Very Big Number - 24/7 Wall St.",
       "status": "Unconfirmed",
       "date": "2026-10-21",
-      "publishedAt": "2026-10-21T17:30:00Z",
+      "publishedAt": "2026-10-21T07:00:00Z",
       "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcFRZS3hEZGdTd3p0SzdSUTlHVVRJVjRNQk1mdjNrVXZmbU9telJRV3pndGdhM0E2YXpERXVnQklMaW9iNTN3SUJjV0RmZHBiWXRUb3ZTWGlSQzNNMVdfNGg5YlAwdXJpZzZFRlJpT0pEOW9sUlA0bjdIQ2ZQb3IxS0NfeHJsSWVFejVfQ1dOTWhLQkxleUM3TVp5cnJhajZXOUE?oc=5",
       "sourceName": "24/7 Wall St.",
       "sourceType": "news-index",
@@ -288,6 +288,21 @@
       "notes": "Secondary source (unchainedcrypto.com); not an official confirmation. Verify with the project before acting."
     },
     {
+      "id": "auto-5b763ce14236dd3d7acb",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Kraken Rolls Out DeFi Lending Vaults for Tokenized Nvidia Stock and Major ETFs - BigGo Finance",
+      "status": "Unconfirmed",
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xSWxKdENYYUZ6MDBiOWtQakpudFotdU1rUW05NTkxUW1EaGo4dTdDM2wtVVROb2Mza3hETTFGQmZyMEJtUTE0TEg2Mnp3MVZ0NjVFR0ktZXhKZjZCYXFrTk4xVUFhb0d4d1hpVGNvaHBkYzlrUVE?oc=5",
+      "sourceName": "BigGo Finance",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (BigGo Finance); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-dc25a8748dce0b754337",
       "projectId": "ink",
       "project": "Ink",
@@ -301,21 +316,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Coin Gabbar); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-5b763ce14236dd3d7acb",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Kraken Rolls Out DeFi Lending Vaults for Tokenized Nvidia Stock and Major ETFs - BigGo Finance",
-      "status": "Unconfirmed",
-      "date": "2026-09-14",
-      "publishedAt": "2026-09-14T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xSWxKdENYYUZ6MDBiOWtQakpudFotdU1rUW05NTkxUW1EaGo4dTdDM2wtVVROb2Mza3hETTFGQmZyMEJtUTE0TEg2Mnp3MVZ0NjVFR0ktZXhKZjZCYXFrTk4xVUFhb0d4d1hpVGNvaHBkYzlrUVE?oc=5",
-      "sourceName": "BigGo Finance",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (BigGo Finance); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-79b44d8cb0af65d4399e",
