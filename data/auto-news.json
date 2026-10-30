@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-30T15:02:57Z",
+  "updated_at": "2026-10-30T20:47:54Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
+    {
+      "id": "auto-39b0d1554e9c1a2bb79c",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "7 Best Crypto Presales as Sony Launches a Soneium Incubation Program for Creators - openPR.com",
+      "status": "Unconfirmed",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T18:14:51Z",
+      "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWFJ3bmI4cG1XRXBmWWpHRkxUZ01QaUc4bkk5dmRMUWdiczFqVDIxUlBkbElQRlJwNjB0U1BZSU5FaEVQa1FXTnN2amlEV1N3M09YTnBERENxSDNQUWVWWVllcVRJZXp5X29MVHhIT2hKcTJnZVhNSjBFblI3VnprNU54aXJhdktlWmxsZWNUd3U2SFMwYVFuQ01vbFU?oc=5",
+      "sourceName": "openPR.com",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (openPR.com); not an official confirmation. Verify with the project before acting."
+    },
     {
       "id": "auto-38098b6703aa7dd6d338",
       "projectId": "soneium",
@@ -288,21 +303,6 @@
       "notes": "Secondary source (unchainedcrypto.com); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-5b763ce14236dd3d7acb",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Kraken Rolls Out DeFi Lending Vaults for Tokenized Nvidia Stock and Major ETFs - BigGo Finance",
-      "status": "Unconfirmed",
-      "date": "2026-09-15",
-      "publishedAt": "2026-09-15T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xSWxKdENYYUZ6MDBiOWtQakpudFotdU1rUW05NTkxUW1EaGo4dTdDM2wtVVROb2Mza3hETTFGQmZyMEJtUTE0TEg2Mnp3MVZ0NjVFR0ktZXhKZjZCYXFrTk4xVUFhb0d4d1hpVGNvaHBkYzlrUVE?oc=5",
-      "sourceName": "BigGo Finance",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (BigGo Finance); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-dc25a8748dce0b754337",
       "projectId": "ink",
       "project": "Ink",
@@ -316,6 +316,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Coin Gabbar); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-5b763ce14236dd3d7acb",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Kraken Rolls Out DeFi Lending Vaults for Tokenized Nvidia Stock and Major ETFs - BigGo Finance",
+      "status": "Unconfirmed",
+      "date": "2026-09-14",
+      "publishedAt": "2026-09-14T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xSWxKdENYYUZ6MDBiOWtQakpudFotdU1rUW05NTkxUW1EaGo4dTdDM2wtVVROb2Mza3hETTFGQmZyMEJtUTE0TEg2Mnp3MVZ0NjVFR0ktZXhKZjZCYXFrTk4xVUFhb0d4d1hpVGNvaHBkYzlrUVE?oc=5",
+      "sourceName": "BigGo Finance",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (BigGo Finance); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-79b44d8cb0af65d4399e",
@@ -1396,21 +1411,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-b1246c47f6adf44a690f",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Japanese Tech Giants Sony and LINE Join Forces in Blockchain Deal - CoinDesk",
-      "status": "Unconfirmed",
-      "date": "2025-03-12",
-      "publishedAt": "2025-03-12T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMFRiWmlsS20wd3FoRWV2WWtFZ0t1UXFQMzNVNHkyNGhfLUc0MFkySmE4dUhzS293TFFZTGQwQVd3ZGRTSHZzcERrdGRGZ0xoR01CSm9zR3JyUkR1UUR0UXpYNjNRTXl4R0hWN3p3UWdjaEJtRDJsMXBqQVplTkFjaTl2aVpzZ0V6TG1hWnExYVJING94RUQ1ODRGZW9yYk81ZjMyT2NvNHRpdw?oc=5",
-      "sourceName": "CoinDesk",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (CoinDesk); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-9de02480b31ef5fb8bd6",
