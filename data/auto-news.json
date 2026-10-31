@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T20:47:54Z",
+  "updated_at": "2026-10-31T05:40:14Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -303,29 +303,14 @@
       "notes": "Secondary source (unchainedcrypto.com); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-dc25a8748dce0b754337",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Uniswap Burns 592K Tokens in a Week New All-Time High Next? - Coin Gabbar",
-      "status": "Unconfirmed",
-      "date": "2026-09-15",
-      "publishedAt": "2026-09-15T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZT0Zkam14OEJodThhT2ZHajR2TlpBZnVZUzdGWlZiNEZ6a1dkRnpRS0tSTkg2eEk1RGVWQ1Q5TlR6V3U1R3dkZG51cHBvaVlWaVFBZ1ZTUm9JOVNXOTZYeHVrbjZHNUFBY3RVeGQ5M1d3MUlYMS16RmRad0tpdw?oc=5",
-      "sourceName": "Coin Gabbar",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Coin Gabbar); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-5b763ce14236dd3d7acb",
       "projectId": "ink",
       "project": "Ink",
       "category": "News",
       "title": "Kraken Rolls Out DeFi Lending Vaults for Tokenized Nvidia Stock and Major ETFs - BigGo Finance",
       "status": "Unconfirmed",
-      "date": "2026-09-14",
-      "publishedAt": "2026-09-14T07:00:00Z",
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T07:00:00Z",
       "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xSWxKdENYYUZ6MDBiOWtQakpudFotdU1rUW05NTkxUW1EaGo4dTdDM2wtVVROb2Mza3hETTFGQmZyMEJtUTE0TEg2Mnp3MVZ0NjVFR0ktZXhKZjZCYXFrTk4xVUFhb0d4d1hpVGNvaHBkYzlrUVE?oc=5",
       "sourceName": "BigGo Finance",
       "sourceType": "news-index",
@@ -706,6 +691,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Castle Crypto); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-a8b6964c73f1fd463c9b",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Tether Backs LayerZero in Bet on Cross-Chain Stablecoin Infrastructure - Crypto News Australia",
+      "status": "Unconfirmed",
+      "date": "2026-02-11",
+      "publishedAt": "2026-02-11T08:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaEhNTXZibUYyMDNrb0swZ3RpRk0yQXc1V0FXSkR5TVA2V1dYYVBtTUo2cUNlS041NGdxbWRHVFY5TTBEbzlnT2JYc1Rxc3RNOEdXa2hnMUJCT3NNdFJ5ZXBJc25RajNxd2haTmdPNDNULUZ6WnEwMWtEX0xmRk1LSXY0X0dWZkRSX1hGamF0OHZMVlI1bVZrVFlMWlUzVDZtSE9DQjZiTFNtVXdoT0E?oc=5",
+      "sourceName": "Crypto News Australia",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Crypto News Australia); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-6ace60e728d357c2487e",
@@ -1621,21 +1621,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-952116bb243f30d2bbc3",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Backlash Over Blacklisting of Meme Coins on Sony’s Soneium Blockchain - CoinMarketCap",
-      "status": "Unconfirmed",
-      "date": "2025-01-14",
-      "publishedAt": "2025-01-14T13:52:11Z",
-      "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQWhqWHAxMXFYTlFFMkNVZzVicnZHbDREY3R4dXZTdU8wZlR1X0xQLUs3bXozM3R3N1lCZ1VMTDk0dTYzbmhZZHRwbzl0Y3ZRODlzRjlQV0c5TFpUQV81NFNUckVMWFVSTG1yekgyVU96ZWp1OWtDX3JLNFJjRmpsZDBCSE8yWlRiU1pTUTk4TlhuaUR2WGxZcmZaWkpreWV3SlJNR2dmMTVySWRJTFVZ?oc=5",
-      "sourceName": "CoinMarketCap",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (CoinMarketCap); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-4902f363ca339c070c26",
