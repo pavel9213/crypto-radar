@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T05:40:14Z",
+  "updated_at": "2026-10-31T14:32:12Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -483,21 +483,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-29cfc5e301a9bc29ac75",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "Agentic AI & ‘crypto’: Chocolate & peanut butter, or nuts & gum? - CoinGeek",
-      "status": "Unconfirmed",
-      "date": "2026-06-16",
-      "publishedAt": "2026-06-16T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObnVuY3NyZ2x5N1pYdXpWNVVoY0VUZUpXdjl2NTI0Qkx5Q0QzU2x4NFlFMmFzNXZUbkJ5VVY0NGJ4NUFSZ01RRGdOaW1TYnphYzJTanB5NjUzU2hfdE9aTUprVzh6RHBUb2lVTWI5cEVwYXdLUGtxeWlHUDJta1lPQw?oc=5",
-      "sourceName": "CoinGeek",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (CoinGeek); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-f570194ced1ab5c438dd",
       "projectId": "base",
       "project": "Base",
@@ -676,21 +661,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-d6b9175dc7a0bfb2deaa",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "On-Chain Pivot Robinhood Launches Ethereum L2-Traded Tokenized Stocks - Castle Crypto",
-      "status": "Unconfirmed",
-      "date": "2026-02-11",
-      "publishedAt": "2026-02-11T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR3Bnd3U2V1pYMXN3MHFoSENDRUlqN0tmbUxsN21EdW1XVGhPX0o0eEphNGJWaWhvRXZZRGtzODBnMFNBVDJCT2JQeFcxNlcxMkZkeEdUOWw3cHZ3bWNZdmxwd09CNFN2YkIzbjVlQUs4OFRJRVRWSFVEUnZMamVHU1VBdEV3OU5QODZTYndRTXhRQUxCc1g5azVYMmN4SjBH?oc=5",
-      "sourceName": "Castle Crypto",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Castle Crypto); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-a8b6964c73f1fd463c9b",
@@ -1081,6 +1051,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-79c3b05501583dcc9901",
+      "projectId": "base",
+      "project": "Base",
+      "category": "News",
+      "title": "Shiba Inu Burns 600 Million SHIB In Single Day: What Is Going On? - Yahoo Finance",
+      "status": "Unconfirmed",
+      "date": "2025-07-29",
+      "publishedAt": "2025-07-29T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3QWdRUmNjOWhfX1JvZTlUMGZYOUVIVzZHNzlEd2hHbFlLenAzUzlyV0FCdmh5akttNmlCSW5jSDg0Q1ptcDVjbnBLckdPYl9HUWpEY1FlLVBRcGNZNzlYWV9uTFB6U2lYc2lCanhMRkl0QUtkY3J2THp0ZDZJdw?oc=5",
+      "sourceName": "Yahoo Finance",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Yahoo Finance); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-69a4ba6e1eb3f3706c4e",
@@ -1593,21 +1578,6 @@
       "notes": "Secondary source (CoinGecko); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-5633ad06a0b2d04e8369",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Vitalik Buterin Applauds Sony’s Ethereum L2 Soneium — ‘Great for Businesses and Users’ - CCN.com",
-      "status": "Unconfirmed",
-      "date": "2025-01-16",
-      "publishedAt": "2025-01-16T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOazV5X3dHSEl1N3UyR3NRSXNSMnp0RUhUamtPbEJVZDc3dzNOQkIzOGZpN2dOTGpXVDdHcjJqMU1FU2tMcGp3b0doa0RGSGgyMU8tTWpIVkcwbWZyWUdYYmI3dFd6TjVKcEFTbkp3S2ZkWlhaeVk4SlFBXzBDeDVTUU5UME03RzVlRnRzLUZUSjFCQkQ3VjBoN2o2allxRHhfMkZVM1NaSzJMZjctZWhOR0w3VQ?oc=5",
-      "sourceName": "CCN.com",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (CCN.com); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-a6d984c4c69131628454",
       "projectId": "base",
       "project": "Base",
@@ -1666,6 +1636,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-bbd17af9d001c1b73c4a",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Squidswap Statistics: Markets, Trading Volume & Trust Score - CoinGecko",
+      "status": "Unconfirmed",
+      "date": "2025-01-10",
+      "publishedAt": "2025-01-10T10:45:37Z",
+      "source": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xUHloemVqcENFVW5IWXhLQnMtRzJoM0RmNTRhTVE1ci0zbEtxLS1wSHZ5aWNMV2dUSHFFV0oyVVhNV2Z0YTVkR0EzcDRSeFlsS0k0WHM1OXZYTXhW?oc=5",
+      "sourceName": "CoinGecko",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (CoinGecko); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-047d81d6046d1c62dc0e",
