@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T19:59:04Z",
+  "updated_at": "2026-10-31T23:24:06Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -181,21 +181,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-8ccbd79ec4c5f349320b",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "BTOB, Lee Chae Yeon and More: K-POP IP Goes Onchain With Sony Crypto - TradingView",
-      "status": "Unconfirmed",
-      "date": "2026-09-29",
-      "publishedAt": "2026-09-29T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdTQ1ZlFoSFIyUHJLcVVmdXBiMjZmaEFqNktwbTdsbDBfcmRvNUprTFQzd0ZEeEJmN2daaVA5dV9UWXRMd3VXalBST0x1RUY2SkdvTHFrNUV4aV8taE5OOTBzLVNTT3FsbUZIN28wYVBJbEpwNFU3dGJVUDRLWjdVLXk2OGM4YUJOVjJNdDBvcmxoLThIdmwxVjNPS3k1VjRvTTRETzkta1lpU2NrVEZpYkFaY3JhS2p4cllvSlVSR1NEY0N2dVE?oc=5",
-      "sourceName": "TradingView",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-d9b1f5ada42d15185c91",
