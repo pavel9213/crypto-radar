@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T06:03:38Z",
+  "updated_at": "2026-11-01T15:07:27Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -181,21 +181,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-f0f03131e8dffe80dd6d",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "Partnership",
-      "title": "Soneium and DayOneDream partner to bring K-pop IP onchain - The Next Web",
-      "status": "Unconfirmed",
-      "date": "2026-09-29",
-      "publishedAt": "2026-09-29T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV2Zyclh0R19NNWROSnFvS1ViX2dZTWI3bHpSYVUyclZCZG9CNVJzd0JsaEowZEdUc2xqNjBDeFFVcEdqeE1ZUGNuVENPaWVOZGlPb1RqcjBZd2g5QllMV0pySUpUbG9EVVkwazRmWXZKR2hBT1NkaHNtbXU4NFNZV3JfLVVHc0Zv?oc=5",
-      "sourceName": "The Next Web",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (The Next Web); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-d9b1f5ada42d15185c91",
@@ -1773,21 +1758,6 @@
       "notes": "Secondary source (CoinGape); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-2b0f9000057e3372f454",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Asian Giant Sony Takes on Blockchain - Tiger Research Reports",
-      "status": "Unconfirmed",
-      "date": "2024-10-17",
-      "publishedAt": "2024-10-17T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rZ3dSekkzWEtIVWlCcEJVTEE0VGJyeFlWLTllcXBuTXh4Ny1CTlpEVzBqRkV6b1lSTmRtdXAxZl9aRk5EQUNsSk44QjVKUE5lYnJXM2V5TmtCY3RPMmdBN3hQdzB6cU9IZi1qbmZB?oc=5",
-      "sourceName": "Tiger Research Reports",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Tiger Research Reports); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-236433382bc297a6b074",
       "projectId": "base",
       "project": "Base",
@@ -1878,21 +1848,6 @@
       "notes": "Secondary source (Crypto News Australia); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-4d68b235d1ff0fcd070d",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony bets on Web3 with Soneium blockchain and incubation programme - Developer Tech News",
-      "status": "Unconfirmed",
-      "date": "2024-08-28",
-      "publishedAt": "2024-08-28T11:31:54Z",
-      "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVJRWE9yNktIZVczWEZBZHg4RXNYckJ4ckFLdnlCbzVSNHlXb2tib1A5M3Q2S3U1LUJTcFpINnBfNFJOT1hBYUt3eGNpcmJUcURkXzBsVzJGZzRYaTFBUjlwWmdIcjNfWkVqaFU3c2RkMTdQWjYwRVJubVpJdWlPeC1TYzh2VmJPbE5oaGtEUVJpcE51Q0liWDNuSQ?oc=5",
-      "sourceName": "Developer Tech News",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Developer Tech News); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-620e13b2c6b58e4576b6",
       "projectId": "soneium",
       "project": "Soneium",
@@ -1966,6 +1921,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Binance); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-9a16149061acbe2ecd5e",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Soneium: Sony & Startale's Revolutionary Step Towards Web3 - Coin Gabbar",
+      "status": "Unconfirmed",
+      "date": "2024-08-23",
+      "publishedAt": "2024-08-23T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWWpQMEdKd2Z0Y0dnUHdEODlsS1VVWG0yQlJtSzVFdU9CY2ZqQjdzZWE2QnloWVhNNi12LXVPWHF5UHRSWEpQN1VFRVlMY2VaOHRIQTVOaE05TzYyMThGMWlxT3JVOEZQd3hmUE1QMTFhNlUyZG1TeFhVSERyY2lEMTk0XzAzVzR0ekVn?oc=5",
+      "sourceName": "Coin Gabbar",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Coin Gabbar); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-66292ac97633ecb191c6",
