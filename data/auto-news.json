@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T15:07:27Z",
+  "updated_at": "2026-11-01T20:30:14Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -408,6 +408,21 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
+      "id": "auto-1643a7dc2e4dec2e1edc",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Nado Statistics: Markets, Trading Volume & Trust Score - CoinGecko",
+      "status": "Unconfirmed",
+      "date": "2026-06-10",
+      "publishedAt": "2026-06-10T03:09:21Z",
+      "source": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GenhwMWNjYUphS2ZKbVhLMEpCSGJiekFxYVBUZTBOdzd2eXN4LUV4ZmczMWNTTkdSclZfUkxmRlU0T2xFb0tpZUJoTE9FWjFXLTZQM0hn?oc=5",
+      "sourceName": "CoinGecko",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (CoinGecko); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-f570194ced1ab5c438dd",
       "projectId": "base",
       "project": "Base",
@@ -798,21 +813,6 @@
       "notes": "Secondary source (CoinGape); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-66a61bbcdda193271a19",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Japan's Startale unveils super-app for Sony's Soneium blockchain ecosystem - The Block",
-      "status": "Unconfirmed",
-      "date": "2025-11-11",
-      "publishedAt": "2025-11-11T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMDZDWFVUM2JjLXlSTnItRWZjQ1A1LU9TRTFUQ1VwWnNBYlhEY2pXZDU4dm85QUp0WE1NaGlqdGhsOGJrd1FHOXNKWFJweFV4b1hQYVFIajZUZUlFTFF2X2VEVlRHelJqSWtPQUFZelJpV1VvNWtwU3pHYmpGN0hMdGtGR1ZvbVZFVnFNa3M5WWdkdjV1Umc?oc=5",
-      "sourceName": "The Block",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-711c73b72332920d0bf5",
       "projectId": "base",
       "project": "Base",
@@ -1036,21 +1036,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-f51b3ba3cbf5fb0450e9",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Kraken wants to pay users to name its new mascot for the Ink L2 using JokeRace - The Block",
-      "status": "Unconfirmed",
-      "date": "2025-07-04",
-      "publishedAt": "2025-07-04T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLV9YcEVLdlBnLTZ1WTNqamkzdXplb19ob1B2Y05pbVBRZk1VRGVMQWVtclE0UlpQSTkyRUFlZkVacE1Ld3dXLUVpbnRLcjhjWnVJRDRuWlhDNnZJTzN3dHhPNUpFajN2MUFFa3hITk51MGJZbUxOU0k3OGJyYldjNlZsYlpKeGRkQjNvN0V5OFkyRllDVE9Vbzhpcm1kYW9WWVNvTEtlZjd4bTk1ZXp0Y0RqeUxkdEdhQkZRZEQ0Sl9kaVpVVXhmRlB3?oc=5",
-      "sourceName": "The Block",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-2c362f13c655ea91a794",
