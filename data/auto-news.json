@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T23:24:06Z",
+  "updated_at": "2026-11-01T06:03:38Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -181,6 +181,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-f0f03131e8dffe80dd6d",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "Partnership",
+      "title": "Soneium and DayOneDream partner to bring K-pop IP onchain - The Next Web",
+      "status": "Unconfirmed",
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV2Zyclh0R19NNWROSnFvS1ViX2dZTWI3bHpSYVUyclZCZG9CNVJzd0JsaEowZEdUc2xqNjBDeFFVcEdqeE1ZUGNuVENPaWVOZGlPb1RqcjBZd2g5QllMV0pySUpUbG9EVVkwazRmWXZKR2hBT1NkaHNtbXU4NFNZV3JfLVVHc0Zv?oc=5",
+      "sourceName": "The Next Web",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (The Next Web); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-d9b1f5ada42d15185c91",
@@ -1158,6 +1173,21 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
+      "id": "auto-f2a26d058cb9c86912b6",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Aave goes live on Sony’s Soneium - Crypto News",
+      "status": "Unconfirmed",
+      "date": "2025-06-10",
+      "publishedAt": "2025-06-10T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnZmswU1lLYTdyMUsxRy1uY1QwWkVLR1MxWHNJRkc5TVQ0TkdRTGUtZm1MT2I5eGg5cUpCV0VkVC1qWG85aU9xWDlvNXMtYW9wRUh0aUJCVUlib2NSTjUzYWFB?oc=5",
+      "sourceName": "Crypto News",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Crypto News); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-077cf518cb4bbc4313eb",
       "projectId": "base",
       "project": "Base",
@@ -1171,6 +1201,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-7507c7cd9999ca7519d0",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "Partnership",
+      "title": "Animoca Brands Expands Collaboration with Astar and Sony - ForkLog",
+      "status": "Unconfirmed",
+      "date": "2025-05-21",
+      "publishedAt": "2025-05-21T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVJack40YkRRakljX0tMWWZPY1dfNTFxS2FLVTJkQ2pzempORTRFZUR3Sml6dkFjVmt5clJXTm9YY0dVSTVodm9qcUJlSHRPWFJpWDRmSE9UeTN3YVdaR3ZGTkZ4MUpVZktrTDNrUUI5TjJqYzNCV0lPbHVvUWdGbzN6VmpnTGM?oc=5",
+      "sourceName": "ForkLog",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (ForkLog); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-596f254a0ac364dd8f9e",
