@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T20:30:14Z",
+  "updated_at": "2026-11-02T06:01:12Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -1353,6 +1353,21 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
+      "id": "auto-b1246c47f6adf44a690f",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Japanese Tech Giants Sony and LINE Join Forces in Blockchain Deal - CoinDesk",
+      "status": "Unconfirmed",
+      "date": "2025-03-12",
+      "publishedAt": "2025-03-12T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMFRiWmlsS20wd3FoRWV2WWtFZ0t1UXFQMzNVNHkyNGhfLUc0MFkySmE4dUhzS293TFFZTGQwQVd3ZGRTSHZzcERrdGRGZ0xoR01CSm9zR3JyUkR1UUR0UXpYNjNRTXl4R0hWN3p3UWdjaEJtRDJsMXBqQVplTkFjaTl2aVpzZ0V6TG1hWnExYVJING94RUQ1ODRGZW9yYk81ZjMyT2NvNHRpdw?oc=5",
+      "sourceName": "CoinDesk",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (CoinDesk); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-9de02480b31ef5fb8bd6",
       "projectId": "base",
       "project": "Base",
@@ -1546,6 +1561,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-952116bb243f30d2bbc3",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Backlash Over Blacklisting of Meme Coins on Sony’s Soneium Blockchain - CoinMarketCap",
+      "status": "Unconfirmed",
+      "date": "2025-01-14",
+      "publishedAt": "2025-01-14T13:52:11Z",
+      "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQWhqWHAxMXFYTlFFMkNVZzVicnZHbDREY3R4dXZTdU8wZlR1X0xQLUs3bXozM3R3N1lCZ1VMTDk0dTYzbmhZZHRwbzl0Y3ZRODlzRjlQV0c5TFpUQV81NFNUckVMWFVSTG1yekgyVU96ZWp1OWtDX3JLNFJjRmpsZDBCSE8yWlRiU1pTUTk4TlhuaUR2WGxZcmZaWkpreWV3SlJNR2dmMTVySWRJTFVZ?oc=5",
+      "sourceName": "CoinMarketCap",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (CoinMarketCap); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-4902f363ca339c070c26",
