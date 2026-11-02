@@ -1,19 +1,19 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-02T06:01:12Z
+> Feed updated: 2026-11-02T18:22:00Z
 
 ## Overview
 
-- Total signals: **174**
+- Total signals: **172**
 - Projects represented: **3**
 - Confirmed source-origin items: **113**
-- Unconfirmed items: **61**
+- Unconfirmed items: **59**
 - Rumors: **0**
 
 ## Categories
 
 - Airdrop: 5
-- News: 162
+- News: 160
 - Partnership: 7
 
 ## Latest signals
@@ -24,8 +24,6 @@
   Source: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa3ZQMk5XemdLSEdhRHJsOURmU05zMFNpOTlrTmtRYmxoVEt5QTFGQWttRjJHNzI3bklqX0R5bU5rNnhSQ0d2cTllUkdfazEwSVlLSGgwT0w3R3FpbEx6UExQMmpPZUZzZ3U1S0lHSzVxZ0l0R05JUV9yMzQ0Y1pnRWpJeGNybF9nVTFtRF9RakF1T2dhamczdXRBNU51VV9SM2I0Rjc3cTFrb3dUZVQ5X2hKdmhneW1hVkJIRVJ3alZ1QnJFWGctMm5QODRZckxrdVE?oc=5>
 - **[Confirmed] Base · News · 2026-10-29** — How Shopify brought stablecoin payments to checkout on Base
   Source: <https://base.org/customers/shopify>
-- **[Unconfirmed] Ink · News · 2026-10-28** — ETHUSD Futures Contract (Nov 2026) Trade Ideas — HTX:ETHUSD06X2026 - TradingView
-  Source: <https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzk2cE55clZ2Y0ZaSWxXb3pCX3NFMXVjejAxSTJQNEFYNElsc2NGc1lJNzNnREM0MW5raHNBODdlZUVpb3JOZzF5NzBKT0t3MExlbTBPMUp3ZVB1bUktd2x3ajVkR0xzSU5Pb0x0c2ZzNWY3Y1lUaHJFRjNpT0N2TWRnT3Fyb2hDb1FjTFVRczRaaUhuWkVVNVpqMHplcVU?oc=5>
 - **[Unconfirmed] Soneium · News · 2026-10-27** — Sony’s Soneium Brings Access to $549 Million Royalties Fund Onchain - HackerNoon
   Source: <https://news.google.com/rss/articles/CBMikwFBVV95cUxPY3M3ZldpMlNzYXhNS3NCT2NJWklWa1Z6cE5ObFp2LS0wQS0wM1F1Smt3S254MUZMaHdURHd5NTEzVlZWejYxSmE2WWpqZDJsTVROTWE5VzNTNHdjdUh3OUpzR1U2Njh0MUVhelJWb3NRVWRJLWoxbmx2ZTBSNVltQi15UW1CejVLOW9LaXdUai13SG8?oc=5>
 - **[Unconfirmed] Soneium · News · 2026-10-27** — Sony's Blockchain Plans New Token and AI Royalties. Will It Recover? - Yahoo Finance
@@ -42,14 +40,16 @@
   Source: <https://base.org/customers/ethos>
 - **[Confirmed] Base · News · 2026-09-30** — Introducing Base Cobalt
   Source: <https://base.org/blog/cobalt>
-- **[Unconfirmed] Soneium · News · 2026-09-29** — Soneium Brings K-Pop IP to Blockchain Ecosystem With Dayonedream - Bitcoin News
-  Source: <https://news.google.com/rss/articles/CBMiowFBVV95cUxNMGJ1aVp5S0p3WDdBQjJFMWwyOWc4YzFqc1JvV1RoVDF2aGhhSjRTUndSQVZNamtiR05aOWM1TndXTVAwdmd3eWFEVmtfRUNnUGFiZWhqQThXcDF2bDhqYmgtMGFWT0xKMnpQT1JfQzJHamFlQ09Xbi1FbllDcXRFaE5weDVQaDJQSV90N1FmQUZKRzZ0WF80OVY3eS1Kd0FEMTlZ?oc=5>
+- **[Unconfirmed] Soneium · Partnership · 2026-09-29** — Soneium and DayOneDream partner to tokenize K-pop IP - Crypto News
+  Source: <https://news.google.com/rss/articles/CBMifkFVX3lxTE5WZ0tzODAzandiTllXRkJGUW1RVWFqSVRIZFFkR0pjVUt1UUR4MTAzMWpCeWV4R0J5Rloxci1kMVlNVi1acW1yRHpRMGh6ZXJvMU1jQ1BOVkd0VXZlQ245dDBDaFpNb3FEeGM2aXczUUhNNngxU3VaOGtsWThYdw?oc=5>
 - **[Confirmed] Base · News · 2026-09-29** — How Centrifuge brought the S&P 500® onchain
   Source: <https://base.org/customers/centrifuge>
 - **[Unconfirmed] Soneium · News · 2026-09-28** — Sony-Backed Soneium Partners With DayOneDream to Tokenize K-Pop Revenue - unchainedcrypto.com
   Source: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQajBkQmRXWmx5Z3BaZ3kwMWZCQW5rSkREbWMzN3pibU5IVFFadXJCWHFzeVFWaW1uOHVSTFRjZXNuMnFDQlFlSHJUWlZHR09iVWczb0U3LVl0TEtfTERYbl9WcDdITndMa1FMdmU0U0RZYTZPd0tBOHFBSTJaaG1hUkh1ak5qWEZEa3p4RjdtTVRFVW15RmRIMDYxc0pNWGNJYmc?oc=5>
 - **[Unconfirmed] Ink · News · 2026-09-15** — Kraken Rolls Out DeFi Lending Vaults for Tokenized Nvidia Stock and Major ETFs - BigGo Finance
   Source: <https://news.google.com/rss/articles/CBMidkFVX3lxTE0xSWxKdENYYUZ6MDBiOWtQakpudFotdU1rUW05NTkxUW1EaGo4dTdDM2wtVVROb2Mza3hETTFGQmZyMEJtUTE0TEg2Mnp3MVZ0NjVFR0ktZXhKZjZCYXFrTk4xVUFhb0d4d1hpVGNvaHBkYzlrUVE?oc=5>
+- **[Unconfirmed] Ink · News · 2026-09-15** — Kraken Introduces Yield-Earning Vaults for Tokenized Nvidia (NVDA) Shares and ETFs - Blockonomi
+  Source: <https://news.google.com/rss/articles/CBMipwFBVV95cUxQc0pIcGNYdVlzRlppMF9HdjM3UVYyUDRpR3pNR2JGRmNqUUxsLUc3LXZNM3RMVkZ3SUpzc3g3dW8wYkFzazVTTUh6a3lRcXNDTUdWSlZPM2RXZE1pTml6U0dqMjlqY21teTZtaklOR2pFaWctelFtX25TTFVjZjFCVXZxVEI1RWd4NEYwYWtWc2NsOFpQRk5jUk51UU94bkp3QkJBNm1CSQ?oc=5>
 - **[Confirmed] Base · News · 2026-09-01** — Request for Builders: Tokenized Stocks
   Source: <https://base.org/blog/request-for-builders-tokenized-stocks>
 - **[Confirmed] Base · News · 2026-08-27** — B20: The Standard Behind Tokenized Stocks on Base

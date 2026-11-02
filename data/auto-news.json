@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T06:01:12Z",
+  "updated_at": "2026-11-02T18:22:00Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -46,21 +46,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-a31b7baaf649b3f88aa9",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "ETHUSD Futures Contract (Nov 2026) Trade Ideas — HTX:ETHUSD06X2026 - TradingView",
-      "status": "Unconfirmed",
-      "date": "2026-10-28",
-      "publishedAt": "2026-10-28T14:41:36Z",
-      "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzk2cE55clZ2Y0ZaSWxXb3pCX3NFMXVjejAxSTJQNEFYNElsc2NGc1lJNzNnREM0MW5raHNBODdlZUVpb3JOZzF5NzBKT0t3MExlbTBPMUp3ZVB1bUktd2x3ajVkR0xzSU5Pb0x0c2ZzNWY3Y1lUaHJFRjNpT0N2TWRnT3Fyb2hDb1FjTFVRczRaaUhuWkVVNVpqMHplcVU?oc=5",
-      "sourceName": "TradingView",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-06128ce3a8b777ded6a1",
@@ -183,19 +168,19 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-d9b1f5ada42d15185c91",
+      "id": "auto-70192480a4d067ac58d1",
       "projectId": "soneium",
       "project": "Soneium",
-      "category": "News",
-      "title": "Soneium Brings K-Pop IP to Blockchain Ecosystem With Dayonedream - Bitcoin News",
+      "category": "Partnership",
+      "title": "Soneium and DayOneDream partner to tokenize K-pop IP - Crypto News",
       "status": "Unconfirmed",
       "date": "2026-09-29",
       "publishedAt": "2026-09-29T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMGJ1aVp5S0p3WDdBQjJFMWwyOWc4YzFqc1JvV1RoVDF2aGhhSjRTUndSQVZNamtiR05aOWM1TndXTVAwdmd3eWFEVmtfRUNnUGFiZWhqQThXcDF2bDhqYmgtMGFWT0xKMnpQT1JfQzJHamFlQ09Xbi1FbllDcXRFaE5weDVQaDJQSV90N1FmQUZKRzZ0WF80OVY3eS1Kd0FEMTlZ?oc=5",
-      "sourceName": "Bitcoin News",
+      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WZ0tzODAzandiTllXRkJGUW1RVWFqSVRIZFFkR0pjVUt1UUR4MTAzMWpCeWV4R0J5Rloxci1kMVlNVi1acW1yRHpRMGh6ZXJvMU1jQ1BOVkd0VXZlQ245dDBDaFpNb3FEeGM2aXczUUhNNngxU3VaOGtsWThYdw?oc=5",
+      "sourceName": "Crypto News",
       "sourceType": "news-index",
       "automatic": true,
-      "notes": "Secondary source (Bitcoin News); not an official confirmation. Verify with the project before acting."
+      "notes": "Secondary source (Crypto News); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-af9a493448dcebf12b2d",
@@ -241,6 +226,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (BigGo Finance); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-a631e08ef1de8cf8a103",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Kraken Introduces Yield-Earning Vaults for Tokenized Nvidia (NVDA) Shares and ETFs - Blockonomi",
+      "status": "Unconfirmed",
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc0pIcGNYdVlzRlppMF9HdjM3UVYyUDRpR3pNR2JGRmNqUUxsLUc3LXZNM3RMVkZ3SUpzc3g3dW8wYkFzazVTTUh6a3lRcXNDTUdWSlZPM2RXZE1pTml6U0dqMjlqY21teTZtaklOR2pFaWctelFtX25TTFVjZjFCVXZxVEI1RWd4NEYwYWtWc2NsOFpQRk5jUk51UU94bkp3QkJBNm1CSQ?oc=5",
+      "sourceName": "Blockonomi",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Blockonomi); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-79b44d8cb0af65d4399e",
@@ -648,21 +648,6 @@
       "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-5722be7507b78a7c1c3c",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony Innovation Fund invests $13 million in Soneium co-developer Startale Group, kicking off its Series A fundraising - The Block",
-      "status": "Unconfirmed",
-      "date": "2026-01-28",
-      "publishedAt": "2026-01-28T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT1pBeDVYZ1RxdHpkclc2ekRLZFVpQktmV1VuQ0F5Z3ZYd3d3YTI1bk90NldEay1nZXZOYU1aTzFiaVVSNVExM3pnVjZITHZTQjM2c2pPWC10VjR6bzRiMEszSzl3QkVtZ2FCdkhXUkM0OWF1TnAtVnBKVk80V25iTVdKQ2IzQ1UxNWY4RUFpT1BYTE9ud0Z2dG5ONFpwV0dhbkM0LTh1RU8tY2tjWUVoUHRVZnVfVFBkOEVLN3BmdUEwQ0NlVzF5VkRfQnhkTlk?oc=5",
-      "sourceName": "The Block",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-bea051fceb1928f638bc",
       "projectId": "base",
       "project": "Base",
@@ -931,21 +916,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-197d4dc709e1ed968b45",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony's Soneium rolls out scoring system to track and incentivize user activity on its blockchain - The Block",
-      "status": "Unconfirmed",
-      "date": "2025-08-28",
-      "publishedAt": "2025-08-28T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeVZKNUJUYmdYOTFrT3A0RXppWTVsN1lYbUFhNHFncmtTZHhnRjc0MFprUFJuMkswVEZpMkNuQTVRc0dYOWo0RFJ6VUlJVnZKa1g0Vm5HZGNHa3BtZWFKMjRnVTgxNWVWeHJqcUxKanFBSjlYVWdlRTdPSm1qaEtJbXlmR3B5MmR4Z19zS0RYR0RSWlh0Tm1jM1Rn?oc=5",
-      "sourceName": "The Block",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-03f8ed3fadc39fc501dd",
@@ -1218,21 +1188,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-9fb83723c0a9713c1e88",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "Partnership",
-      "title": "Sony’s Soneium blockchain and Plume partner to offer access to RWA products - The Block",
-      "status": "Unconfirmed",
-      "date": "2025-04-30",
-      "publishedAt": "2025-04-30T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWE1CMmswZ201ajgtcW9abjFIQlhrOVNrc0ZuT2hQODlhUC0zMUJPZzVlbWJTVTlkVnNhUkxVRVM3aHlSQXJfQXFBbjlQSHhyMFZMZnNsdVJ4ckFzeGZkZlVpU3JpOFJQMVV3My04MmZ6eXdvUnduV1N6WTZRb25vNl83Q1VGOC1uQkFjUURuUVAwdkxWN3Y4aGJmUjF4SktSQ1AxN0xxZFVFRGVRaWIyTm5OSDVEdEdRZDNwQk95a2kzdVhfcE05dVZjeUQ?oc=5",
-      "sourceName": "The Block",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-6de07d90e96daf20122d",
       "projectId": "base",
       "project": "Base",
@@ -1246,21 +1201,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-069919bb67131febe2df",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "[YOAKE entertainment] Fundraising Efforts Successfully Bring In ¥180 Million to Build a Next-Generation Entertainment Platform - アソビシステム株式会社",
-      "status": "Unconfirmed",
-      "date": "2025-04-28",
-      "publishedAt": "2025-04-28T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RVzI5aEdKWFRsT05Yd2I1SkhGeTllekJsSjdraTk2VVQzX2xsZjhKbzBsUllFSW5oM2NsbHlzSG9uem41YVJKWWJPUXNRaEU?oc=5",
-      "sourceName": "アソビシステム株式会社",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (アソビシステム株式会社); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-72760a2f0f895ab71fc2",
@@ -1293,19 +1233,19 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-1281879b08957dba15e7",
+      "id": "auto-e5fe31c124a7d3dc63cb",
       "projectId": "soneium",
       "project": "Soneium",
       "category": "News",
-      "title": "Animoca Brands Partners With Soneium by Sony Block Solutions Labs to Develop Moca Network’s Identity Layer - FF News",
+      "title": "Sony’s Soneium blockchain teams up with Animoca Brands - GamesBeat",
       "status": "Unconfirmed",
-      "date": "2025-03-28",
-      "publishedAt": "2025-03-28T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWXZWbjFuMFk2T0d5X1ROWEk2NFJ2RGxrS3dYU3ZZcDdGclE5YWVFWXNBWlNjRjdLUlRNRHJ0d2R6djEyMVd2UmpPeU0yeGFfMjVreUs1ZW81Q08tS0JVVlI4WlpjaHpwdDROMzFUNUNVNDVSd3NnTXZWU2d1Z1FCR3BQQW5KdEpxdVAzZUtldnNHYVZaOThuU3N3bW94VFNfWjZFdVhXWXBKYW5pblBYbllFeFpSWUVZZXUwSG5TcmlsaXhFdXllYQ?oc=5",
-      "sourceName": "FF News",
+      "date": "2025-03-27",
+      "publishedAt": "2025-03-27T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaDJmWnc4cDN3ZE5FSjJpMlk0aE5EbGZ0eWxFUzlmcWlpWGxCbF83dWxUc29CeHJzSW1maHBTYXVucm9qVmZkUnZCZElsMlk0UnBoRHZ2TEEzRlBYMmVEUWE2d0pmNVFrMUhGNXpnVmFKMW9wV3ZxUFJ1anZQSDFLWVVB?oc=5",
+      "sourceName": "GamesBeat",
       "sourceType": "news-index",
       "automatic": true,
-      "notes": "Secondary source (FF News); not an official confirmation. Verify with the project before acting."
+      "notes": "Secondary source (GamesBeat); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-768446623cd29fa41881",
@@ -1863,6 +1803,21 @@
       "notes": "Secondary source (Crypto News Australia); not an official confirmation. Verify with the project before acting."
     },
     {
+      "id": "auto-4d68b235d1ff0fcd070d",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony bets on Web3 with Soneium blockchain and incubation programme - Developer Tech News",
+      "status": "Unconfirmed",
+      "date": "2024-08-28",
+      "publishedAt": "2024-08-28T11:31:54Z",
+      "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVJRWE9yNktIZVczWEZBZHg4RXNYckJ4ckFLdnlCbzVSNHlXb2tib1A5M3Q2S3U1LUJTcFpINnBfNFJOT1hBYUt3eGNpcmJUcURkXzBsVzJGZzRYaTFBUjlwWmdIcjNfWkVqaFU3c2RkMTdQWjYwRVJubVpJdWlPeC1TYzh2VmJPbE5oaGtEUVJpcE51Q0liWDNuSQ?oc=5",
+      "sourceName": "Developer Tech News",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Developer Tech News); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-620e13b2c6b58e4576b6",
       "projectId": "soneium",
       "project": "Soneium",
@@ -2236,6 +2191,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-2d7abdc754ca3122f178",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "How to Develop Smart Contracts with Ink - YouTube",
+      "status": "Unconfirmed",
+      "date": "2023-11-18",
+      "publishedAt": "2023-11-18T08:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PT05BZDdhMHdUcGpMQkd6Sk5VY3RfTW5hU1dwZTY5aHFlMXlEZGJyMjluRld1UlI0anRMVjRxNGc5UFBXcy1wZHZmVG1rZGkzdmtpWElkbjVJQ2Zp?oc=5",
+      "sourceName": "YouTube",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (YouTube); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-387d29370a1fd3eeb389",
