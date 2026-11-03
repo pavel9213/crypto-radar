@@ -1,6 +1,6 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-03T02:18:18Z
+> Feed updated: 2026-11-03T11:56:25Z
 
 ## Overview
 
@@ -13,8 +13,8 @@
 ## Categories
 
 - Airdrop: 5
-- News: 160
-- Partnership: 7
+- News: 159
+- Partnership: 8
 
 ## Latest signals
 
@@ -42,6 +42,8 @@
   Source: <https://base.org/blog/cobalt>
 - **[Unconfirmed] Soneium · Partnership · 2026-09-29** — Soneium and DayOneDream partner to tokenize K-pop IP - Crypto News
   Source: <https://news.google.com/rss/articles/CBMifkFVX3lxTE5WZ0tzODAzandiTllXRkJGUW1RVWFqSVRIZFFkR0pjVUt1UUR4MTAzMWpCeWV4R0J5Rloxci1kMVlNVi1acW1yRHpRMGh6ZXJvMU1jQ1BOVkd0VXZlQ245dDBDaFpNb3FEeGM2aXczUUhNNngxU3VaOGtsWThYdw?oc=5>
+- **[Unconfirmed] Soneium · News · 2026-09-29** — BTOB, Lee Chae Yeon and More: K-POP IP Goes Onchain With Sony Crypto - TradingView
+  Source: <https://news.google.com/rss/articles/CBMixgFBVV95cUxNdTQ1ZlFoSFIyUHJLcVVmdXBiMjZmaEFqNktwbTdsbDBfcmRvNUprTFQzd0ZEeEJmN2daaVA5dV9UWXRMd3VXalBST0x1RUY2SkdvTHFrNUV4aV8taE5OOTBzLVNTT3FsbUZIN28wYVBJbEpwNFU3dGJVUDRLWjdVLXk2OGM4YUJOVjJNdDBvcmxoLThIdmwxVjNPS3k1VjRvTTRETzkta1lpU2NrVEZpYkFaY3JhS2p4cllvSlVSR1NEY0N2dVE?oc=5>
 - **[Confirmed] Base · News · 2026-09-29** — How Centrifuge brought the S&P 500® onchain
   Source: <https://base.org/customers/centrifuge>
 - **[Unconfirmed] Soneium · News · 2026-09-28** — Sony-Backed Soneium Partners With DayOneDream to Tokenize K-Pop Revenue - unchainedcrypto.com
@@ -56,8 +58,6 @@
   Source: <https://base.org/blog/b20-tokenized-stocks-on-base>
 - **[Confirmed] Base · News · 2026-08-27** — How Bitwise brought portfolio design onchain
   Source: <https://base.org/customers/bitwise>
-- **[Unconfirmed] Ink · News · 2026-08-24** — Ink Chain Guide for Beginners: How to Get Started With Kraken’s Ethereum Layer 2 - Gizmo Times
-  Source: <https://news.google.com/rss/articles/CBMikgFBVV95cUxNRF9TNzc2TE1wc01lRU9ucHBDT0VOSDhqRFplaFduNDdiNWdoTkw2QWkwRU81ZExHcEN4YlM2WGg2N250RzRBS2VEb1NQb0VVNkFHckpTY0hiVGVFOVBTXzNUQzFlYldHaExXWUhIY3pHRnl3QWNvUWUzQ21jM2h1TXYwQWdsdGdpcGgza1F4bnBxdw?oc=5>
 
 ---
 Automatically generated from data/auto-news.json. Labels indicate source confidence, not investment advice.

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T02:18:18Z",
+  "updated_at": "2026-11-03T11:56:25Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -181,6 +181,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Crypto News); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-8ccbd79ec4c5f349320b",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "BTOB, Lee Chae Yeon and More: K-POP IP Goes Onchain With Sony Crypto - TradingView",
+      "status": "Unconfirmed",
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdTQ1ZlFoSFIyUHJLcVVmdXBiMjZmaEFqNktwbTdsbDBfcmRvNUprTFQzd0ZEeEJmN2daaVA5dV9UWXRMd3VXalBST0x1RUY2SkdvTHFrNUV4aV8taE5OOTBzLVNTT3FsbUZIN28wYVBJbEpwNFU3dGJVUDRLWjdVLXk2OGM4YUJOVjJNdDBvcmxoLThIdmwxVjNPS3k1VjRvTTRETzkta1lpU2NrVEZpYkFaY3JhS2p4cllvSlVSR1NEY0N2dVE?oc=5",
+      "sourceName": "TradingView",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-af9a493448dcebf12b2d",
@@ -603,6 +618,21 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
+      "id": "auto-d6b9175dc7a0bfb2deaa",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "On-Chain Pivot Robinhood Launches Ethereum L2-Traded Tokenized Stocks - Castle Crypto",
+      "status": "Unconfirmed",
+      "date": "2026-02-11",
+      "publishedAt": "2026-02-11T08:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR3Bnd3U2V1pYMXN3MHFoSENDRUlqN0tmbUxsN21EdW1XVGhPX0o0eEphNGJWaWhvRXZZRGtzODBnMFNBVDJCT2JQeFcxNlcxMkZkeEdUOWw3cHZ3bWNZdmxwd09CNFN2YkIzbjVlQUs4OFRJRVRWSFVEUnZMamVHU1VBdEV3OU5QODZTYndRTXhRQUxCc1g5azVYMmN4SjBH?oc=5",
+      "sourceName": "Castle Crypto",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Castle Crypto); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-a8b6964c73f1fd463c9b",
       "projectId": "ink",
       "project": "Ink",
@@ -856,21 +886,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Bitget); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-1def45c7c167448c4c60",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Coinbase-incubated Base network 'beginning to explore' native token, creator Jesse Pollak says - The Block",
-      "status": "Unconfirmed",
-      "date": "2025-09-15",
-      "publishedAt": "2025-09-15T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWGRPdGdCemRWeG1CejdXQ1NSVUJNUVFtRTN5T1AwUUVGbU1yTzQ5dV9CV1RZUFM4NGVyYnZnYloxSnFBSzY5WHRDSUVWNFotczhxQmd5RXZyd1Q5Znc2SmFJRzR5N2dJTnpIanY1QTAtWV9CZG5hYnM4aEpMVTB4Z3E5Yl82eUswNUl4MzNuN1l6a2ZLTXdnYUpqMlVQUFJzbUFTT3MzWklfRDVvcVBJOU1RQk9rUEVrUlhfQjAwWXZUN3QzXzJJV1FOS1phaGlXZ2VfdHdmeXRHZG1UbFZyb2VkRQ?oc=5",
-      "sourceName": "The Block",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-e981dc900f5fa9dd4f34",
@@ -1848,21 +1863,6 @@
       "notes": "Secondary source (Technology Magazine); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-c22b4d2b2f83e5979015",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony Pictures and Music to Help Launch Incubator for Web3 Push - The Hollywood Reporter",
-      "status": "Unconfirmed",
-      "date": "2024-08-27",
-      "publishedAt": "2024-08-27T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZzlNVE9RRnFkVjRhQ0pHN2pid0pwSk1jVkxLRTlJTGJUUXZPc2xqSTdSWWQ2aTRKWF8wamwtNXFZMnhsdUp3UXBfSjZZcUQwMzByM1Q1aVZYRDJXQlJnVkdualZtWll1dkdCdC1MX0tqS0hkMktISnE2Ti1aQ2hDLXZKcFpicy1EZ3A0U1ZId0c4QTE1RkhPQi1rZV9NVVBBeG1PMlVVa0J3cWRKaTVHbUp2bWNhaThHdjczNU5fY2w?oc=5",
-      "sourceName": "The Hollywood Reporter",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (The Hollywood Reporter); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-dc0f4e0b48cc65f7e380",
       "projectId": "soneium",
       "project": "Soneium",
@@ -2191,21 +2191,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-2d7abdc754ca3122f178",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "How to Develop Smart Contracts with Ink - YouTube",
-      "status": "Unconfirmed",
-      "date": "2023-11-18",
-      "publishedAt": "2023-11-18T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PT05BZDdhMHdUcGpMQkd6Sk5VY3RfTW5hU1dwZTY5aHFlMXlEZGJyMjluRld1UlI0anRMVjRxNGc5UFBXcy1wZHZmVG1rZGkzdmtpWElkbjVJQ2Zp?oc=5",
-      "sourceName": "YouTube",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (YouTube); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-387d29370a1fd3eeb389",
@@ -2581,6 +2566,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-ba7d3af33f579155e8d1",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "Partnership",
+      "title": "Samsung SDS, Credorax ink blockchain-based financial services partnership - The Korea Herald",
+      "status": "Unconfirmed",
+      "date": "2020-03-04",
+      "publishedAt": "2020-03-04T08:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rZVF2ODFjdHpjZm9naXNHbU1CVW96YklHa2xJRDFWVXY3MEJxVXZ2MTJSX19oU1dGNzNWekpCU3hjVHF5V2JmZGpnUmJ5a1libU9zcEZB?oc=5",
+      "sourceName": "The Korea Herald",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (The Korea Herald); not an official confirmation. Verify with the project before acting."
     }
   ]
 }
