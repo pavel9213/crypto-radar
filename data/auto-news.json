@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T18:22:00Z",
+  "updated_at": "2026-11-03T02:18:18Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -1548,21 +1548,6 @@
       "notes": "Secondary source (BeInCrypto); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-377e8419709937608e31",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony’s public blockchain platform Soneium launches on mainnet - The Block",
-      "status": "Unconfirmed",
-      "date": "2025-01-13",
-      "publishedAt": "2025-01-13T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGZCSjVHaE9sOFVFTjZ1ek92VW15YjRnVlp6SnRvdEZybUtwdHlfMlFFQnV4Q0dLUzA2S192RlBUWlVQa0VWUWRMU3NiTkR0LWxjaEZsTW9rT0J2c2UwZFk0ZE5ReVJ6STJWeHZyYVZhMXA3czRna0tib1A2MkpGT3JyQmJ0OTFGbFNJT0FfdVZCZzVWS1hnU0FwcnV0UlpCd1hIeUh2N1NsbDZGNmFJVGx1dEE2T1U?oc=5",
-      "sourceName": "The Block",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-bbd17af9d001c1b73c4a",
       "projectId": "ink",
       "project": "Ink",
@@ -1861,6 +1846,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Technology Magazine); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-c22b4d2b2f83e5979015",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony Pictures and Music to Help Launch Incubator for Web3 Push - The Hollywood Reporter",
+      "status": "Unconfirmed",
+      "date": "2024-08-27",
+      "publishedAt": "2024-08-27T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZzlNVE9RRnFkVjRhQ0pHN2pid0pwSk1jVkxLRTlJTGJUUXZPc2xqSTdSWWQ2aTRKWF8wamwtNXFZMnhsdUp3UXBfSjZZcUQwMzByM1Q1aVZYRDJXQlJnVkdualZtWll1dkdCdC1MX0tqS0hkMktISnE2Ti1aQ2hDLXZKcFpicy1EZ3A0U1ZId0c4QTE1RkhPQi1rZV9NVVBBeG1PMlVVa0J3cWRKaTVHbUp2bWNhaThHdjczNU5fY2w?oc=5",
+      "sourceName": "The Hollywood Reporter",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (The Hollywood Reporter); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-dc0f4e0b48cc65f7e380",
