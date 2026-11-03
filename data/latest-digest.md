@@ -1,19 +1,19 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-03T11:56:25Z
+> Feed updated: 2026-11-03T19:29:24Z
 
 ## Overview
 
-- Total signals: **172**
+- Total signals: **173**
 - Projects represented: **3**
 - Confirmed source-origin items: **113**
-- Unconfirmed items: **59**
+- Unconfirmed items: **60**
 - Rumors: **0**
 
 ## Categories
 
 - Airdrop: 5
-- News: 159
+- News: 160
 - Partnership: 8
 
 ## Latest signals
@@ -26,8 +26,10 @@
   Source: <https://base.org/customers/shopify>
 - **[Unconfirmed] Soneium · News · 2026-10-27** — Sony’s Soneium Brings Access to $549 Million Royalties Fund Onchain - HackerNoon
   Source: <https://news.google.com/rss/articles/CBMikwFBVV95cUxPY3M3ZldpMlNzYXhNS3NCT2NJWklWa1Z6cE5ObFp2LS0wQS0wM1F1Smt3S254MUZMaHdURHd5NTEzVlZWejYxSmE2WWpqZDJsTVROTWE5VzNTNHdjdUh3OUpzR1U2Njh0MUVhelJWb3NRVWRJLWoxbmx2ZTBSNVltQi15UW1CejVLOW9LaXdUai13SG8?oc=5>
-- **[Unconfirmed] Soneium · News · 2026-10-27** — Sony's Blockchain Plans New Token and AI Royalties. Will It Recover? - Yahoo Finance
+- **[Unconfirmed] Soneium · News · 2026-10-26** — Sony's Blockchain Plans New Token and AI Royalties. Will It Recover? - Yahoo Finance
   Source: <https://news.google.com/rss/articles/CBMimwFBVV95cUxPYlU0NWNFTVBLRGxVM2x0cmRWQzFRUTBzMjFDdVlha29oeWs3VWh4bWJQeHVYVUt4bTNwMDJPYUkxUll0UWtuVkNiOERDb3B2bUVMdzRScWhVLW1iUm9RR2RzVkIzZlRYcVU2eElTYVY4RUJCaFBQUHh6S1o2ek1pSmIzc2pET1RtckYzc2luMWRxWFZBTXY3N3lpbw?oc=5>
+- **[Unconfirmed] Soneium · News · 2026-10-26** — Sony-backed Soneium shifts to tokenized IP econ... - Pluang
+  Source: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQM3RtaFJkNHZ3cFRhaVI4QlVieTJGN2dHN1dEQUx2VGs0Z0FnOUN6MkVOOFJtNHF0dDg0bTk3TXliTmJJbWhhb0d6N2RzZ0ZvWUNOdFJ1cm5FVTdjcHI0bFduSEhDOG5RaUNkaExkT2Vod3g0QklEbEU3OWJJNlc1cEhzdFVndnFYRGFKYTFIbw?oc=5>
 - **[Confirmed] Base · News · 2026-10-22** — How Aave unlocked stock-backed loans on Base
   Source: <https://base.org/customers/aave>
 - **[Unconfirmed] Base · News · 2026-10-21** — The Coinbase Bull Case Comes Down to One Very Big Number - 24/7 Wall St.
@@ -56,8 +58,6 @@
   Source: <https://base.org/blog/request-for-builders-tokenized-stocks>
 - **[Confirmed] Base · News · 2026-08-27** — B20: The Standard Behind Tokenized Stocks on Base
   Source: <https://base.org/blog/b20-tokenized-stocks-on-base>
-- **[Confirmed] Base · News · 2026-08-27** — How Bitwise brought portfolio design onchain
-  Source: <https://base.org/customers/bitwise>
 
 ---
 Automatically generated from data/auto-news.json. Labels indicate source confidence, not investment advice.
