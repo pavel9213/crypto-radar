@@ -1,29 +1,33 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-04T12:08:14Z
+> Feed updated: 2026-11-04T19:44:52Z
 
 ## Overview
 
-- Total signals: **177**
+- Total signals: **179**
 - Projects represented: **3**
-- Confirmed source-origin items: **114**
-- Unconfirmed items: **63**
+- Confirmed source-origin items: **115**
+- Unconfirmed items: **64**
 - Rumors: **0**
 
 ## Categories
 
 - Airdrop: 5
-- News: 164
+- News: 166
 - Partnership: 8
 
 ## Latest signals
 
+- **[Confirmed] Base · News · 2026-11-04** — How Spiko makes yield universal on Base
+  Source: <https://base.org/customers/spiko>
 - **[Confirmed] Base · News · 2026-11-03** — Meet the Base Batches 004 cohort
   Source: <https://base.org/blog/base-batches-004-cohort>
 - **[Unconfirmed] Soneium · News · 2026-10-30** — 7 Best Crypto Presales as Sony Launches a Soneium Incubation Program for Creators - openPR.com
   Source: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPWFJ3bmI4cG1XRXBmWWpHRkxUZ01QaUc4bkk5dmRMUWdiczFqVDIxUlBkbElQRlJwNjB0U1BZSU5FaEVQa1FXTnN2amlEV1N3M09YTnBERENxSDNQUWVWWVllcVRJZXp5X29MVHhIT2hKcTJnZVhNSjBFblI3VnprNU54aXJhdktlWmxsZWNUd3U2SFMwYVFuQ01vbFU?oc=5>
 - **[Unconfirmed] Soneium · News · 2026-10-29** — Sony launches Soneium program, giving Sony Group stock a new digital angle - ad-hoc-news.de
   Source: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa3ZQMk5XemdLSEdhRHJsOURmU05zMFNpOTlrTmtRYmxoVEt5QTFGQWttRjJHNzI3bklqX0R5bU5rNnhSQ0d2cTllUkdfazEwSVlLSGgwT0w3R3FpbEx6UExQMmpPZUZzZ3U1S0lHSzVxZ0l0R05JUV9yMzQ0Y1pnRWpJeGNybF9nVTFtRF9RakF1T2dhamczdXRBNU51VV9SM2I0Rjc3cTFrb3dUZVQ5X2hKdmhneW1hVkJIRVJ3alZ1QnJFWGctMm5QODRZckxrdVE?oc=5>
+- **[Unconfirmed] Soneium · News · 2026-10-29** — Sony Launches Global Soneium Incubation Program For Onchain Entertainment Startups - OneBullEx
+  Source: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQWR4SHBmMnd0b0QzRzJuQzZ5b0tUc2JqRmUwcnpnaHczVmFGX2c1eWVtQmhCWXd6c05aYzFSVEROdzd6WHoxM3l3YVJuQ2VEWmpQZ3VtZU01Ukp1bXR4T0FfZHRyQXh4QWVRZU5JU1dSbE5zLTRoSVVwWS1WTThnV2VaTmpWcXVnWTYwYmM4THY0R2o2T1ljemJjeDRWY3k0MlQxalhGeWV0RHdPRHN5VDE0Rkt0clNlMUhORzdKa2k0QQ?oc=5>
 - **[Confirmed] Base · News · 2026-10-29** — How Shopify brought stablecoin payments to checkout on Base
   Source: <https://base.org/customers/shopify>
 - **[Unconfirmed] Soneium · News · 2026-10-27** — Sony’s Soneium Brings Access to $549 Million Royalties Fund Onchain - HackerNoon
@@ -54,10 +58,6 @@
   Source: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQajBkQmRXWmx5Z3BaZ3kwMWZCQW5rSkREbWMzN3pibU5IVFFadXJCWHFzeVFWaW1uOHVSTFRjZXNuMnFDQlFlSHJUWlZHR09iVWczb0U3LVl0TEtfTERYbl9WcDdITndMa1FMdmU0U0RZYTZPd0tBOHFBSTJaaG1hUkh1ak5qWEZEa3p4RjdtTVRFVW15RmRIMDYxc0pNWGNJYmc?oc=5>
 - **[Unconfirmed] Ink · News · 2026-09-15** — Kraken Rolls Out DeFi Lending Vaults for Tokenized Nvidia Stock and Major ETFs - BigGo Finance
   Source: <https://news.google.com/rss/articles/CBMidkFVX3lxTE0xSWxKdENYYUZ6MDBiOWtQakpudFotdU1rUW05NTkxUW1EaGo4dTdDM2wtVVROb2Mza3hETTFGQmZyMEJtUTE0TEg2Mnp3MVZ0NjVFR0ktZXhKZjZCYXFrTk4xVUFhb0d4d1hpVGNvaHBkYzlrUVE?oc=5>
-- **[Unconfirmed] Ink · News · 2026-09-15** — Kraken Introduces Yield-Earning Vaults for Tokenized Nvidia (NVDA) Shares and ETFs - Blockonomi
-  Source: <https://news.google.com/rss/articles/CBMipwFBVV95cUxQc0pIcGNYdVlzRlppMF9HdjM3UVYyUDRpR3pNR2JGRmNqUUxsLUc3LXZNM3RMVkZ3SUpzc3g3dW8wYkFzazVTTUh6a3lRcXNDTUdWSlZPM2RXZE1pTml6U0dqMjlqY21teTZtaklOR2pFaWctelFtX25TTFVjZjFCVXZxVEI1RWd4NEYwYWtWc2NsOFpQRk5jUk51UU94bkp3QkJBNm1CSQ?oc=5>
-- **[Unconfirmed] Ink · News · 2026-09-15** — Uniswap Burns 592K Tokens in a Week New All-Time High Next? - Coin Gabbar
-  Source: <https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZT0Zkam14OEJodThhT2ZHajR2TlpBZnVZUzdGWlZiNEZ6a1dkRnpRS0tSTkg2eEk1RGVWQ1Q5TlR6V3U1R3dkZG51cHBvaVlWaVFBZ1ZTUm9JOVNXOTZYeHVrbjZHNUFBY3RVeGQ5M1d3MUlYMS16RmRad0tpdw?oc=5>
 
 ---
 Automatically generated from data/auto-news.json. Labels indicate source confidence, not investment advice.

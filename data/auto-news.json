@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-04T12:08:14Z",
+  "updated_at": "2026-11-04T19:44:52Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
+    {
+      "id": "auto-17675145e852bac34e5a",
+      "projectId": "base",
+      "project": "Base",
+      "category": "News",
+      "title": "How Spiko makes yield universal on Base",
+      "status": "Confirmed",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "source": "https://base.org/customers/spiko",
+      "sourceName": "base.org",
+      "sourceType": "official",
+      "automatic": true,
+      "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
     {
       "id": "auto-f56fe06c6ae7a31cd722",
       "projectId": "base",
@@ -46,6 +61,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (ad-hoc-news.de); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-7545daf0a4f4c34e9617",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony Launches Global Soneium Incubation Program For Onchain Entertainment Startups - OneBullEx",
+      "status": "Unconfirmed",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T10:33:44Z",
+      "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQWR4SHBmMnd0b0QzRzJuQzZ5b0tUc2JqRmUwcnpnaHczVmFGX2c1eWVtQmhCWXd6c05aYzFSVEROdzd6WHoxM3l3YVJuQ2VEWmpQZ3VtZU01Ukp1bXR4T0FfZHRyQXh4QWVRZU5JU1dSbE5zLTRoSVVwWS1WTThnV2VaTmpWcXVnWTYwYmM4THY0R2o2T1ljemJjeDRWY3k0MlQxalhGeWV0RHdPRHN5VDE0Rkt0clNlMUhORzdKa2k0QQ?oc=5",
+      "sourceName": "OneBullEx",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (OneBullEx); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-a101dd600e08be3a2405",
