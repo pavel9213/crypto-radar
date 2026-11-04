@@ -1,23 +1,25 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-03T19:29:24Z
+> Feed updated: 2026-11-04T00:36:25Z
 
 ## Overview
 
-- Total signals: **173**
+- Total signals: **175**
 - Projects represented: **3**
-- Confirmed source-origin items: **113**
-- Unconfirmed items: **60**
+- Confirmed source-origin items: **114**
+- Unconfirmed items: **61**
 - Rumors: **0**
 
 ## Categories
 
 - Airdrop: 5
-- News: 160
+- News: 162
 - Partnership: 8
 
 ## Latest signals
 
+- **[Confirmed] Base · News · 2026-11-03** — Meet the Base Batches 004 cohort
+  Source: <https://base.org/blog/base-batches-004-cohort>
 - **[Unconfirmed] Soneium · News · 2026-10-30** — 7 Best Crypto Presales as Sony Launches a Soneium Incubation Program for Creators - openPR.com
   Source: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPWFJ3bmI4cG1XRXBmWWpHRkxUZ01QaUc4bkk5dmRMUWdiczFqVDIxUlBkbElQRlJwNjB0U1BZSU5FaEVQa1FXTnN2amlEV1N3M09YTnBERENxSDNQUWVWWVllcVRJZXp5X29MVHhIT2hKcTJnZVhNSjBFblI3VnprNU54aXJhdktlWmxsZWNUd3U2SFMwYVFuQ01vbFU?oc=5>
 - **[Unconfirmed] Soneium · News · 2026-10-29** — Sony launches Soneium program, giving Sony Group stock a new digital angle - ad-hoc-news.de
@@ -54,10 +56,8 @@
   Source: <https://news.google.com/rss/articles/CBMidkFVX3lxTE0xSWxKdENYYUZ6MDBiOWtQakpudFotdU1rUW05NTkxUW1EaGo4dTdDM2wtVVROb2Mza3hETTFGQmZyMEJtUTE0TEg2Mnp3MVZ0NjVFR0ktZXhKZjZCYXFrTk4xVUFhb0d4d1hpVGNvaHBkYzlrUVE?oc=5>
 - **[Unconfirmed] Ink · News · 2026-09-15** — Kraken Introduces Yield-Earning Vaults for Tokenized Nvidia (NVDA) Shares and ETFs - Blockonomi
   Source: <https://news.google.com/rss/articles/CBMipwFBVV95cUxQc0pIcGNYdVlzRlppMF9HdjM3UVYyUDRpR3pNR2JGRmNqUUxsLUc3LXZNM3RMVkZ3SUpzc3g3dW8wYkFzazVTTUh6a3lRcXNDTUdWSlZPM2RXZE1pTml6U0dqMjlqY21teTZtaklOR2pFaWctelFtX25TTFVjZjFCVXZxVEI1RWd4NEYwYWtWc2NsOFpQRk5jUk51UU94bkp3QkJBNm1CSQ?oc=5>
-- **[Confirmed] Base · News · 2026-09-01** — Request for Builders: Tokenized Stocks
-  Source: <https://base.org/blog/request-for-builders-tokenized-stocks>
-- **[Confirmed] Base · News · 2026-08-27** — B20: The Standard Behind Tokenized Stocks on Base
-  Source: <https://base.org/blog/b20-tokenized-stocks-on-base>
+- **[Unconfirmed] Ink · News · 2026-09-15** — Uniswap Burns 592K Tokens in a Week New All-Time High Next? - Coin Gabbar
+  Source: <https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZT0Zkam14OEJodThhT2ZHajR2TlpBZnVZUzdGWlZiNEZ6a1dkRnpRS0tSTkg2eEk1RGVWQ1Q5TlR6V3U1R3dkZG51cHBvaVlWaVFBZ1ZTUm9JOVNXOTZYeHVrbjZHNUFBY3RVeGQ5M1d3MUlYMS16RmRad0tpdw?oc=5>
 
 ---
 Automatically generated from data/auto-news.json. Labels indicate source confidence, not investment advice.

@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-03T19:29:24Z",
+  "updated_at": "2026-11-04T00:36:25Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
+    {
+      "id": "auto-f56fe06c6ae7a31cd722",
+      "projectId": "base",
+      "project": "Base",
+      "category": "News",
+      "title": "Meet the Base Batches 004 cohort",
+      "status": "Confirmed",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T00:00:00Z",
+      "source": "https://base.org/blog/base-batches-004-cohort",
+      "sourceName": "base.org",
+      "sourceType": "official",
+      "automatic": true,
+      "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
     {
       "id": "auto-39b0d1554e9c1a2bb79c",
       "projectId": "soneium",
@@ -273,6 +288,21 @@
       "notes": "Secondary source (Blockonomi); not an official confirmation. Verify with the project before acting."
     },
     {
+      "id": "auto-dc25a8748dce0b754337",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Uniswap Burns 592K Tokens in a Week New All-Time High Next? - Coin Gabbar",
+      "status": "Unconfirmed",
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZT0Zkam14OEJodThhT2ZHajR2TlpBZnVZUzdGWlZiNEZ6a1dkRnpRS0tSTkg2eEk1RGVWQ1Q5TlR6V3U1R3dkZG51cHBvaVlWaVFBZ1ZTUm9JOVNXOTZYeHVrbjZHNUFBY3RVeGQ5M1d3MUlYMS16RmRad0tpdw?oc=5",
+      "sourceName": "Coin Gabbar",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Coin Gabbar); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-79b44d8cb0af65d4399e",
       "projectId": "base",
       "project": "Base",
@@ -436,21 +466,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-1643a7dc2e4dec2e1edc",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Nado Statistics: Markets, Trading Volume & Trust Score - CoinGecko",
-      "status": "Unconfirmed",
-      "date": "2026-06-10",
-      "publishedAt": "2026-06-10T03:09:21Z",
-      "source": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GenhwMWNjYUphS2ZKbVhLMEpCSGJiekFxYVBUZTBOdzd2eXN4LUV4ZmczMWNTTkdSclZfUkxmRlU0T2xFb0tpZUJoTE9FWjFXLTZQM0hn?oc=5",
-      "sourceName": "CoinGecko",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (CoinGecko); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-f570194ced1ab5c438dd",
@@ -901,6 +916,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Bitget); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-1def45c7c167448c4c60",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Coinbase-incubated Base network 'beginning to explore' native token, creator Jesse Pollak says - The Block",
+      "status": "Unconfirmed",
+      "date": "2025-09-15",
+      "publishedAt": "2025-09-15T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWGRPdGdCemRWeG1CejdXQ1NSVUJNUVFtRTN5T1AwUUVGbU1yTzQ5dV9CV1RZUFM4NGVyYnZnYloxSnFBSzY5WHRDSUVWNFotczhxQmd5RXZyd1Q5Znc2SmFJRzR5N2dJTnpIanY1QTAtWV9CZG5hYnM4aEpMVTB4Z3E5Yl82eUswNUl4MzNuN1l6a2ZLTXdnYUpqMlVQUFJzbUFTT3MzWklfRDVvcVBJOU1RQk9rUEVrUlhfQjAwWXZUN3QzXzJJV1FOS1phaGlXZ2VfdHdmeXRHZG1UbFZyb2VkRQ?oc=5",
+      "sourceName": "The Block",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-e981dc900f5fa9dd4f34",
@@ -1578,21 +1608,6 @@
       "notes": "Secondary source (BeInCrypto); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-bbd17af9d001c1b73c4a",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Squidswap Statistics: Markets, Trading Volume & Trust Score - CoinGecko",
-      "status": "Unconfirmed",
-      "date": "2025-01-10",
-      "publishedAt": "2025-01-10T10:45:37Z",
-      "source": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xUHloemVqcENFVW5IWXhLQnMtRzJoM0RmNTRhTVE1ci0zbEtxLS1wSHZ5aWNMV2dUSHFFV0oyVVhNV2Z0YTVkR0EzcDRSeFlsS0k0WHM1OXZYTXhW?oc=5",
-      "sourceName": "CoinGecko",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (CoinGecko); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-047d81d6046d1c62dc0e",
       "projectId": "base",
       "project": "Base",
@@ -1876,6 +1891,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Technology Magazine); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-c22b4d2b2f83e5979015",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony Pictures and Music to Help Launch Incubator for Web3 Push - The Hollywood Reporter",
+      "status": "Unconfirmed",
+      "date": "2024-08-27",
+      "publishedAt": "2024-08-27T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZzlNVE9RRnFkVjRhQ0pHN2pid0pwSk1jVkxLRTlJTGJUUXZPc2xqSTdSWWQ2aTRKWF8wamwtNXFZMnhsdUp3UXBfSjZZcUQwMzByM1Q1aVZYRDJXQlJnVkdualZtWll1dkdCdC1MX0tqS0hkMktISnE2Ti1aQ2hDLXZKcFpicy1EZ3A0U1ZId0c4QTE1RkhPQi1rZV9NVVBBeG1PMlVVa0J3cWRKaTVHbUp2bWNhaThHdjczNU5fY2w?oc=5",
+      "sourceName": "The Hollywood Reporter",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (The Hollywood Reporter); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-dc0f4e0b48cc65f7e380",
