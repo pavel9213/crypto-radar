@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T00:36:25Z",
+  "updated_at": "2026-11-04T12:08:14Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -1368,6 +1368,21 @@
       "notes": "Secondary source (CoinDesk); not an official confirmation. Verify with the project before acting."
     },
     {
+      "id": "auto-2768355c21c82f199df3",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony's Soneium Blockchain Integrates Mini-Apps Into LINE, Targeting 200 Million Users in Web3 Push - blockhead.co",
+      "status": "Unconfirmed",
+      "date": "2025-03-12",
+      "publishedAt": "2025-03-12T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcjRaR2M3YkkzRnlONmt4SGgzNWZ5Vm1HWWFTTXFCdTA1U0xVOWxpYU1JWDVablV0WnQ0N0JVVWtQUlR2R1d2aTUya0RXNnBYbXlQdXRVLUFnVjJ5ZXZ0SThtYURVa3IxLUlRY1FteGpBaE00bmRIdlgyRV9oZlZTTlc4OW9GSDBZaFVLWkZDMndnbUxUR3lTX3JjXzllOTYxTjVCdmdtMUpPYkhQSExseWpMVFhaTkhSak1vLUlyNTY5Vl9WR1lFUWdVelUzMm9S?oc=5",
+      "sourceName": "blockhead.co",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (blockhead.co); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-9de02480b31ef5fb8bd6",
       "projectId": "base",
       "project": "Base",
@@ -1936,6 +1951,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Binance); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-c961480f7bfd040c650c",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony Group and Startale unveil Soneium blockchain to accelerate Web3 innovation - GamesBeat",
+      "status": "Unconfirmed",
+      "date": "2024-08-23",
+      "publishedAt": "2024-08-23T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWDVYYUNlWTc0QklSOEdIVlNXTkkyTV92UGNMY1NCMEM4Q0Q3WHptUDh2amlYd0N6SmFJYUFJdjFyWmxBWEdWanE0LUtKSHlQTUtQcjFxaUVwX0dJWTBkaFR3UFM2dmZtcVpuZUl5eVRnRjRMbnVMMEN2WGo0TTB6WVRZc0V0dUVvazBqQURDdDBURktWUVZXMGhqMmxHbHJreTE5Zw?oc=5",
+      "sourceName": "GamesBeat",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (GamesBeat); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-9a16149061acbe2ecd5e",
