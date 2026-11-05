@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T12:20:04Z",
+  "updated_at": "2026-11-05T21:58:53Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -738,6 +738,21 @@
       "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
     },
     {
+      "id": "auto-510f8d0e7bf234ef6ca6",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony doubles down on Soneium after first year of mainnet activity - TradingView",
+      "status": "Unconfirmed",
+      "date": "2026-01-28",
+      "publishedAt": "2026-01-28T08:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXJmMEx5UGgzanc0d1J2VnNxUUx1MnJ2bzN3dXNabDQ1cUdGVVIwcGY3bHFPZG5feENNVUV2M1A2Z054UGVDLVZUbnUteTkxVk53RXItT2JyemZpRXJGM3lydEtQemM4bTdZM0pLcEtxUkxtbGN4djdhaF90a09qUnVkWC0xbF9GeVRMaVNFbHJuVVF6M1FkREVqSVRhVzBEalh1TkhaTzB2cmtrXzNmTHJOZnRkTkJWT2MxdVVGSFQtdHM0TGFObg?oc=5",
+      "sourceName": "TradingView",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-bea051fceb1928f638bc",
       "projectId": "base",
       "project": "Base",
@@ -1036,6 +1051,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-79c3b05501583dcc9901",
+      "projectId": "base",
+      "project": "Base",
+      "category": "News",
+      "title": "Shiba Inu Burns 600 Million SHIB In Single Day: What Is Going On? - Yahoo Finance",
+      "status": "Unconfirmed",
+      "date": "2025-07-29",
+      "publishedAt": "2025-07-29T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3QWdRUmNjOWhfX1JvZTlUMGZYOUVIVzZHNzlEd2hHbFlLenAzUzlyV0FCdmh5akttNmlCSW5jSDg0Q1ptcDVjbnBLckdPYl9HUWpEY1FlLVBRcGNZNzlYWV9uTFB6U2lYc2lCanhMRkl0QUtkY3J2THp0ZDZJdw?oc=5",
+      "sourceName": "Yahoo Finance",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Yahoo Finance); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-69a4ba6e1eb3f3706c4e",
@@ -1726,21 +1756,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-26edcc4e1e8c602287d5",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Chiliz’s Socios.com Bags Malta’s In-Principle Approval for Crypto Services - DailyCoin",
-      "status": "Unconfirmed",
-      "date": "2024-10-25",
-      "publishedAt": "2024-10-25T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMjlKVU9xZHlJamJwMVduajA0MU1STS0zV05XQ1RfZTBQUjk3UnoyZWFaZzEzeWVpZm1IMVNyU1Z0QzlGOTNUakF1LUJnZFppZEJQZXY2bjJPWTlhc054NmdiSUZzVmpNNkp0Znl0SDZ1dmVvcDZnYTBuTW5EZXlmbWpvLVhfVGJ1NEtUd0NuR1ZaeEp4b01FWU9Law?oc=5",
-      "sourceName": "DailyCoin",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (DailyCoin); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-1e751b1f9c106750b8f0",
@@ -2686,6 +2701,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (The Korea Herald); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-1ffd3ec16ffeb0dff099",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Project Overview ‹ Invisible Ink - MIT Media Lab",
+      "status": "Unconfirmed",
+      "date": "2016-12-20",
+      "publishedAt": "2016-12-20T06:36:25Z",
+      "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SZlNMSUp6SjJKZzBhY1BqMkNrZzY1MFd6em1US2pVMDhMcjk4X3NtcHBxWERvdlJub2xQZjhneDRyc2YxN3lzbWNLcTg3cTZiVGx3b3FBRkxqVzhpczNwbWt4MDlCV19sbGc?oc=5",
+      "sourceName": "MIT Media Lab",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (MIT Media Lab); not an official confirmation. Verify with the project before acting."
     }
   ]
 }
