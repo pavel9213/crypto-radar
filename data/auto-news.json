@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T00:53:08Z",
+  "updated_at": "2026-11-05T12:20:04Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -1038,21 +1038,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-79c3b05501583dcc9901",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "Shiba Inu Burns 600 Million SHIB In Single Day: What Is Going On? - Yahoo Finance",
-      "status": "Unconfirmed",
-      "date": "2025-07-29",
-      "publishedAt": "2025-07-29T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3QWdRUmNjOWhfX1JvZTlUMGZYOUVIVzZHNzlEd2hHbFlLenAzUzlyV0FCdmh5akttNmlCSW5jSDg0Q1ptcDVjbnBLckdPYl9HUWpEY1FlLVBRcGNZNzlYWV9uTFB6U2lYc2lCanhMRkl0QUtkY3J2THp0ZDZJdw?oc=5",
-      "sourceName": "Yahoo Finance",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Yahoo Finance); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-69a4ba6e1eb3f3706c4e",
       "projectId": "base",
       "project": "Base",
@@ -2071,6 +2056,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-1e948c74e3478fd235a2",
+      "projectId": "base",
+      "project": "Base",
+      "category": "News",
+      "title": "Report: Coinbase Asset Management Creating Tokenized Money Market Fund - PYMNTS.com",
+      "status": "Unconfirmed",
+      "date": "2024-07-24",
+      "publishedAt": "2024-07-24T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS2M4WmxheGpobTFxdWhSX3JweV9iOTFDTHNwZGwyNk9SQnAzbHJkN3BuUmNDVUFrdXVLb0VJcVNTeW42NlJfZm1MMUZneUZGWTE0V1VxVEZUeVNDTmdEZVBXbFhEbUlkM3hKc3lPTkFmNjcxYWNETGp4azAzb1c0eENicWZ3Y1c0UUJjNWZoSXUtSzNtX1RhdGZZU09UckM4NHFybGxhVzNuNjFiNWR2dVdsMA?oc=5",
+      "sourceName": "PYMNTS.com",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (PYMNTS.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-4a621c5389230a1d90cc",
