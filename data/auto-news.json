@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-06T06:44:41Z",
+  "updated_at": "2026-11-06T15:55:10Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
+    {
+      "id": "auto-b010b548473dbf199fd4",
+      "projectId": "base",
+      "project": "Base",
+      "category": "News",
+      "title": "Base Launches Upgrade to Make Transactions Faster and More Reliable - Indianweb2.com",
+      "status": "Unconfirmed",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T07:54:00Z",
+      "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43TGx6RzZNdlVlUWw3QmpMSWloeDRrWE8zdU1HWDNYa09heHBzOG9iNlNnZHp0TDU5cFRzYkt4OXJWNUlnQ1FWTXpuV3ZvS3BVWWd5S1BhM09YLTk0dmY1aEFVanVUUUo1NFFka1NWNUNWaEFiT1BNcQ?oc=5",
+      "sourceName": "Indianweb2.com",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Indianweb2.com); not an official confirmation. Verify with the project before acting."
+    },
     {
       "id": "auto-12444a337e93431d30fc",
       "projectId": "base",
@@ -558,19 +573,19 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-ffa34d5951924f0404d3",
+      "id": "auto-7a1562b5423dec0d3f22",
       "projectId": "ink",
       "project": "Ink",
       "category": "Airdrop",
-      "title": "How to Farm the Base Airdrop in 2026: A Step-by-Step Guide - Cryptonews.net",
+      "title": "How to Farm the Base Airdrop in 2026: A Step-by-Step Guide - Bitget",
       "status": "Unconfirmed",
-      "date": "2026-05-13",
-      "publishedAt": "2026-05-13T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VeWtjSk5QUEl2eElKNHluWVVoSk9SNWRlckUtZkx6TFZYUk9LZGlaVXRldUhKR2w2T0g5TVpxN2JyQU9SNWhJbHJaRjBzbW5iNXJJTXYzVk1Ldw?oc=5",
-      "sourceName": "Cryptonews.net",
+      "date": "2026-05-12",
+      "publishedAt": "2026-05-12T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ITUlYekpPcTBuM1ROQWtvVC1IQ242UVJpbFJuTllLOUFHaTM2ano4Nm5BdnZLNWlpS0E5RWlRRUtRaEZjejE1U29zRmVLVW9lbjB4UV9IR3BkMlZPVWc?oc=5",
+      "sourceName": "Bitget",
       "sourceType": "news-index",
       "automatic": true,
-      "notes": "Secondary source (Cryptonews.net); not an official confirmation. Verify with the project before acting."
+      "notes": "Secondary source (Bitget); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-7a05f46b5ac7d5f23db3",
@@ -1066,21 +1081,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-79c3b05501583dcc9901",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "Shiba Inu Burns 600 Million SHIB In Single Day: What Is Going On? - Yahoo Finance",
-      "status": "Unconfirmed",
-      "date": "2025-07-29",
-      "publishedAt": "2025-07-29T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3QWdRUmNjOWhfX1JvZTlUMGZYOUVIVzZHNzlEd2hHbFlLenAzUzlyV0FCdmh5akttNmlCSW5jSDg0Q1ptcDVjbnBLckdPYl9HUWpEY1FlLVBRcGNZNzlYWV9uTFB6U2lYc2lCanhMRkl0QUtkY3J2THp0ZDZJdw?oc=5",
-      "sourceName": "Yahoo Finance",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Yahoo Finance); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-69a4ba6e1eb3f3706c4e",
@@ -1681,6 +1681,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (BeInCrypto); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-bbd17af9d001c1b73c4a",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Squidswap Statistics: Markets, Trading Volume & Trust Score - CoinGecko",
+      "status": "Unconfirmed",
+      "date": "2025-01-10",
+      "publishedAt": "2025-01-10T10:45:37Z",
+      "source": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xUHloemVqcENFVW5IWXhLQnMtRzJoM0RmNTRhTVE1ci0zbEtxLS1wSHZ5aWNMV2dUSHFFV0oyVVhNV2Z0YTVkR0EzcDRSeFlsS0k0WHM1OXZYTXhW?oc=5",
+      "sourceName": "CoinGecko",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (CoinGecko); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-047d81d6046d1c62dc0e",
