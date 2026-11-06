@@ -1,6 +1,6 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-06T15:55:10Z
+> Feed updated: 2026-11-06T21:29:31Z
 
 ## Overview
 
@@ -18,12 +18,12 @@
 
 ## Latest signals
 
-- **[Unconfirmed] Base · News · 2026-11-06** — Base Launches Upgrade to Make Transactions Faster and More Reliable - Indianweb2.com
-  Source: <https://news.google.com/rss/articles/CBMieEFVX3lxTE43TGx6RzZNdlVlUWw3QmpMSWloeDRrWE8zdU1HWDNYa09heHBzOG9iNlNnZHp0TDU5cFRzYkt4OXJWNUlnQ1FWTXpuV3ZvS3BVWWd5S1BhM09YLTk0dmY1aEFVanVUUUo1NFFka1NWNUNWaEFiT1BNcQ?oc=5>
 - **[Confirmed] Base · News · 2026-11-05** — Introducing Base Denim
   Source: <https://base.org/blog/denim>
 - **[Confirmed] Base · News · 2026-11-04** — How Spiko makes yield universal on Base
   Source: <https://base.org/customers/spiko>
+- **[Unconfirmed] Soneium · News · 2026-11-03** — Sony's Blockchain Plans New Token and AI Royalties. Will It Recover? - BeInCrypto
+  Source: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9EWWpvbEx0UEhXRzVoV1AxaXNRT2ZSeTBPU3dtUUp2NGZmWVJtb1hxU3M3NzhyaTAtYkF5clBlc21kNFVXNEl6bmxnTmkxNm4zbThFeFd0Znc2UXExUXpyczh1NEsxajJGUjBXSkZxNA?oc=5>
 - **[Confirmed] Base · News · 2026-11-03** — Meet the Base Batches 004 cohort
   Source: <https://base.org/blog/base-batches-004-cohort>
 - **[Unconfirmed] Soneium · News · 2026-10-30** — 7 Best Crypto Presales as Sony Launches a Soneium Incubation Program for Creators - openPR.com
@@ -31,13 +31,11 @@
 - **[Unconfirmed] Soneium · News · 2026-10-29** — Sony launches Soneium program, giving Sony Group stock a new digital angle - ad-hoc-news.de
   Source: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa3ZQMk5XemdLSEdhRHJsOURmU05zMFNpOTlrTmtRYmxoVEt5QTFGQWttRjJHNzI3bklqX0R5bU5rNnhSQ0d2cTllUkdfazEwSVlLSGgwT0w3R3FpbEx6UExQMmpPZUZzZ3U1S0lHSzVxZ0l0R05JUV9yMzQ0Y1pnRWpJeGNybF9nVTFtRF9RakF1T2dhamczdXRBNU51VV9SM2I0Rjc3cTFrb3dUZVQ5X2hKdmhneW1hVkJIRVJ3alZ1QnJFWGctMm5QODRZckxrdVE?oc=5>
 - **[Unconfirmed] Soneium · News · 2026-10-29** — Sony Launches Global Soneium Incubation Program For Onchain Entertainment Startups - OneBullEx
-  Source: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQWR4SHBmMnd0b0QzRzJuQzZ5b0tUc2JqRmUwcnpnaHczVmFGX2c1eWVtQmhCWXd6c05aYzFSVEROdzd6WHoxM3l3YVJuQ2VEWmpQZ3VtZU01Ukp1bXR4T0FfZHRyQXh4QWVRZU5JU1dSbE5zLTRoSVVwWS1WTThnV2VaTmpWcXVnWTYwYmM4THY0R2o2T1ljemJjeDRWY3k0MlQxalhGeWV0RHdPRHN5VDE0Rkt0clNlMUhORzdKa2k0QQ?oc=5>
+  Source: <https://news.google.com/rss/articles/CBMivwFBVV95cUxPZHUxejNhM0NFT3QyNXJWS2NNOHhLUWJDVTVJQS14MC1USThDOFYtNVE2Rm9GYmtNMVhFRVZvbDlBYXZXbzRUNVNpaTBZSGJ5a3pDMVYzWkowNGd6aHd4VGNVZEQ2azBNbm1qbkhpaWVMNFdtV25UVUtRNTAzSk5tQndEWmgyeUdqempUX05ZejVxU2lJdkFKOWFvX21nSHE5YkdNLTZQc0U3OFdmbTJ4VUF3am9UU2Z6bzlJNFlWQQ?oc=5>
 - **[Confirmed] Base · News · 2026-10-29** — How Shopify brought stablecoin payments to checkout on Base
   Source: <https://base.org/customers/shopify>
 - **[Unconfirmed] Soneium · News · 2026-10-27** — Sony’s Soneium Brings Access to $549 Million Royalties Fund Onchain - HackerNoon
   Source: <https://news.google.com/rss/articles/CBMikwFBVV95cUxPY3M3ZldpMlNzYXhNS3NCT2NJWklWa1Z6cE5ObFp2LS0wQS0wM1F1Smt3S254MUZMaHdURHd5NTEzVlZWejYxSmE2WWpqZDJsTVROTWE5VzNTNHdjdUh3OUpzR1U2Njh0MUVhelJWb3NRVWRJLWoxbmx2ZTBSNVltQi15UW1CejVLOW9LaXdUai13SG8?oc=5>
-- **[Unconfirmed] Soneium · News · 2026-10-26** — Sony's Blockchain Plans New Token and AI Royalties. Will It Recover? - Yahoo Finance
-  Source: <https://news.google.com/rss/articles/CBMimwFBVV95cUxPYlU0NWNFTVBLRGxVM2x0cmRWQzFRUTBzMjFDdVlha29oeWs3VWh4bWJQeHVYVUt4bTNwMDJPYUkxUll0UWtuVkNiOERDb3B2bUVMdzRScWhVLW1iUm9RR2RzVkIzZlRYcVU2eElTYVY4RUJCaFBQUHh6S1o2ek1pSmIzc2pET1RtckYzc2luMWRxWFZBTXY3N3lpbw?oc=5>
 - **[Unconfirmed] Soneium · News · 2026-10-26** — Sony-backed Soneium shifts to tokenized IP econ... - Pluang
   Source: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQM3RtaFJkNHZ3cFRhaVI4QlVieTJGN2dHN1dEQUx2VGs0Z0FnOUN6MkVOOFJtNHF0dDg0bTk3TXliTmJJbWhhb0d6N2RzZ0ZvWUNOdFJ1cm5FVTdjcHI0bFduSEhDOG5RaUNkaExkT2Vod3g0QklEbEU3OWJJNlc1cEhzdFVndnFYRGFKYTFIbw?oc=5>
 - **[Confirmed] Base · News · 2026-10-22** — How Aave unlocked stock-backed loans on Base
@@ -58,6 +56,8 @@
   Source: <https://news.google.com/rss/articles/CBMixgFBVV95cUxNdTQ1ZlFoSFIyUHJLcVVmdXBiMjZmaEFqNktwbTdsbDBfcmRvNUprTFQzd0ZEeEJmN2daaVA5dV9UWXRMd3VXalBST0x1RUY2SkdvTHFrNUV4aV8taE5OOTBzLVNTT3FsbUZIN28wYVBJbEpwNFU3dGJVUDRLWjdVLXk2OGM4YUJOVjJNdDBvcmxoLThIdmwxVjNPS3k1VjRvTTRETzkta1lpU2NrVEZpYkFaY3JhS2p4cllvSlVSR1NEY0N2dVE?oc=5>
 - **[Confirmed] Base · News · 2026-09-29** — How Centrifuge brought the S&P 500® onchain
   Source: <https://base.org/customers/centrifuge>
+- **[Unconfirmed] Soneium · News · 2026-09-28** — Sony-Backed Soneium Partners With DayOneDream to Tokenize K-Pop Revenue - unchainedcrypto.com
+  Source: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQajBkQmRXWmx5Z3BaZ3kwMWZCQW5rSkREbWMzN3pibU5IVFFadXJCWHFzeVFWaW1uOHVSTFRjZXNuMnFDQlFlSHJUWlZHR09iVWczb0U3LVl0TEtfTERYbl9WcDdITndMa1FMdmU0U0RZYTZPd0tBOHFBSTJaaG1hUkh1ak5qWEZEa3p4RjdtTVRFVW15RmRIMDYxc0pNWGNJYmc?oc=5>
 
 ---
 Automatically generated from data/auto-news.json. Labels indicate source confidence, not investment advice.

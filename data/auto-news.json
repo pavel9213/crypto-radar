@@ -1,22 +1,7 @@
 {
-  "updated_at": "2026-11-06T15:55:10Z",
+  "updated_at": "2026-11-06T21:29:31Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
-    {
-      "id": "auto-b010b548473dbf199fd4",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "Base Launches Upgrade to Make Transactions Faster and More Reliable - Indianweb2.com",
-      "status": "Unconfirmed",
-      "date": "2026-11-06",
-      "publishedAt": "2026-11-06T07:54:00Z",
-      "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43TGx6RzZNdlVlUWw3QmpMSWloeDRrWE8zdU1HWDNYa09heHBzOG9iNlNnZHp0TDU5cFRzYkt4OXJWNUlnQ1FWTXpuV3ZvS3BVWWd5S1BhM09YLTk0dmY1aEFVanVUUUo1NFFka1NWNUNWaEFiT1BNcQ?oc=5",
-      "sourceName": "Indianweb2.com",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Indianweb2.com); not an official confirmation. Verify with the project before acting."
-    },
     {
       "id": "auto-12444a337e93431d30fc",
       "projectId": "base",
@@ -46,6 +31,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-31ef3ce2e4dfd0a34096",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony's Blockchain Plans New Token and AI Royalties. Will It Recover? - BeInCrypto",
+      "status": "Unconfirmed",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T21:43:21Z",
+      "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EWWpvbEx0UEhXRzVoV1AxaXNRT2ZSeTBPU3dtUUp2NGZmWVJtb1hxU3M3NzhyaTAtYkF5clBlc21kNFVXNEl6bmxnTmkxNm4zbThFeFd0Znc2UXExUXpyczh1NEsxajJGUjBXSkZxNA?oc=5",
+      "sourceName": "BeInCrypto",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (BeInCrypto); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-f56fe06c6ae7a31cd722",
@@ -93,15 +93,15 @@
       "notes": "Secondary source (ad-hoc-news.de); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-7545daf0a4f4c34e9617",
+      "id": "auto-900f9bffa162e8c4935b",
       "projectId": "soneium",
       "project": "Soneium",
       "category": "News",
       "title": "Sony Launches Global Soneium Incubation Program For Onchain Entertainment Startups - OneBullEx",
       "status": "Unconfirmed",
       "date": "2026-10-29",
-      "publishedAt": "2026-10-29T10:33:44Z",
-      "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQWR4SHBmMnd0b0QzRzJuQzZ5b0tUc2JqRmUwcnpnaHczVmFGX2c1eWVtQmhCWXd6c05aYzFSVEROdzd6WHoxM3l3YVJuQ2VEWmpQZ3VtZU01Ukp1bXR4T0FfZHRyQXh4QWVRZU5JU1dSbE5zLTRoSVVwWS1WTThnV2VaTmpWcXVnWTYwYmM4THY0R2o2T1ljemJjeDRWY3k0MlQxalhGeWV0RHdPRHN5VDE0Rkt0clNlMUhORzdKa2k0QQ?oc=5",
+      "publishedAt": "2026-10-29T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZHUxejNhM0NFT3QyNXJWS2NNOHhLUWJDVTVJQS14MC1USThDOFYtNVE2Rm9GYmtNMVhFRVZvbDlBYXZXbzRUNVNpaTBZSGJ5a3pDMVYzWkowNGd6aHd4VGNVZEQ2azBNbm1qbkhpaWVMNFdtV25UVUtRNTAzSk5tQndEWmgyeUdqempUX05ZejVxU2lJdkFKOWFvX21nSHE5YkdNLTZQc0U3OFdmbTJ4VUF3am9UU2Z6bzlJNFlWQQ?oc=5",
       "sourceName": "OneBullEx",
       "sourceType": "news-index",
       "automatic": true,
@@ -136,21 +136,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (HackerNoon); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-76d4dfb5f0c2147b620c",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony's Blockchain Plans New Token and AI Royalties. Will It Recover? - Yahoo Finance",
-      "status": "Unconfirmed",
-      "date": "2026-10-26",
-      "publishedAt": "2026-10-26T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYlU0NWNFTVBLRGxVM2x0cmRWQzFRUTBzMjFDdVlha29oeWs3VWh4bWJQeHVYVUt4bTNwMDJPYUkxUll0UWtuVkNiOERDb3B2bUVMdzRScWhVLW1iUm9RR2RzVkIzZlRYcVU2eElTYVY4RUJCaFBQUHh6S1o2ek1pSmIzc2pET1RtckYzc2luMWRxWFZBTXY3N3lpbw?oc=5",
-      "sourceName": "Yahoo Finance",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Yahoo Finance); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-042cf3304886477fd16d",
@@ -2341,6 +2326,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-95f24e0f259822b9970a",
+      "projectId": "base",
+      "project": "Base",
+      "category": "News",
+      "title": "Cardano Founder Says He Is Ready to Work with Kraken on Layer 2 Blockchain Network - Crypto News Australia",
+      "status": "Unconfirmed",
+      "date": "2023-11-13",
+      "publishedAt": "2023-11-13T08:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTEFVZHVYMnQ1TFZXLUFzTHpscHZ4YV90Ulo0UmtLeE11RjNET0NvbVNwdjZrcUlhWnE0TGNpcWs4M2xfMXhNdjNBdjZQbnQ1elB0VmNxUEVvMHJEZnZNY1EzM0ctZEZzZWN4bV9fRkRudWR4OV9Rbko0eDh2SmtRUWR5QWdZczJoclZkMEZNdU9ZcElCbFhRdzhpekVrU1BTWWtNcUpaMzhFNEw1VVl3QVJZbEdvNmRkTUFVbC1R?oc=5",
+      "sourceName": "Crypto News Australia",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Crypto News Australia); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-387d29370a1fd3eeb389",
