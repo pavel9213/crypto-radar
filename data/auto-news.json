@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-05T21:58:53Z",
+  "updated_at": "2026-11-06T06:44:41Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
+    {
+      "id": "auto-12444a337e93431d30fc",
+      "projectId": "base",
+      "project": "Base",
+      "category": "News",
+      "title": "Introducing Base Denim",
+      "status": "Confirmed",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "source": "https://base.org/blog/denim",
+      "sourceName": "base.org",
+      "sourceType": "official",
+      "automatic": true,
+      "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
     {
       "id": "auto-17675145e852bac34e5a",
       "projectId": "base",

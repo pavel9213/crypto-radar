@@ -1,23 +1,25 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-05T21:58:53Z
+> Feed updated: 2026-11-06T06:44:41Z
 
 ## Overview
 
-- Total signals: **181**
+- Total signals: **182**
 - Projects represented: **3**
-- Confirmed source-origin items: **115**
+- Confirmed source-origin items: **116**
 - Unconfirmed items: **66**
 - Rumors: **0**
 
 ## Categories
 
 - Airdrop: 5
-- News: 168
+- News: 169
 - Partnership: 8
 
 ## Latest signals
 
+- **[Confirmed] Base · News · 2026-11-05** — Introducing Base Denim
+  Source: <https://base.org/blog/denim>
 - **[Confirmed] Base · News · 2026-11-04** — How Spiko makes yield universal on Base
   Source: <https://base.org/customers/spiko>
 - **[Confirmed] Base · News · 2026-11-03** — Meet the Base Batches 004 cohort
@@ -56,8 +58,6 @@
   Source: <https://base.org/customers/centrifuge>
 - **[Unconfirmed] Soneium · News · 2026-09-28** — Sony-Backed Soneium Partners With DayOneDream to Tokenize K-Pop Revenue - unchainedcrypto.com
   Source: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQajBkQmRXWmx5Z3BaZ3kwMWZCQW5rSkREbWMzN3pibU5IVFFadXJCWHFzeVFWaW1uOHVSTFRjZXNuMnFDQlFlSHJUWlZHR09iVWczb0U3LVl0TEtfTERYbl9WcDdITndMa1FMdmU0U0RZYTZPd0tBOHFBSTJaaG1hUkh1ak5qWEZEa3p4RjdtTVRFVW15RmRIMDYxc0pNWGNJYmc?oc=5>
-- **[Unconfirmed] Ink · News · 2026-09-15** — Kraken Rolls Out DeFi Lending Vaults for Tokenized Nvidia Stock and Major ETFs - BigGo Finance
-  Source: <https://news.google.com/rss/articles/CBMidkFVX3lxTE0xSWxKdENYYUZ6MDBiOWtQakpudFotdU1rUW05NTkxUW1EaGo4dTdDM2wtVVROb2Mza3hETTFGQmZyMEJtUTE0TEg2Mnp3MVZ0NjVFR0ktZXhKZjZCYXFrTk4xVUFhb0d4d1hpVGNvaHBkYzlrUVE?oc=5>
 
 ---
 Automatically generated from data/auto-news.json. Labels indicate source confidence, not investment advice.
