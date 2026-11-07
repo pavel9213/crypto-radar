@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T14:53:50Z",
+  "updated_at": "2026-11-07T20:14:36Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -130,7 +130,7 @@
       "title": "Sony’s Soneium Brings Access to $549 Million Royalties Fund Onchain - HackerNoon",
       "status": "Unconfirmed",
       "date": "2026-10-27",
-      "publishedAt": "2026-10-27T08:36:52Z",
+      "publishedAt": "2026-10-27T07:00:00Z",
       "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY3M3ZldpMlNzYXhNS3NCT2NJWklWa1Z6cE5ObFp2LS0wQS0wM1F1Smt3S254MUZMaHdURHd5NTEzVlZWejYxSmE2WWpqZDJsTVROTWE5VzNTNHdjdUh3OUpzR1U2Njh0MUVhelJWb3NRVWRJLWoxbmx2ZTBSNVltQi15UW1CejVLOW9LaXdUai13SG8?oc=5",
       "sourceName": "HackerNoon",
       "sourceType": "news-index",
@@ -1021,6 +1021,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-6564b50c26ccd0ef872c",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony’s Soneium Blockchain Launches Reward Program for Users - The Crypto Times",
+      "status": "Unconfirmed",
+      "date": "2025-08-28",
+      "publishedAt": "2025-08-28T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa0ZIaWpPSkt3VGVVZWhrdnJTcFB3M29Cd2lVQndMQ3c0YzBrUzczQWlTaW1sSHEwTzlEb0tieE1QODNibUhHNnJ2bzlraHY4QUR1ZlBvRWZVWm54ZmRGc0xJYWlvVXgtSFNWSDJlMDJTdzhfaU5IZzgxVWRQWElpeW1ma2xpZW9od1BOS1phbFZBYVRlYXFocUpwR3J1dw?oc=5",
+      "sourceName": "The Crypto Times",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (The Crypto Times); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-03f8ed3fadc39fc501dd",
