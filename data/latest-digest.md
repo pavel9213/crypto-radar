@@ -1,6 +1,6 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-07T20:14:36Z
+> Feed updated: 2026-11-07T23:39:11Z
 
 ## Overview
 
@@ -36,6 +36,8 @@
   Source: <https://base.org/customers/shopify>
 - **[Unconfirmed] Soneium · News · 2026-10-27** — Sony’s Soneium Brings Access to $549 Million Royalties Fund Onchain - HackerNoon
   Source: <https://news.google.com/rss/articles/CBMikwFBVV95cUxPY3M3ZldpMlNzYXhNS3NCT2NJWklWa1Z6cE5ObFp2LS0wQS0wM1F1Smt3S254MUZMaHdURHd5NTEzVlZWejYxSmE2WWpqZDJsTVROTWE5VzNTNHdjdUh3OUpzR1U2Njh0MUVhelJWb3NRVWRJLWoxbmx2ZTBSNVltQi15UW1CejVLOW9LaXdUai13SG8?oc=5>
+- **[Unconfirmed] Soneium · News · 2026-10-26** — Sony-backed Soneium plans a native token for entertainment IP and royalties - The Cryptonomist
+  Source: <https://news.google.com/rss/articles/CBMid0FVX3lxTE03QzZYblhkMGdyXzhFWUhnV2JzMjNDYjhjUVJxbmI3aDNmMXRFdnJkMGlqZ1JwNlhKN1ptNlBtdHh3dG1QcVZmZWpHS2JtakR4N3FRWlJZOFVfcXVVd1BHN0IyMlB6V08zSkZycm91czRwcEhIVEdv?oc=5>
 - **[Unconfirmed] Soneium · News · 2026-10-26** — Sony-backed Soneium shifts to tokenized IP econ... - Pluang
   Source: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQM3RtaFJkNHZ3cFRhaVI4QlVieTJGN2dHN1dEQUx2VGs0Z0FnOUN6MkVOOFJtNHF0dDg0bTk3TXliTmJJbWhhb0d6N2RzZ0ZvWUNOdFJ1cm5FVTdjcHI0bFduSEhDOG5RaUNkaExkT2Vod3g0QklEbEU3OWJJNlc1cEhzdFVndnFYRGFKYTFIbw?oc=5>
 - **[Confirmed] Base · News · 2026-10-22** — How Aave unlocked stock-backed loans on Base
@@ -56,8 +58,6 @@
   Source: <https://news.google.com/rss/articles/CBMixgFBVV95cUxNdTQ1ZlFoSFIyUHJLcVVmdXBiMjZmaEFqNktwbTdsbDBfcmRvNUprTFQzd0ZEeEJmN2daaVA5dV9UWXRMd3VXalBST0x1RUY2SkdvTHFrNUV4aV8taE5OOTBzLVNTT3FsbUZIN28wYVBJbEpwNFU3dGJVUDRLWjdVLXk2OGM4YUJOVjJNdDBvcmxoLThIdmwxVjNPS3k1VjRvTTRETzkta1lpU2NrVEZpYkFaY3JhS2p4cllvSlVSR1NEY0N2dVE?oc=5>
 - **[Confirmed] Base · News · 2026-09-29** — How Centrifuge brought the S&P 500® onchain
   Source: <https://base.org/customers/centrifuge>
-- **[Unconfirmed] Soneium · News · 2026-09-28** — Sony-Backed Soneium Partners With DayOneDream to Tokenize K-Pop Revenue - unchainedcrypto.com
-  Source: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQajBkQmRXWmx5Z3BaZ3kwMWZCQW5rSkREbWMzN3pibU5IVFFadXJCWHFzeVFWaW1uOHVSTFRjZXNuMnFDQlFlSHJUWlZHR09iVWczb0U3LVl0TEtfTERYbl9WcDdITndMa1FMdmU0U0RZYTZPd0tBOHFBSTJaaG1hUkh1ak5qWEZEa3p4RjdtTVRFVW15RmRIMDYxc0pNWGNJYmc?oc=5>
 
 ---
 Automatically generated from data/auto-news.json. Labels indicate source confidence, not investment advice.

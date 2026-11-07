@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T20:14:36Z",
+  "updated_at": "2026-11-07T23:39:11Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -136,6 +136,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (HackerNoon); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-28824066d256e6197d77",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony-backed Soneium plans a native token for entertainment IP and royalties - The Cryptonomist",
+      "status": "Unconfirmed",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03QzZYblhkMGdyXzhFWUhnV2JzMjNDYjhjUVJxbmI3aDNmMXRFdnJkMGlqZ1JwNlhKN1ptNlBtdHh3dG1QcVZmZWpHS2JtakR4N3FRWlJZOFVfcXVVd1BHN0IyMlB6V08zSkZycm91czRwcEhIVEdv?oc=5",
+      "sourceName": "The Cryptonomist",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (The Cryptonomist); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-042cf3304886477fd16d",
@@ -796,21 +811,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-d2495b3971a4b3479d86",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Soneium Score Season 5 NFT guide - paragraph.com",
-      "status": "Unconfirmed",
-      "date": "2025-12-21",
-      "publishedAt": "2025-12-21T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRQTF0cFFhZUJRbURjZnBvejAtclVrWUJ1OWJwd0JjYjk5bEI3aVhVX09OSDBSX0lPd3RRdzNkV2FiVFpNZkRteHpGX2dNUDIyVHhTWlN4UzVvb3cyU2pSQ2RfY1NQTW1RMXVIOUJuek9HNGM?oc=5",
-      "sourceName": "paragraph.com",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (paragraph.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-f79ea71bc7afed143e90",
