@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T05:57:36Z",
+  "updated_at": "2026-11-07T14:53:50Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -903,21 +903,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-974430b45df92af4d7aa",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Just-In: Startale Launches Super App for Sony’s Soneium Blockchain Ecosystem - CoinGape",
-      "status": "Unconfirmed",
-      "date": "2025-11-11",
-      "publishedAt": "2025-11-11T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObUtOX09GLUFrTXpzSXNPeDczcTVwT1lhMmhNeTk4NjQzQW5uUGxCTkIxY0xHajJLQmFJRVVDLV9ZekxXX3VyU0ZzS1JGQkFxdjhYbGNXVkFfMHgxcVVaM3ZwSEhQQWVHaU4wcmNEVXFPbjNMUmJyeGloTjRCTzhZT0NfUDlxWjkzM1pzaUFCc28?oc=5",
-      "sourceName": "CoinGape",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (CoinGape); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-711c73b72332920d0bf5",
       "projectId": "base",
       "project": "Base",
@@ -1516,6 +1501,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-b9cf1494306be745ad72",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony forms Astar-Soneium alliance - Binance",
+      "status": "Unconfirmed",
+      "date": "2025-02-11",
+      "publishedAt": "2025-02-11T08:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fZlo2Q19vSk1DVEdKMktWZmdJRy1KM1EzYzU5bDhjdjluMENEU3dFODdQR1ZkOU1XVDRUdnJnZnRnWTk5U3Nzd0lhd2E2UzF5cURLQ09pZHhJMElubHhQNkVxRQ?oc=5",
+      "sourceName": "Binance",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Binance); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-214b6062c0f873c5dae1",
