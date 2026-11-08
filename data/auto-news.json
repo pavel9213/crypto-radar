@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T23:39:11Z",
+  "updated_at": "2026-11-08T05:59:31Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -31,21 +31,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-31ef3ce2e4dfd0a34096",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony's Blockchain Plans New Token and AI Royalties. Will It Recover? - BeInCrypto",
-      "status": "Unconfirmed",
-      "date": "2026-11-03",
-      "publishedAt": "2026-11-03T21:43:21Z",
-      "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EWWpvbEx0UEhXRzVoV1AxaXNRT2ZSeTBPU3dtUUp2NGZmWVJtb1hxU3M3NzhyaTAtYkF5clBlc21kNFVXNEl6bmxnTmkxNm4zbThFeFd0Znc2UXExUXpyczh1NEsxajJGUjBXSkZxNA?oc=5",
-      "sourceName": "BeInCrypto",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (BeInCrypto); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-f56fe06c6ae7a31cd722",
@@ -136,6 +121,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (HackerNoon); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-76d4dfb5f0c2147b620c",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony's Blockchain Plans New Token and AI Royalties. Will It Recover? - Yahoo Finance",
+      "status": "Unconfirmed",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYlU0NWNFTVBLRGxVM2x0cmRWQzFRUTBzMjFDdVlha29oeWs3VWh4bWJQeHVYVUt4bTNwMDJPYUkxUll0UWtuVkNiOERDb3B2bUVMdzRScWhVLW1iUm9RR2RzVkIzZlRYcVU2eElTYVY4RUJCaFBQUHh6S1o2ek1pSmIzc2pET1RtckYzc2luMWRxWFZBTXY3N3lpbw?oc=5",
+      "sourceName": "Yahoo Finance",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Yahoo Finance); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-28824066d256e6197d77",

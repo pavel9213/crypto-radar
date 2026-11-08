@@ -1,6 +1,6 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-07T23:39:11Z
+> Feed updated: 2026-11-08T05:59:31Z
 
 ## Overview
 
@@ -22,8 +22,6 @@
   Source: <https://base.org/blog/denim>
 - **[Confirmed] Base · News · 2026-11-04** — How Spiko makes yield universal on Base
   Source: <https://base.org/customers/spiko>
-- **[Unconfirmed] Soneium · News · 2026-11-03** — Sony's Blockchain Plans New Token and AI Royalties. Will It Recover? - BeInCrypto
-  Source: <https://news.google.com/rss/articles/CBMib0FVX3lxTE9EWWpvbEx0UEhXRzVoV1AxaXNRT2ZSeTBPU3dtUUp2NGZmWVJtb1hxU3M3NzhyaTAtYkF5clBlc21kNFVXNEl6bmxnTmkxNm4zbThFeFd0Znc2UXExUXpyczh1NEsxajJGUjBXSkZxNA?oc=5>
 - **[Confirmed] Base · News · 2026-11-03** — Meet the Base Batches 004 cohort
   Source: <https://base.org/blog/base-batches-004-cohort>
 - **[Unconfirmed] Soneium · News · 2026-10-30** — 7 Best Crypto Presales as Sony Launches a Soneium Incubation Program for Creators - openPR.com
@@ -36,6 +34,8 @@
   Source: <https://base.org/customers/shopify>
 - **[Unconfirmed] Soneium · News · 2026-10-27** — Sony’s Soneium Brings Access to $549 Million Royalties Fund Onchain - HackerNoon
   Source: <https://news.google.com/rss/articles/CBMikwFBVV95cUxPY3M3ZldpMlNzYXhNS3NCT2NJWklWa1Z6cE5ObFp2LS0wQS0wM1F1Smt3S254MUZMaHdURHd5NTEzVlZWejYxSmE2WWpqZDJsTVROTWE5VzNTNHdjdUh3OUpzR1U2Njh0MUVhelJWb3NRVWRJLWoxbmx2ZTBSNVltQi15UW1CejVLOW9LaXdUai13SG8?oc=5>
+- **[Unconfirmed] Soneium · News · 2026-10-26** — Sony's Blockchain Plans New Token and AI Royalties. Will It Recover? - Yahoo Finance
+  Source: <https://news.google.com/rss/articles/CBMimwFBVV95cUxPYlU0NWNFTVBLRGxVM2x0cmRWQzFRUTBzMjFDdVlha29oeWs3VWh4bWJQeHVYVUt4bTNwMDJPYUkxUll0UWtuVkNiOERDb3B2bUVMdzRScWhVLW1iUm9RR2RzVkIzZlRYcVU2eElTYVY4RUJCaFBQUHh6S1o2ek1pSmIzc2pET1RtckYzc2luMWRxWFZBTXY3N3lpbw?oc=5>
 - **[Unconfirmed] Soneium · News · 2026-10-26** — Sony-backed Soneium plans a native token for entertainment IP and royalties - The Cryptonomist
   Source: <https://news.google.com/rss/articles/CBMid0FVX3lxTE03QzZYblhkMGdyXzhFWUhnV2JzMjNDYjhjUVJxbmI3aDNmMXRFdnJkMGlqZ1JwNlhKN1ptNlBtdHh3dG1QcVZmZWpHS2JtakR4N3FRWlJZOFVfcXVVd1BHN0IyMlB6V08zSkZycm91czRwcEhIVEdv?oc=5>
 - **[Unconfirmed] Soneium · News · 2026-10-26** — Sony-backed Soneium shifts to tokenized IP econ... - Pluang
