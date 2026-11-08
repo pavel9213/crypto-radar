@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T15:11:40Z",
+  "updated_at": "2026-11-08T20:28:44Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -1666,21 +1666,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Ledger Insights); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-dd6add5e0afb1a0525fb",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony Unveils Soneium Mainnet, Faces Criticism from Crypto Community on Launch Day - BeInCrypto",
-      "status": "Unconfirmed",
-      "date": "2025-01-14",
-      "publishedAt": "2025-01-14T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NaWVjN0VPOEZWUExMQVdGQTVsU0ZSQ01kbW1tSG02WENoX25YVDlhNUJCT0hkYzhtaUdoOUZOOXNUVTFxVTdacDJkQlJkR3RyRmZIeU50NG1pMHNEQUFkWTFNVlVjLUF6OWs2Z25QWQ?oc=5",
-      "sourceName": "BeInCrypto",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (BeInCrypto); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-bbd17af9d001c1b73c4a",
