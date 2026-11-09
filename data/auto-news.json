@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T06:26:37Z",
+  "updated_at": "2026-11-09T18:48:44Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -61,21 +61,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (openPR.com); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-38098b6703aa7dd6d338",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony launches Soneium program, giving Sony Group stock a new digital angle - ad-hoc-news.de",
-      "status": "Unconfirmed",
-      "date": "2026-10-29",
-      "publishedAt": "2026-10-29T14:47:11Z",
-      "source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa3ZQMk5XemdLSEdhRHJsOURmU05zMFNpOTlrTmtRYmxoVEt5QTFGQWttRjJHNzI3bklqX0R5bU5rNnhSQ0d2cTllUkdfazEwSVlLSGgwT0w3R3FpbEx6UExQMmpPZUZzZ3U1S0lHSzVxZ0l0R05JUV9yMzQ0Y1pnRWpJeGNybF9nVTFtRF9RakF1T2dhamczdXRBNU51VV9SM2I0Rjc3cTFrb3dUZVQ5X2hKdmhneW1hVkJIRVJ3alZ1QnJFWGctMm5QODRZckxrdVE?oc=5",
-      "sourceName": "ad-hoc-news.de",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (ad-hoc-news.de); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-900f9bffa162e8c4935b",
@@ -1231,21 +1216,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-f2a26d058cb9c86912b6",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Aave goes live on Sony’s Soneium - Crypto News",
-      "status": "Unconfirmed",
-      "date": "2025-06-10",
-      "publishedAt": "2025-06-10T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnZmswU1lLYTdyMUsxRy1uY1QwWkVLR1MxWHNJRkc5TVQ0TkdRTGUtZm1MT2I5eGg5cUpCV0VkVC1qWG85aU9xWDlvNXMtYW9wRUh0aUJCVUlib2NSTjUzYWFB?oc=5",
-      "sourceName": "Crypto News",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Crypto News); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-077cf518cb4bbc4313eb",
