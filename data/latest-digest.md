@@ -1,23 +1,25 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-10T02:44:23Z
+> Feed updated: 2026-11-10T12:38:51Z
 
 ## Overview
 
-- Total signals: **183**
+- Total signals: **184**
 - Projects represented: **3**
 - Confirmed source-origin items: **116**
-- Unconfirmed items: **67**
+- Unconfirmed items: **68**
 - Rumors: **0**
 
 ## Categories
 
 - Airdrop: 5
-- News: 170
+- News: 171
 - Partnership: 8
 
 ## Latest signals
 
+- **[Unconfirmed] Base · News · 2026-11-06** — Base Launches Upgrade to Make Transactions Faster and More Reliable - Indianweb2.com
+  Source: <https://news.google.com/rss/articles/CBMieEFVX3lxTE43TGx6RzZNdlVlUWw3QmpMSWloeDRrWE8zdU1HWDNYa09heHBzOG9iNlNnZHp0TDU5cFRzYkt4OXJWNUlnQ1FWTXpuV3ZvS3BVWWd5S1BhM09YLTk0dmY1aEFVanVUUUo1NFFka1NWNUNWaEFiT1BNcQ?oc=5>
 - **[Confirmed] Base · News · 2026-11-05** — Introducing Base Denim
   Source: <https://base.org/blog/denim>
 - **[Confirmed] Base · News · 2026-11-04** — How Spiko makes yield universal on Base
@@ -56,8 +58,6 @@
   Source: <https://news.google.com/rss/articles/CBMifkFVX3lxTE5WZ0tzODAzandiTllXRkJGUW1RVWFqSVRIZFFkR0pjVUt1UUR4MTAzMWpCeWV4R0J5Rloxci1kMVlNVi1acW1yRHpRMGh6ZXJvMU1jQ1BOVkd0VXZlQ245dDBDaFpNb3FEeGM2aXczUUhNNngxU3VaOGtsWThYdw?oc=5>
 - **[Unconfirmed] Soneium · News · 2026-09-29** — BTOB, Lee Chae Yeon and More: K-POP IP Goes Onchain With Sony Crypto - TradingView
   Source: <https://news.google.com/rss/articles/CBMixgFBVV95cUxNdTQ1ZlFoSFIyUHJLcVVmdXBiMjZmaEFqNktwbTdsbDBfcmRvNUprTFQzd0ZEeEJmN2daaVA5dV9UWXRMd3VXalBST0x1RUY2SkdvTHFrNUV4aV8taE5OOTBzLVNTT3FsbUZIN28wYVBJbEpwNFU3dGJVUDRLWjdVLXk2OGM4YUJOVjJNdDBvcmxoLThIdmwxVjNPS3k1VjRvTTRETzkta1lpU2NrVEZpYkFaY3JhS2p4cllvSlVSR1NEY0N2dVE?oc=5>
-- **[Unconfirmed] Soneium · News · 2026-09-29** — Soneium Brings K-Pop IP to Blockchain Ecosystem With Dayonedream - Bitcoin News
-  Source: <https://news.google.com/rss/articles/CBMiowFBVV95cUxNMGJ1aVp5S0p3WDdBQjJFMWwyOWc4YzFqc1JvV1RoVDF2aGhhSjRTUndSQVZNamtiR05aOWM1TndXTVAwdmd3eWFEVmtfRUNnUGFiZWhqQThXcDF2bDhqYmgtMGFWT0xKMnpQT1JfQzJHamFlQ09Xbi1FbllDcXRFaE5weDVQaDJQSV90N1FmQUZKRzZ0WF80OVY3eS1Kd0FEMTlZ?oc=5>
 
 ---
 Automatically generated from data/auto-news.json. Labels indicate source confidence, not investment advice.
