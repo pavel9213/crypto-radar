@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T18:48:44Z",
+  "updated_at": "2026-11-10T02:44:23Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -286,6 +286,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-d9b1f5ada42d15185c91",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Soneium Brings K-Pop IP to Blockchain Ecosystem With Dayonedream - Bitcoin News",
+      "status": "Unconfirmed",
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMGJ1aVp5S0p3WDdBQjJFMWwyOWc4YzFqc1JvV1RoVDF2aGhhSjRTUndSQVZNamtiR05aOWM1TndXTVAwdmd3eWFEVmtfRUNnUGFiZWhqQThXcDF2bDhqYmgtMGFWT0xKMnpQT1JfQzJHamFlQ09Xbi1FbllDcXRFaE5weDVQaDJQSV90N1FmQUZKRzZ0WF80OVY3eS1Kd0FEMTlZ?oc=5",
+      "sourceName": "Bitcoin News",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Bitcoin News); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-af9a493448dcebf12b2d",
