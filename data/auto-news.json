@@ -1,22 +1,7 @@
 {
-  "updated_at": "2026-11-10T21:48:34Z",
+  "updated_at": "2026-11-11T06:18:45Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
-    {
-      "id": "auto-b010b548473dbf199fd4",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "Base Launches Upgrade to Make Transactions Faster and More Reliable - Indianweb2.com",
-      "status": "Unconfirmed",
-      "date": "2026-11-06",
-      "publishedAt": "2026-11-06T07:54:00Z",
-      "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43TGx6RzZNdlVlUWw3QmpMSWloeDRrWE8zdU1HWDNYa09heHBzOG9iNlNnZHp0TDU5cFRzYkt4OXJWNUlnQ1FWTXpuV3ZvS3BVWWd5S1BhM09YLTk0dmY1aEFVanVUUUo1NFFka1NWNUNWaEFiT1BNcQ?oc=5",
-      "sourceName": "Indianweb2.com",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Indianweb2.com); not an official confirmation. Verify with the project before acting."
-    },
     {
       "id": "auto-62c6e624d30cbf39616e",
       "projectId": "base",
@@ -978,6 +963,21 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
+      "id": "auto-b5e2d711584f0bde8f89",
+      "projectId": "base",
+      "project": "Base",
+      "category": "News",
+      "title": "What is PING Crypto? Complete Guide to x402 Protocol's First Token - MEXC",
+      "status": "Unconfirmed",
+      "date": "2025-10-23",
+      "publishedAt": "2025-10-23T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmxibjhXcWlaM2NlSmJEX25ONl9pSm8wTmEyUGVLRHVEVjM2T0tTTVJoYWZSNmY2VHczR01HTlJJVzVXUTRqek9LTG5uYW9vZ1hPM1hVY2h5SlhDTC15STlrM1hWMXFhQkpyVjhvYkhwZjJWWldVckdtOV9lWlZHYXpIUTNrQjBYNTlVS0Rob1U1dEpwSHhQOExfSkgwLWVnR3VB?oc=5",
+      "sourceName": "MEXC",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (MEXC); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-63deab66b69fea67ad3f",
       "projectId": "base",
       "project": "Base",
@@ -1308,21 +1308,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-7507c7cd9999ca7519d0",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "Partnership",
-      "title": "Animoca Brands Expands Collaboration with Astar and Sony - ForkLog",
-      "status": "Unconfirmed",
-      "date": "2025-05-21",
-      "publishedAt": "2025-05-21T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVJack40YkRRakljX0tMWWZPY1dfNTFxS2FLVTJkQ2pzempORTRFZUR3Sml6dkFjVmt5clJXTm9YY0dVSTVodm9qcUJlSHRPWFJpWDRmSE9UeTN3YVdaR3ZGTkZ4MUpVZktrTDNrUUI5TjJqYzNCV0lPbHVvUWdGbzN6VmpnTGM?oc=5",
-      "sourceName": "ForkLog",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (ForkLog); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-ed271ee0576382bd668a",
       "projectId": "base",
       "project": "Base",
@@ -1548,21 +1533,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-5cd0cb34bf7604d59c89",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony Music Publishing Jumps Into… NFTs? - Digital Music News",
-      "status": "Unconfirmed",
-      "date": "2025-02-26",
-      "publishedAt": "2025-02-26T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON0FWdmpJbnZyWnNxM2ptQktNVERCYkotWGZoZ2FPWlY5WjBsZTFScmpvYjNrVGVKMDRXUF85eEJrU3pMSzZNa2JBTnNhZ05Da3Z4MVRzdWpmS2JHZ3B4djlldVJHeV9DSmwwTVVvOFFSWFF1TjNKRVJRTzZhY0l5Yi1idUxGVEN2bmc?oc=5",
-      "sourceName": "Digital Music News",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Digital Music News); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-1847f492ef95884c66f3",
       "projectId": "base",
       "project": "Base",
@@ -1726,6 +1696,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Ledger Insights); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-377e8419709937608e31",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony’s public blockchain platform Soneium launches on mainnet - The Block",
+      "status": "Unconfirmed",
+      "date": "2025-01-13",
+      "publishedAt": "2025-01-13T08:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGZCSjVHaE9sOFVFTjZ1ek92VW15YjRnVlp6SnRvdEZybUtwdHlfMlFFQnV4Q0dLUzA2S192RlBUWlVQa0VWUWRMU3NiTkR0LWxjaEZsTW9rT0J2c2UwZFk0ZE5ReVJ6STJWeHZyYVZhMXA3czRna0tib1A2MkpGT3JyQmJ0OTFGbFNJT0FfdVZCZzVWS1hnU0FwcnV0UlpCd1hIeUh2N1NsbDZGNmFJVGx1dEE2T1U?oc=5",
+      "sourceName": "The Block",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-4484ac7184089d77cc14",
