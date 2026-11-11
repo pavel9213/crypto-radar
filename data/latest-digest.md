@@ -1,6 +1,6 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-11T06:18:45Z
+> Feed updated: 2026-11-11T16:10:24Z
 
 ## Overview
 
@@ -12,8 +12,8 @@
 
 ## Categories
 
-- Airdrop: 5
-- News: 172
+- Airdrop: 4
+- News: 173
 - Partnership: 7
 
 ## Latest signals
@@ -54,10 +54,10 @@
   Source: <https://www.base.org/customers/ethos>
 - **[Confirmed] Base · News · 2026-09-30** — Introducing Base Cobalt
   Source: <https://www.base.org/blog/cobalt>
-- **[Unconfirmed] Soneium · Partnership · 2026-09-29** — Soneium and DayOneDream partner to tokenize K-pop IP - Crypto News
-  Source: <https://news.google.com/rss/articles/CBMifkFVX3lxTE5WZ0tzODAzandiTllXRkJGUW1RVWFqSVRIZFFkR0pjVUt1UUR4MTAzMWpCeWV4R0J5Rloxci1kMVlNVi1acW1yRHpRMGh6ZXJvMU1jQ1BOVkd0VXZlQ245dDBDaFpNb3FEeGM2aXczUUhNNngxU3VaOGtsWThYdw?oc=5>
 - **[Unconfirmed] Soneium · News · 2026-09-29** — BTOB, Lee Chae Yeon and More: K-POP IP Goes Onchain With Sony Crypto - TradingView
   Source: <https://news.google.com/rss/articles/CBMixgFBVV95cUxNdTQ1ZlFoSFIyUHJLcVVmdXBiMjZmaEFqNktwbTdsbDBfcmRvNUprTFQzd0ZEeEJmN2daaVA5dV9UWXRMd3VXalBST0x1RUY2SkdvTHFrNUV4aV8taE5OOTBzLVNTT3FsbUZIN28wYVBJbEpwNFU3dGJVUDRLWjdVLXk2OGM4YUJOVjJNdDBvcmxoLThIdmwxVjNPS3k1VjRvTTRETzkta1lpU2NrVEZpYkFaY3JhS2p4cllvSlVSR1NEY0N2dVE?oc=5>
+- **[Unconfirmed] Soneium · News · 2026-09-29** — Soneium Brings K-Pop IP to Blockchain Ecosystem With Dayonedream - Bitcoin News
+  Source: <https://news.google.com/rss/articles/CBMiowFBVV95cUxNMGJ1aVp5S0p3WDdBQjJFMWwyOWc4YzFqc1JvV1RoVDF2aGhhSjRTUndSQVZNamtiR05aOWM1TndXTVAwdmd3eWFEVmtfRUNnUGFiZWhqQThXcDF2bDhqYmgtMGFWT0xKMnpQT1JfQzJHamFlQ09Xbi1FbllDcXRFaE5weDVQaDJQSV90N1FmQUZKRzZ0WF80OVY3eS1Kd0FEMTlZ?oc=5>
 
 ---
 Automatically generated from data/auto-news.json. Labels indicate source confidence, not investment advice.
