@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T16:10:24Z",
+  "updated_at": "2026-11-11T22:41:44Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -588,19 +588,19 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-7a1562b5423dec0d3f22",
+      "id": "auto-ffa34d5951924f0404d3",
       "projectId": "ink",
       "project": "Ink",
       "category": "Airdrop",
-      "title": "How to Farm the Base Airdrop in 2026: A Step-by-Step Guide - Bitget",
+      "title": "How to Farm the Base Airdrop in 2026: A Step-by-Step Guide - Cryptonews.net",
       "status": "Unconfirmed",
-      "date": "2026-05-12",
-      "publishedAt": "2026-05-12T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ITUlYekpPcTBuM1ROQWtvVC1IQ242UVJpbFJuTllLOUFHaTM2ano4Nm5BdnZLNWlpS0E5RWlRRUtRaEZjejE1U29zRmVLVW9lbjB4UV9IR3BkMlZPVWc?oc=5",
-      "sourceName": "Bitget",
+      "date": "2026-05-13",
+      "publishedAt": "2026-05-13T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VeWtjSk5QUEl2eElKNHluWVVoSk9SNWRlckUtZkx6TFZYUk9LZGlaVXRldUhKR2w2T0g5TVpxN2JyQU9SNWhJbHJaRjBzbW5iNXJJTXYzVk1Ldw?oc=5",
+      "sourceName": "Cryptonews.net",
       "sourceType": "news-index",
       "automatic": true,
-      "notes": "Secondary source (Bitget); not an official confirmation. Verify with the project before acting."
+      "notes": "Secondary source (Cryptonews.net); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-7a05f46b5ac7d5f23db3",
@@ -721,21 +721,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-d6b9175dc7a0bfb2deaa",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "On-Chain Pivot Robinhood Launches Ethereum L2-Traded Tokenized Stocks - Castle Crypto",
-      "status": "Unconfirmed",
-      "date": "2026-02-11",
-      "publishedAt": "2026-02-11T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR3Bnd3U2V1pYMXN3MHFoSENDRUlqN0tmbUxsN21EdW1XVGhPX0o0eEphNGJWaWhvRXZZRGtzODBnMFNBVDJCT2JQeFcxNlcxMkZkeEdUOWw3cHZ3bWNZdmxwd09CNFN2YkIzbjVlQUs4OFRJRVRWSFVEUnZMamVHU1VBdEV3OU5QODZTYndRTXhRQUxCc1g5azVYMmN4SjBH?oc=5",
-      "sourceName": "Castle Crypto",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Castle Crypto); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-a8b6964c73f1fd463c9b",
@@ -2403,7 +2388,7 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-dfefe28aeed9482ee60a",
+      "id": "auto-94b3007ff85166c687e3",
       "projectId": "base",
       "project": "Base",
       "category": "News",
@@ -2411,7 +2396,7 @@
       "status": "Unconfirmed",
       "date": "2023-09-25",
       "publishedAt": "2023-09-25T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YX1hQN01ENmJTSTBfenVHZDhiRTRTY0hWa2dOWTVIbERheWh0TVRzbU9iUG5DeWlxd0kyRDcydEJ2M19OZFRYRE9xczZOc29JRmJOX1lQNHl4ckhfTFJzRTdqWVBvUG1aVEHSAW9BVV95cUxPQVhRMnhzSGJJXzU1emhqbnhsR0s5bmgzUWdCbXVSa0F6ZVVlSjgyR292bzNpTlV5SHhBd3VZWjBJc04xY3pGaXFXWkswUElyUlJwUUNvZGZoMWhGemJjTEVtTV9wQ0FhS1NRbXhkOEk?oc=5",
+      "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YX1hQN01ENmJTSTBfenVHZDhiRTRTY0hWa2dOWTVIbERheWh0TVRzbU9iUG5DeWlxd0kyRDcydEJ2M19OZFRYRE9xczZOc29JRmJOX1lQNHl4ckhfTFJzRTdqWVBvUG1aVEE?oc=5",
       "sourceName": "Bitget",
       "sourceType": "news-index",
       "automatic": true,
