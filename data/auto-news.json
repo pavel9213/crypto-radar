@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T22:41:44Z",
+  "updated_at": "2026-11-12T07:09:25Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -916,6 +916,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-66a61bbcdda193271a19",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Japan's Startale unveils super-app for Sony's Soneium blockchain ecosystem - The Block",
+      "status": "Unconfirmed",
+      "date": "2025-11-11",
+      "publishedAt": "2025-11-11T08:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMDZDWFVUM2JjLXlSTnItRWZjQ1A1LU9TRTFUQ1VwWnNBYlhEY2pXZDU4dm85QUp0WE1NaGlqdGhsOGJrd1FHOXNKWFJweFV4b1hQYVFIajZUZUlFTFF2X2VEVlRHelJqSWtPQUFZelJpV1VvNWtwU3pHYmpGN0hMdGtGR1ZvbVZFVnFNa3M5WWdkdjV1Umc?oc=5",
+      "sourceName": "The Block",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-a64f061f726ad05931b7",
