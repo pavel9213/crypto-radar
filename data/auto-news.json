@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-12T07:09:25Z",
+  "updated_at": "2026-11-12T16:48:28Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
+    {
+      "id": "auto-ad5fab51ebe894e9e6a3",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "ETHUSD Multi Collateral Futures Contract (Mar 2027) - TradingView",
+      "status": "Unconfirmed",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T11:21:44Z",
+      "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWEpIQlBOQzNRLWpySEZfQjlHNnI5aTRodHdtQVBCSVcxMV9FTERER1p2NkhNTFMwYUlhZUZ5cFp3UlNYM0ZFYTZXbVdSNk5QUUlUcW5CQ01NRDc5OG43a2JDQVE0OVVaRER1ekRxNFo0eDhlLTdsWWZ3TThJV1BNUGtFV0tHRU1Jc203Wkd1bG1YZng3RkE?oc=5",
+      "sourceName": "TradingView",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
+    },
     {
       "id": "auto-62c6e624d30cbf39616e",
       "projectId": "base",
@@ -46,21 +61,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-39b0d1554e9c1a2bb79c",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "7 Best Crypto Presales as Sony Launches a Soneium Incubation Program for Creators - openPR.com",
-      "status": "Unconfirmed",
-      "date": "2026-10-30",
-      "publishedAt": "2026-10-30T18:14:51Z",
-      "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWFJ3bmI4cG1XRXBmWWpHRkxUZ01QaUc4bkk5dmRMUWdiczFqVDIxUlBkbElQRlJwNjB0U1BZSU5FaEVQa1FXTnN2amlEV1N3M09YTnBERENxSDNQUWVWWVllcVRJZXp5X29MVHhIT2hKcTJnZVhNSjBFblI3VnprNU54aXJhdktlWmxsZWNUd3U2SFMwYVFuQ01vbFU?oc=5",
-      "sourceName": "openPR.com",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (openPR.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-38098b6703aa7dd6d338",
@@ -1368,21 +1368,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-e5fe31c124a7d3dc63cb",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony’s Soneium blockchain teams up with Animoca Brands - GamesBeat",
-      "status": "Unconfirmed",
-      "date": "2025-03-27",
-      "publishedAt": "2025-03-27T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaDJmWnc4cDN3ZE5FSjJpMlk0aE5EbGZ0eWxFUzlmcWlpWGxCbF83dWxUc29CeHJzSW1maHBTYXVucm9qVmZkUnZCZElsMlk0UnBoRHZ2TEEzRlBYMmVEUWE2d0pmNVFrMUhGNXpnVmFKMW9wV3ZxUFJ1anZQSDFLWVVB?oc=5",
-      "sourceName": "GamesBeat",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (GamesBeat); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-768446623cd29fa41881",
       "projectId": "soneium",
       "project": "Soneium",
@@ -1936,21 +1921,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Developer Tech News); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-620e13b2c6b58e4576b6",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony SBL Unveils Public Minato Testnet for Ethereum Layer-2 Blockchain Soneium - Binance",
-      "status": "Unconfirmed",
-      "date": "2024-08-28",
-      "publishedAt": "2024-08-28T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzS3NJano5b3ctTEhTTE9WcHF1NFdoRUlCcmp0QnpVZV9MTVNSS3FHc1pwelFaMkJfZjhYSk9ub182YlBYWUh4YktqQTRjOFBTdG5lQ3BsM2NNbGx4Tkk2RGR5OA?oc=5",
-      "sourceName": "Binance",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Binance); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-54f5fd0df2791336947a",
@@ -2731,21 +2701,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-ba7d3af33f579155e8d1",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "Partnership",
-      "title": "Samsung SDS, Credorax ink blockchain-based financial services partnership - The Korea Herald",
-      "status": "Unconfirmed",
-      "date": "2020-03-04",
-      "publishedAt": "2020-03-04T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rZVF2ODFjdHpjZm9naXNHbU1CVW96YklHa2xJRDFWVXY3MEJxVXZ2MTJSX19oU1dGNzNWekpCU3hjVHF5V2JmZGpnUmJ5a1libU9zcEZB?oc=5",
-      "sourceName": "The Korea Herald",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (The Korea Herald); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-1ffd3ec16ffeb0dff099",

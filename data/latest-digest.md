@@ -1,31 +1,31 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-12T07:09:25Z
+> Feed updated: 2026-11-12T16:48:28Z
 
 ## Overview
 
-- Total signals: **184**
+- Total signals: **181**
 - Projects represented: **3**
 - Confirmed source-origin items: **116**
-- Unconfirmed items: **68**
+- Unconfirmed items: **65**
 - Rumors: **0**
 
 ## Categories
 
 - Airdrop: 4
-- News: 173
-- Partnership: 7
+- News: 171
+- Partnership: 6
 
 ## Latest signals
 
+- **[Unconfirmed] Ink · News · 2026-11-11** — ETHUSD Multi Collateral Futures Contract (Mar 2027) - TradingView
+  Source: <https://news.google.com/rss/articles/CBMilgFBVV95cUxQWEpIQlBOQzNRLWpySEZfQjlHNnI5aTRodHdtQVBCSVcxMV9FTERER1p2NkhNTFMwYUlhZUZ5cFp3UlNYM0ZFYTZXbVdSNk5QUUlUcW5CQ01NRDc5OG43a2JDQVE0OVVaRER1ekRxNFo0eDhlLTdsWWZ3TThJV1BNUGtFV0tHRU1Jc203Wkd1bG1YZng3RkE?oc=5>
 - **[Confirmed] Base · News · 2026-11-05** — Introducing Base Denim
   Source: <https://www.base.org/blog/denim>
 - **[Confirmed] Base · News · 2026-11-04** — How Spiko makes yield universal on Base
   Source: <https://www.base.org/customers/spiko>
 - **[Confirmed] Base · News · 2026-11-03** — Meet the Base Batches 004 cohort
   Source: <https://www.base.org/blog/base-batches-004-cohort>
-- **[Unconfirmed] Soneium · News · 2026-10-30** — 7 Best Crypto Presales as Sony Launches a Soneium Incubation Program for Creators - openPR.com
-  Source: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPWFJ3bmI4cG1XRXBmWWpHRkxUZ01QaUc4bkk5dmRMUWdiczFqVDIxUlBkbElQRlJwNjB0U1BZSU5FaEVQa1FXTnN2amlEV1N3M09YTnBERENxSDNQUWVWWVllcVRJZXp5X29MVHhIT2hKcTJnZVhNSjBFblI3VnprNU54aXJhdktlWmxsZWNUd3U2SFMwYVFuQ01vbFU?oc=5>
 - **[Unconfirmed] Soneium · News · 2026-10-29** — Sony launches Soneium program, giving Sony Group stock a new digital angle - ad-hoc-news.de
   Source: <https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa3ZQMk5XemdLSEdhRHJsOURmU05zMFNpOTlrTmtRYmxoVEt5QTFGQWttRjJHNzI3bklqX0R5bU5rNnhSQ0d2cTllUkdfazEwSVlLSGgwT0w3R3FpbEx6UExQMmpPZUZzZ3U1S0lHSzVxZ0l0R05JUV9yMzQ0Y1pnRWpJeGNybF9nVTFtRF9RakF1T2dhamczdXRBNU51VV9SM2I0Rjc3cTFrb3dUZVQ5X2hKdmhneW1hVkJIRVJ3alZ1QnJFWGctMm5QODRZckxrdVE?oc=5>
 - **[Unconfirmed] Soneium · News · 2026-10-29** — Sony Launches Global Soneium Incubation Program For Onchain Entertainment Startups - OneBullEx
