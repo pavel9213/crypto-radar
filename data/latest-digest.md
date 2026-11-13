@@ -1,25 +1,27 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-13T01:04:45Z
+> Feed updated: 2026-11-13T12:12:25Z
 
 ## Overview
 
-- Total signals: **179**
+- Total signals: **178**
 - Projects represented: **3**
 - Confirmed source-origin items: **117**
-- Unconfirmed items: **62**
+- Unconfirmed items: **61**
 - Rumors: **0**
 
 ## Categories
 
 - Airdrop: 4
-- News: 169
+- News: 168
 - Partnership: 6
 
 ## Latest signals
 
 - **[Confirmed] Base · News · 2026-11-12** — How Exa lets AI agents buy search on demand
   Source: <https://www.base.org/customers/exa>
+- **[Unconfirmed] Ink · News · 2026-11-11** — ETHUSD Multi Collateral Futures Contract (Mar 2027) - TradingView
+  Source: <https://news.google.com/rss/articles/CBMilgFBVV95cUxQWEpIQlBOQzNRLWpySEZfQjlHNnI5aTRodHdtQVBCSVcxMV9FTERER1p2NkhNTFMwYUlhZUZ5cFp3UlNYM0ZFYTZXbVdSNk5QUUlUcW5CQ01NRDc5OG43a2JDQVE0OVVaRER1ekRxNFo0eDhlLTdsWWZ3TThJV1BNUGtFV0tHRU1Jc203Wkd1bG1YZng3RkE?oc=5>
 - **[Confirmed] Base · News · 2026-11-05** — Introducing Base Denim
   Source: <https://www.base.org/blog/denim>
 - **[Confirmed] Base · News · 2026-11-04** — How Spiko makes yield universal on Base
@@ -38,8 +40,6 @@
   Source: <https://news.google.com/rss/articles/CBMikwFBVV95cUxPY3M3ZldpMlNzYXhNS3NCT2NJWklWa1Z6cE5ObFp2LS0wQS0wM1F1Smt3S254MUZMaHdURHd5NTEzVlZWejYxSmE2WWpqZDJsTVROTWE5VzNTNHdjdUh3OUpzR1U2Njh0MUVhelJWb3NRVWRJLWoxbmx2ZTBSNVltQi15UW1CejVLOW9LaXdUai13SG8?oc=5>
 - **[Unconfirmed] Soneium · News · 2026-10-26** — Sony's Blockchain Plans New Token and AI Royalties. Will It Recover? - Yahoo Finance
   Source: <https://news.google.com/rss/articles/CBMimwFBVV95cUxPYlU0NWNFTVBLRGxVM2x0cmRWQzFRUTBzMjFDdVlha29oeWs3VWh4bWJQeHVYVUt4bTNwMDJPYUkxUll0UWtuVkNiOERDb3B2bUVMdzRScWhVLW1iUm9RR2RzVkIzZlRYcVU2eElTYVY4RUJCaFBQUHh6S1o2ek1pSmIzc2pET1RtckYzc2luMWRxWFZBTXY3N3lpbw?oc=5>
-- **[Unconfirmed] Soneium · News · 2026-10-26** — Sony-backed Soneium shifts to tokenized IP econ... - Pluang
-  Source: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQM3RtaFJkNHZ3cFRhaVI4QlVieTJGN2dHN1dEQUx2VGs0Z0FnOUN6MkVOOFJtNHF0dDg0bTk3TXliTmJJbWhhb0d6N2RzZ0ZvWUNOdFJ1cm5FVTdjcHI0bFduSEhDOG5RaUNkaExkT2Vod3g0QklEbEU3OWJJNlc1cEhzdFVndnFYRGFKYTFIbw?oc=5>
 - **[Confirmed] Base · News · 2026-10-22** — How Aave unlocked stock-backed loans on Base
   Source: <https://www.base.org/customers/aave>
 - **[Unconfirmed] Base · News · 2026-10-21** — The Coinbase Bull Case Comes Down to One Very Big Number - 24/7 Wall St.

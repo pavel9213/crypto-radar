@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T01:04:45Z",
+  "updated_at": "2026-11-13T12:12:25Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -16,6 +16,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-ad5fab51ebe894e9e6a3",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "ETHUSD Multi Collateral Futures Contract (Mar 2027) - TradingView",
+      "status": "Unconfirmed",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T11:21:45Z",
+      "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWEpIQlBOQzNRLWpySEZfQjlHNnI5aTRodHdtQVBCSVcxMV9FTERER1p2NkhNTFMwYUlhZUZ5cFp3UlNYM0ZFYTZXbVdSNk5QUUlUcW5CQ01NRDc5OG43a2JDQVE0OVVaRER1ekRxNFo0eDhlLTdsWWZ3TThJV1BNUGtFV0tHRU1Jc203Wkd1bG1YZng3RkE?oc=5",
+      "sourceName": "TradingView",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-62c6e624d30cbf39616e",
@@ -151,21 +166,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Yahoo Finance); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-042cf3304886477fd16d",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony-backed Soneium shifts to tokenized IP econ... - Pluang",
-      "status": "Unconfirmed",
-      "date": "2026-10-26",
-      "publishedAt": "2026-10-26T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM3RtaFJkNHZ3cFRhaVI4QlVieTJGN2dHN1dEQUx2VGs0Z0FnOUN6MkVOOFJtNHF0dDg0bTk3TXliTmJJbWhhb0d6N2RzZ0ZvWUNOdFJ1cm5FVTdjcHI0bFduSEhDOG5RaUNkaExkT2Vod3g0QklEbEU3OWJJNlc1cEhzdFVndnFYRGFKYTFIbw?oc=5",
-      "sourceName": "Pluang",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Pluang); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-ec005ae3f1085d170524",
@@ -616,21 +616,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-5707222400c55108db13",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "The Financial Techniques of Crypto Giant Kraken - Binance",
-      "status": "Unconfirmed",
-      "date": "2026-04-19",
-      "publishedAt": "2026-04-19T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIVUp5WmZuTm9VYTNoMXNaY05DTkt2UGZOeWlOdWdkTFdoSVVzUUlndFlfQk1qS2RVVERxSGg0RFNSdk1ZVzlaSFF1YmthZ08zbzVOSEhVYkE3aFhJU1RjWkJfR2w?oc=5",
-      "sourceName": "Binance",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Binance); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-ed537061cc7dae94fe29",
