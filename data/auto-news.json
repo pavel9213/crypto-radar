@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-12T16:48:28Z",
+  "updated_at": "2026-11-13T01:04:45Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
-      "id": "auto-ad5fab51ebe894e9e6a3",
-      "projectId": "ink",
-      "project": "Ink",
+      "id": "auto-45ea4e7ae431cbc2b4e4",
+      "projectId": "base",
+      "project": "Base",
       "category": "News",
-      "title": "ETHUSD Multi Collateral Futures Contract (Mar 2027) - TradingView",
-      "status": "Unconfirmed",
-      "date": "2026-11-11",
-      "publishedAt": "2026-11-11T11:21:44Z",
-      "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWEpIQlBOQzNRLWpySEZfQjlHNnI5aTRodHdtQVBCSVcxMV9FTERER1p2NkhNTFMwYUlhZUZ5cFp3UlNYM0ZFYTZXbVdSNk5QUUlUcW5CQ01NRDc5OG43a2JDQVE0OVVaRER1ekRxNFo0eDhlLTdsWWZ3TThJV1BNUGtFV0tHRU1Jc203Wkd1bG1YZng3RkE?oc=5",
-      "sourceName": "TradingView",
-      "sourceType": "news-index",
+      "title": "How Exa lets AI agents buy search on demand",
+      "status": "Confirmed",
+      "date": "2026-11-12",
+      "publishedAt": "2026-11-12T00:00:00Z",
+      "source": "https://www.base.org/customers/exa",
+      "sourceName": "www.base.org",
+      "sourceType": "official",
       "automatic": true,
-      "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
+      "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
       "id": "auto-62c6e624d30cbf39616e",
@@ -153,21 +153,6 @@
       "notes": "Secondary source (Yahoo Finance); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-28824066d256e6197d77",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony-backed Soneium plans a native token for entertainment IP and royalties - The Cryptonomist",
-      "status": "Unconfirmed",
-      "date": "2026-10-26",
-      "publishedAt": "2026-10-26T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03QzZYblhkMGdyXzhFWUhnV2JzMjNDYjhjUVJxbmI3aDNmMXRFdnJkMGlqZ1JwNlhKN1ptNlBtdHh3dG1QcVZmZWpHS2JtakR4N3FRWlJZOFVfcXVVd1BHN0IyMlB6V08zSkZycm91czRwcEhIVEdv?oc=5",
-      "sourceName": "The Cryptonomist",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (The Cryptonomist); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-042cf3304886477fd16d",
       "projectId": "soneium",
       "project": "Soneium",
@@ -213,19 +198,19 @@
       "notes": "Secondary source (24/7 Wall St.); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-cc77973791d6007ad0c8",
+      "id": "auto-48bfebb38e621b23e2cd",
       "projectId": "base",
       "project": "Base",
       "category": "News",
-      "title": "The Coinbase Bull Case Comes Down to One Very Big Number - AOL.com",
+      "title": "The Coinbase Bull Case Comes Down to One Very Big Number - AOL.co.uk",
       "status": "Unconfirmed",
       "date": "2026-10-21",
       "publishedAt": "2026-10-21T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lMEVOY3NoTDMyYkVLOXU2Z2JZTjE1N2R4V3R1NkJJbHVITWc5LWJ3ckNTZFE3Y0pWeW5uWHg4czI1Vzdsak02dzhlSVpDckJEaG13dzRFVXZfMkx5ZExnNnpacHZ0VUxuWHhkS251RWd0MTN3SkJ1cERVSDRGUQ?oc=5",
-      "sourceName": "AOL.com",
+      "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX1hMOWpwaUxlOGdDM25QYzE3NmxhSDJmZHhTTnRfZXVwVm9fdWNfTzd2dkNqMDJwSVpESkc1OGFkZmRJVW1LMHZRMXdIUVVwa1V5Z0w4bDNRX09jNHRDN1QtM20xWVQ1OFVLVGxVeEhhdlFncVc1RGtHX19DSkZfcw?oc=5",
+      "sourceName": "AOL.co.uk",
       "sourceType": "news-index",
       "automatic": true,
-      "notes": "Secondary source (AOL.com); not an official confirmation. Verify with the project before acting."
+      "notes": "Secondary source (AOL.co.uk); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-3e0da202b12ce3a265d2",
@@ -348,21 +333,6 @@
       "notes": "Secondary source (BigGo Finance); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-a631e08ef1de8cf8a103",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Kraken Introduces Yield-Earning Vaults for Tokenized Nvidia (NVDA) Shares and ETFs - Blockonomi",
-      "status": "Unconfirmed",
-      "date": "2026-09-15",
-      "publishedAt": "2026-09-15T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc0pIcGNYdVlzRlppMF9HdjM3UVYyUDRpR3pNR2JGRmNqUUxsLUc3LXZNM3RMVkZ3SUpzc3g3dW8wYkFzazVTTUh6a3lRcXNDTUdWSlZPM2RXZE1pTml6U0dqMjlqY21teTZtaklOR2pFaWctelFtX25TTFVjZjFCVXZxVEI1RWd4NEYwYWtWc2NsOFpQRk5jUk51UU94bkp3QkJBNm1CSQ?oc=5",
-      "sourceName": "Blockonomi",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Blockonomi); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-dc25a8748dce0b754337",
       "projectId": "ink",
       "project": "Ink",
@@ -481,6 +451,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-dfeb1c2ed71dff720107",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Chainlink Quarterly Review: Q2, 2026 - Chainlink",
+      "status": "Unconfirmed",
+      "date": "2026-07-24",
+      "publishedAt": "2026-07-24T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12OXhzTXRmY1pJeU11eXVMamJseU5PQlBHRWFBWkg4RWE2TXh1MWxpTzBEU3Ntd2FLSVdIMGFtQTVMMkNNc0tYbmlRVE9lUms4NTd1VlBVV2F0aHBF?oc=5",
+      "sourceName": "Chainlink",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Chainlink); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-1d7eff35e7bcbdf33d5a",
@@ -1113,6 +1098,21 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
+      "id": "auto-52b110a2ce884be47346",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Kraken’s revenue sinks for second quarter amid fierce competition and thinning volumes - dlnews.com",
+      "status": "Unconfirmed",
+      "date": "2025-07-31",
+      "publishedAt": "2025-07-31T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObnViOThFQlQ4Y2huczZWbkFGdGpfdlF2WlJWTWFTWGNKMGpMS0NHczU1YzJuRjljUk1jNkhEc29fWjZtNEdhd05uQ0oya2tHcGxPTGVUUG1MR3dOSEJXUzF6cFpDYkZKTzRTallmZi1aZlg2clFLNWRtdlpzRG9aV1lLTVpNSWVMdFJ2Tm0zdGxianlfYkNBeWJ4RklQdV9leFE?oc=5",
+      "sourceName": "dlnews.com",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (dlnews.com); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-ab5a7a20e7749032d15e",
       "projectId": "base",
       "project": "Base",
@@ -1216,21 +1216,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-f6d26ced4012041e1ece",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Kraken's Ethereum Layer-2 Ink Network Is Launching a Token - Decrypt",
-      "status": "Unconfirmed",
-      "date": "2025-06-17",
-      "publishedAt": "2025-06-17T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sczRMeTBqbmhFZjU3QUNUX0JWYnNsak5lQldZcHRlZ01xV0VHUEtLcVFUX1dJSzBJWkVBZTNUeWZQaUVwRURyc0g5dTZWWkxubjVLM3lCWGRsVFYxZ0VxalBpWlNFR0RKN3dmQm1fWW5id0RlcTNWNA?oc=5",
-      "sourceName": "Decrypt",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Decrypt); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-f8a7518394738cc27b13",
@@ -2086,21 +2071,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-1e948c74e3478fd235a2",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "Report: Coinbase Asset Management Creating Tokenized Money Market Fund - PYMNTS.com",
-      "status": "Unconfirmed",
-      "date": "2024-07-24",
-      "publishedAt": "2024-07-24T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS2M4WmxheGpobTFxdWhSX3JweV9iOTFDTHNwZGwyNk9SQnAzbHJkN3BuUmNDVUFrdXVLb0VJcVNTeW42NlJfZm1MMUZneUZGWTE0V1VxVEZUeVNDTmdEZVBXbFhEbUlkM3hKc3lPTkFmNjcxYWNETGp4azAzb1c0eENicWZ3Y1c0UUJjNWZoSXUtSzNtX1RhdGZZU09UckM4NHFybGxhVzNuNjFiNWR2dVdsMA?oc=5",
-      "sourceName": "PYMNTS.com",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (PYMNTS.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-8e12b6a1f1b8594d91fa",
