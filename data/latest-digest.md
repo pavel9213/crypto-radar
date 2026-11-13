@@ -1,6 +1,6 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-13T12:12:25Z
+> Feed updated: 2026-11-13T19:41:48Z
 
 ## Overview
 
@@ -40,6 +40,8 @@
   Source: <https://news.google.com/rss/articles/CBMikwFBVV95cUxPY3M3ZldpMlNzYXhNS3NCT2NJWklWa1Z6cE5ObFp2LS0wQS0wM1F1Smt3S254MUZMaHdURHd5NTEzVlZWejYxSmE2WWpqZDJsTVROTWE5VzNTNHdjdUh3OUpzR1U2Njh0MUVhelJWb3NRVWRJLWoxbmx2ZTBSNVltQi15UW1CejVLOW9LaXdUai13SG8?oc=5>
 - **[Unconfirmed] Soneium · News · 2026-10-26** — Sony's Blockchain Plans New Token and AI Royalties. Will It Recover? - Yahoo Finance
   Source: <https://news.google.com/rss/articles/CBMimwFBVV95cUxPYlU0NWNFTVBLRGxVM2x0cmRWQzFRUTBzMjFDdVlha29oeWs3VWh4bWJQeHVYVUt4bTNwMDJPYUkxUll0UWtuVkNiOERDb3B2bUVMdzRScWhVLW1iUm9RR2RzVkIzZlRYcVU2eElTYVY4RUJCaFBQUHh6S1o2ek1pSmIzc2pET1RtckYzc2luMWRxWFZBTXY3N3lpbw?oc=5>
+- **[Unconfirmed] Soneium · News · 2026-10-26** — Sony-backed Soneium shifts to tokenized IP econ... - Pluang
+  Source: <https://news.google.com/rss/articles/CBMijwFBVV95cUxQM3RtaFJkNHZ3cFRhaVI4QlVieTJGN2dHN1dEQUx2VGs0Z0FnOUN6MkVOOFJtNHF0dDg0bTk3TXliTmJJbWhhb0d6N2RzZ0ZvWUNOdFJ1cm5FVTdjcHI0bFduSEhDOG5RaUNkaExkT2Vod3g0QklEbEU3OWJJNlc1cEhzdFVndnFYRGFKYTFIbw?oc=5>
 - **[Confirmed] Base · News · 2026-10-22** — How Aave unlocked stock-backed loans on Base
   Source: <https://www.base.org/customers/aave>
 - **[Unconfirmed] Base · News · 2026-10-21** — The Coinbase Bull Case Comes Down to One Very Big Number - 24/7 Wall St.
@@ -56,8 +58,6 @@
   Source: <https://news.google.com/rss/articles/CBMixgFBVV95cUxNdTQ1ZlFoSFIyUHJLcVVmdXBiMjZmaEFqNktwbTdsbDBfcmRvNUprTFQzd0ZEeEJmN2daaVA5dV9UWXRMd3VXalBST0x1RUY2SkdvTHFrNUV4aV8taE5OOTBzLVNTT3FsbUZIN28wYVBJbEpwNFU3dGJVUDRLWjdVLXk2OGM4YUJOVjJNdDBvcmxoLThIdmwxVjNPS3k1VjRvTTRETzkta1lpU2NrVEZpYkFaY3JhS2p4cllvSlVSR1NEY0N2dVE?oc=5>
 - **[Unconfirmed] Soneium · News · 2026-09-29** — Soneium Brings K-Pop IP to Blockchain Ecosystem With Dayonedream - Bitcoin News
   Source: <https://news.google.com/rss/articles/CBMiowFBVV95cUxNMGJ1aVp5S0p3WDdBQjJFMWwyOWc4YzFqc1JvV1RoVDF2aGhhSjRTUndSQVZNamtiR05aOWM1TndXTVAwdmd3eWFEVmtfRUNnUGFiZWhqQThXcDF2bDhqYmgtMGFWT0xKMnpQT1JfQzJHamFlQ09Xbi1FbllDcXRFaE5weDVQaDJQSV90N1FmQUZKRzZ0WF80OVY3eS1Kd0FEMTlZ?oc=5>
-- **[Confirmed] Base · News · 2026-09-29** — How Centrifuge brought the S&P 500® onchain
-  Source: <https://www.base.org/customers/centrifuge>
 
 ---
 Automatically generated from data/auto-news.json. Labels indicate source confidence, not investment advice.

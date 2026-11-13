@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T12:12:25Z",
+  "updated_at": "2026-11-13T19:41:48Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -166,6 +166,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Yahoo Finance); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-042cf3304886477fd16d",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony-backed Soneium shifts to tokenized IP econ... - Pluang",
+      "status": "Unconfirmed",
+      "date": "2026-10-26",
+      "publishedAt": "2026-10-26T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM3RtaFJkNHZ3cFRhaVI4QlVieTJGN2dHN1dEQUx2VGs0Z0FnOUN6MkVOOFJtNHF0dDg0bTk3TXliTmJJbWhhb0d6N2RzZ0ZvWUNOdFJ1cm5FVTdjcHI0bFduSEhDOG5RaUNkaExkT2Vod3g0QklEbEU3OWJJNlc1cEhzdFVndnFYRGFKYTFIbw?oc=5",
+      "sourceName": "Pluang",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Pluang); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-ec005ae3f1085d170524",
@@ -738,21 +753,6 @@
       "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-510f8d0e7bf234ef6ca6",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony doubles down on Soneium after first year of mainnet activity - TradingView",
-      "status": "Unconfirmed",
-      "date": "2026-01-28",
-      "publishedAt": "2026-01-28T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXJmMEx5UGgzanc0d1J2VnNxUUx1MnJ2bzN3dXNabDQ1cUdGVVIwcGY3bHFPZG5feENNVUV2M1A2Z054UGVDLVZUbnUteTkxVk53RXItT2JyemZpRXJGM3lydEtQemM4bTdZM0pLcEtxUkxtbGN4djdhaF90a09qUnVkWC0xbF9GeVRMaVNFbHJuVVF6M1FkREVqSVRhVzBEalh1TkhaTzB2cmtrXzNmTHJOZnRkTkJWT2MxdVVGSFQtdHM0TGFObg?oc=5",
-      "sourceName": "TradingView",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-b7b1f679e527e13623d4",
       "projectId": "base",
       "project": "Base",
@@ -1081,21 +1081,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-52b110a2ce884be47346",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Kraken’s revenue sinks for second quarter amid fierce competition and thinning volumes - dlnews.com",
-      "status": "Unconfirmed",
-      "date": "2025-07-31",
-      "publishedAt": "2025-07-31T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObnViOThFQlQ4Y2huczZWbkFGdGpfdlF2WlJWTWFTWGNKMGpMS0NHczU1YzJuRjljUk1jNkhEc29fWjZtNEdhd05uQ0oya2tHcGxPTGVUUG1MR3dOSEJXUzF6cFpDYkZKTzRTallmZi1aZlg2clFLNWRtdlpzRG9aV1lLTVpNSWVMdFJ2Tm0zdGxianlfYkNBeWJ4RklQdV9leFE?oc=5",
-      "sourceName": "dlnews.com",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (dlnews.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-ab5a7a20e7749032d15e",
@@ -1471,6 +1456,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-5cd0cb34bf7604d59c89",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony Music Publishing Jumps Into… NFTs? - Digital Music News",
+      "status": "Unconfirmed",
+      "date": "2025-02-26",
+      "publishedAt": "2025-02-26T08:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON0FWdmpJbnZyWnNxM2ptQktNVERCYkotWGZoZ2FPWlY5WjBsZTFScmpvYjNrVGVKMDRXUF85eEJrU3pMSzZNa2JBTnNhZ05Da3Z4MVRzdWpmS2JHZ3B4djlldVJHeV9DSmwwTVVvOFFSWFF1TjNKRVJRTzZhY0l5Yi1idUxGVEN2bmc?oc=5",
+      "sourceName": "Digital Music News",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Digital Music News); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-1847f492ef95884c66f3",
