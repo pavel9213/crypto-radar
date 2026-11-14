@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T00:53:09Z",
+  "updated_at": "2026-11-14T11:27:56Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -91,21 +91,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (ad-hoc-news.de); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-900f9bffa162e8c4935b",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony Launches Global Soneium Incubation Program For Onchain Entertainment Startups - OneBullEx",
-      "status": "Unconfirmed",
-      "date": "2026-10-29",
-      "publishedAt": "2026-10-29T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZHUxejNhM0NFT3QyNXJWS2NNOHhLUWJDVTVJQS14MC1USThDOFYtNVE2Rm9GYmtNMVhFRVZvbDlBYXZXbzRUNVNpaTBZSGJ5a3pDMVYzWkowNGd6aHd4VGNVZEQ2azBNbm1qbkhpaWVMNFdtV25UVUtRNTAzSk5tQndEWmgyeUdqempUX05ZejVxU2lJdkFKOWFvX21nSHE5YkdNLTZQc0U3OFdmbTJ4VUF3am9UU2Z6bzlJNFlWQQ?oc=5",
-      "sourceName": "OneBullEx",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (OneBullEx); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-cc6a1dfbdd1f11f0e1d1",
