@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T19:41:48Z",
+  "updated_at": "2026-11-14T00:53:09Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -166,21 +166,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Yahoo Finance); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-042cf3304886477fd16d",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony-backed Soneium shifts to tokenized IP econ... - Pluang",
-      "status": "Unconfirmed",
-      "date": "2026-10-26",
-      "publishedAt": "2026-10-26T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM3RtaFJkNHZ3cFRhaVI4QlVieTJGN2dHN1dEQUx2VGs0Z0FnOUN6MkVOOFJtNHF0dDg0bTk3TXliTmJJbWhhb0d6N2RzZ0ZvWUNOdFJ1cm5FVTdjcHI0bFduSEhDOG5RaUNkaExkT2Vod3g0QklEbEU3OWJJNlc1cEhzdFVndnFYRGFKYTFIbw?oc=5",
-      "sourceName": "Pluang",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Pluang); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-ec005ae3f1085d170524",
