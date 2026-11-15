@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T15:39:24Z",
+  "updated_at": "2026-11-15T21:02:13Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -468,21 +468,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-1643a7dc2e4dec2e1edc",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Nado Statistics: Markets, Trading Volume & Trust Score - CoinGecko",
-      "status": "Unconfirmed",
-      "date": "2026-06-10",
-      "publishedAt": "2026-06-10T03:09:21Z",
-      "source": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GenhwMWNjYUphS2ZKbVhLMEpCSGJiekFxYVBUZTBOdzd2eXN4LUV4ZmczMWNTTkdSclZfUkxmRlU0T2xFb0tpZUJoTE9FWjFXLTZQM0hn?oc=5",
-      "sourceName": "CoinGecko",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (CoinGecko); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-6dd9d72e893ae716affd",
       "projectId": "base",
       "project": "Base",
@@ -661,6 +646,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Crypto News Australia); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-d6b9175dc7a0bfb2deaa",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "On-Chain Pivot Robinhood Launches Ethereum L2-Traded Tokenized Stocks - Castle Crypto",
+      "status": "Unconfirmed",
+      "date": "2026-02-11",
+      "publishedAt": "2026-02-11T08:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR3Bnd3U2V1pYMXN3MHFoSENDRUlqN0tmbUxsN21EdW1XVGhPX0o0eEphNGJWaWhvRXZZRGtzODBnMFNBVDJCT2JQeFcxNlcxMkZkeEdUOWw3cHZ3bWNZdmxwd09CNFN2YkIzbjVlQUs4OFRJRVRWSFVEUnZMamVHU1VBdEV3OU5QODZTYndRTXhRQUxCc1g5azVYMmN4SjBH?oc=5",
+      "sourceName": "Castle Crypto",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Castle Crypto); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-6fd98d85e60cb3bb7290",
@@ -1293,6 +1293,21 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
+      "id": "auto-91646acbf85e6ddae033",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Animoca Brands teams with Sony’s Soneium blockchain for anime digital IDs - The Australian",
+      "status": "Unconfirmed",
+      "date": "2025-04-01",
+      "publishedAt": "2025-04-01T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQS19XYVJwSTBaYU1iSzNkOC1DTnZnQjhOVEhjOXl2UUcydXhXNzB4R2ZpbVJLV2NVeG5aS3AwNnlEZHBLWUNGMl81VElfSW1RenhjaWZ0dnpsdnU5cHJwLTczTHRtck5QM2tMeHhMNkJKcXRyRy1MTzlMdzk0QlhybGxocHA4OFRpU0ZEdWQ4ckNnWGUzM01xMnFpNU45cEVyOXZVSkVSNlozOUowMGctal95VGQwN2l0b0tuaWFiblBzOW93MGFHa1Qtd3ZsNDh3TzZwUnFWNDMxOFA2QkJ6M1NwbUdqRkZQdld4SHNTUDhZN1J6TjNaZXl4UHRFUzRfaVFTczFrOA?oc=5",
+      "sourceName": "The Australian",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (The Australian); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-e5fe31c124a7d3dc63cb",
       "projectId": "soneium",
       "project": "Soneium",
@@ -1353,21 +1368,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-b1246c47f6adf44a690f",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Japanese Tech Giants Sony and LINE Join Forces in Blockchain Deal - CoinDesk",
-      "status": "Unconfirmed",
-      "date": "2025-03-12",
-      "publishedAt": "2025-03-12T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMFRiWmlsS20wd3FoRWV2WWtFZ0t1UXFQMzNVNHkyNGhfLUc0MFkySmE4dUhzS293TFFZTGQwQVd3ZGRTSHZzcERrdGRGZ0xoR01CSm9zR3JyUkR1UUR0UXpYNjNRTXl4R0hWN3p3UWdjaEJtRDJsMXBqQVplTkFjaTl2aVpzZ0V6TG1hWnExYVJING94RUQ1ODRGZW9yYk81ZjMyT2NvNHRpdw?oc=5",
-      "sourceName": "CoinDesk",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (CoinDesk); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-2768355c21c82f199df3",
       "projectId": "soneium",
       "project": "Soneium",
@@ -1381,6 +1381,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (blockhead.co); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-b1246c47f6adf44a690f",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Japanese Tech Giants Sony and LINE Join Forces in Blockchain Deal - CoinDesk",
+      "status": "Unconfirmed",
+      "date": "2025-03-12",
+      "publishedAt": "2025-03-12T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMFRiWmlsS20wd3FoRWV2WWtFZ0t1UXFQMzNVNHkyNGhfLUc0MFkySmE4dUhzS293TFFZTGQwQVd3ZGRTSHZzcERrdGRGZ0xoR01CSm9zR3JyUkR1UUR0UXpYNjNRTXl4R0hWN3p3UWdjaEJtRDJsMXBqQVplTkFjaTl2aVpzZ0V6TG1hWnExYVJING94RUQ1ODRGZW9yYk81ZjMyT2NvNHRpdw?oc=5",
+      "sourceName": "CoinDesk",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (CoinDesk); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-0c61ee2749098f218fef",
