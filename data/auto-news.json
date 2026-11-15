@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T06:30:34Z",
+  "updated_at": "2026-11-15T15:39:24Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -78,6 +78,21 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
+      "id": "auto-f093718bd4e0aa1584e3",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony Launches Global Soneium Incubation Program For Onchain Entertainment Startups - OneBullEx",
+      "status": "Unconfirmed",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPenlOZk1OaExkVXFkcG14Tk9UaVZaejhxWjl2V3NkemlMdUp4TEIwRnQ1cWh4alhiZm5idmVVTUZyX24xXzRQUnJDQVlmd1Mxek5ldDBqZXZTckJkQWp5dW9tcGp6LUZxNmZaTkVTRklIbDEtZ3gyUU96cE9sTjdFTXZzWnZiOFJNcGpxSDBZVDFla2hCdGFkcG5Sb1k1dmE5Zkp6M1ZBbnhXSDhPdVlNSVNXS0xMNV9jZlAwX1Exc3BBdw?oc=5",
+      "sourceName": "OneBullEx",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (OneBullEx); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-066d138e2926f4ab5f22",
       "projectId": "base",
       "project": "Base",
@@ -153,19 +168,19 @@
       "notes": "Secondary source (24/7 Wall St.); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-48bfebb38e621b23e2cd",
+      "id": "auto-cc77973791d6007ad0c8",
       "projectId": "base",
       "project": "Base",
       "category": "News",
-      "title": "The Coinbase Bull Case Comes Down to One Very Big Number - AOL.co.uk",
+      "title": "The Coinbase Bull Case Comes Down to One Very Big Number - AOL.com",
       "status": "Unconfirmed",
       "date": "2026-10-21",
       "publishedAt": "2026-10-21T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX1hMOWpwaUxlOGdDM25QYzE3NmxhSDJmZHhTTnRfZXVwVm9fdWNfTzd2dkNqMDJwSVpESkc1OGFkZmRJVW1LMHZRMXdIUVVwa1V5Z0w4bDNRX09jNHRDN1QtM20xWVQ1OFVLVGxVeEhhdlFncVc1RGtHX19DSkZfcw?oc=5",
-      "sourceName": "AOL.co.uk",
+      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lMEVOY3NoTDMyYkVLOXU2Z2JZTjE1N2R4V3R1NkJJbHVITWc5LWJ3ckNTZFE3Y0pWeW5uWHg4czI1Vzdsak02dzhlSVpDckJEaG13dzRFVXZfMkx5ZExnNnpacHZ0VUxuWHhkS251RWd0MTN3SkJ1cERVSDRGUQ?oc=5",
+      "sourceName": "AOL.com",
       "sourceType": "news-index",
       "automatic": true,
-      "notes": "Secondary source (AOL.co.uk); not an official confirmation. Verify with the project before acting."
+      "notes": "Secondary source (AOL.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-3e0da202b12ce3a265d2",
@@ -1771,6 +1786,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (DailyCoin); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-fc79b687088531d10635",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Scam Sniffer Exposes Google Ad for Sony’s Soneium Blockchain as Crypto Wallet Drainer - CryptoPotato",
+      "status": "Unconfirmed",
+      "date": "2024-10-23",
+      "publishedAt": "2024-10-23T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUo1Ul9GSzF4b2N3QV9VNExya0NPMU53LXQyNG10REt2VGFZR0hzMEdZVWlaeVlPZURRUDN0V3k3aktINERwaC02UGV2d2UxS1RqYURpVUtOcENpQlllcFFQV1pFZVloT3R4THFCYkc5d2ZhY2k0Y0dzUGs2bS1vTUt6eXRRNUtESXl3UWl6N1hPWkFSQkF0SG1ieEhKQnIyVmJmWXQzVmlHWkg4d0w0?oc=5",
+      "sourceName": "CryptoPotato",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (CryptoPotato); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-bfe599cf7e3680937df7",
