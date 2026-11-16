@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T21:02:13Z",
+  "updated_at": "2026-11-16T06:28:39Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -91,6 +91,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (OneBullEx); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-cc6a1dfbdd1f11f0e1d1",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony launches Soneium incubation program for creators - Crypto News",
+      "status": "Unconfirmed",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T06:03:00Z",
+      "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11VkNjdlA3bkh2X3VFZWN3SEVDOEhyaFlhbU9Fai1XeGZMeEtOOUJrdkZjZ0NranFpQV9vNVFEeE92ejl6dHVqclU3dkk2c0hUUHI0MDRxTmpraGJMTDVGakZJNE5yVjc4UC1lNmU3SDA2X0dYM2VzTUFDSVhBVXM?oc=5",
+      "sourceName": "Crypto News",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Crypto News); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-066d138e2926f4ab5f22",
@@ -1996,6 +2011,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Binance); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-1476cf7ad96e91ceaed6",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony’s Layer-2 Blockchain Soneium to Rival Coinbase’s Base Network - BeInCrypto",
+      "status": "Unconfirmed",
+      "date": "2024-08-23",
+      "publishedAt": "2024-08-23T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rZy1YUlBRTWlIbU1QdzBneU1XRThoMi1kTm1ZZ0VmOVItTmwwWXZlcHg5T0VtZGtBUWtfWVg2bENNcmpKQ3JPNU93T0tlYzJxNkIyUDhLU3pmbWdSWllGdWRweFpmX2c?oc=5",
+      "sourceName": "BeInCrypto",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (BeInCrypto); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-c961480f7bfd040c650c",
