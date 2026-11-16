@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T06:28:39Z",
+  "updated_at": "2026-11-16T18:31:59Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -16,21 +16,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-ad5fab51ebe894e9e6a3",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "ETHUSD Multi Collateral Futures Contract (Mar 2027) - TradingView",
-      "status": "Unconfirmed",
-      "date": "2026-11-11",
-      "publishedAt": "2026-11-11T11:21:45Z",
-      "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWEpIQlBOQzNRLWpySEZfQjlHNnI5aTRodHdtQVBCSVcxMV9FTERER1p2NkhNTFMwYUlhZUZ5cFp3UlNYM0ZFYTZXbVdSNk5QUUlUcW5CQ01NRDc5OG43a2JDQVE0OVVaRER1ekRxNFo0eDhlLTdsWWZ3TThJV1BNUGtFV0tHRU1Jc203Wkd1bG1YZng3RkE?oc=5",
-      "sourceName": "TradingView",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-62c6e624d30cbf39616e",
@@ -648,21 +633,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-a8b6964c73f1fd463c9b",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Tether Backs LayerZero in Bet on Cross-Chain Stablecoin Infrastructure - Crypto News Australia",
-      "status": "Unconfirmed",
-      "date": "2026-02-11",
-      "publishedAt": "2026-02-11T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaEhNTXZibUYyMDNrb0swZ3RpRk0yQXc1V0FXSkR5TVA2V1dYYVBtTUo2cUNlS041NGdxbWRHVFY5TTBEbzlnT2JYc1Rxc3RNOEdXa2hnMUJCT3NNdFJ5ZXBJc25RajNxd2haTmdPNDNULUZ6WnEwMWtEX0xmRk1LSXY0X0dWZkRSX1hGamF0OHZMVlI1bVZrVFlMWlUzVDZtSE9DQjZiTFNtVXdoT0E?oc=5",
-      "sourceName": "Crypto News Australia",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Crypto News Australia); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-d6b9175dc7a0bfb2deaa",
       "projectId": "ink",
       "project": "Ink",
@@ -678,6 +648,21 @@
       "notes": "Secondary source (Castle Crypto); not an official confirmation. Verify with the project before acting."
     },
     {
+      "id": "auto-a8b6964c73f1fd463c9b",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Tether Backs LayerZero in Bet on Cross-Chain Stablecoin Infrastructure - Crypto News Australia",
+      "status": "Unconfirmed",
+      "date": "2026-02-11",
+      "publishedAt": "2026-02-11T08:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaEhNTXZibUYyMDNrb0swZ3RpRk0yQXc1V0FXSkR5TVA2V1dYYVBtTUo2cUNlS041NGdxbWRHVFY5TTBEbzlnT2JYc1Rxc3RNOEdXa2hnMUJCT3NNdFJ5ZXBJc25RajNxd2haTmdPNDNULUZ6WnEwMWtEX0xmRk1LSXY0X0dWZkRSX1hGamF0OHZMVlI1bVZrVFlMWlUzVDZtSE9DQjZiTFNtVXdoT0E?oc=5",
+      "sourceName": "Crypto News Australia",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Crypto News Australia); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-6fd98d85e60cb3bb7290",
       "projectId": "base",
       "project": "Base",
@@ -691,21 +676,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-198c7ae5a1a40c42e65e",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony Ventures boosts Startale funding with $13M bet on Soneium blockchain - TradingView",
-      "status": "Unconfirmed",
-      "date": "2026-01-29",
-      "publishedAt": "2026-01-29T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOHRGMFJESXVxakRyb2x2MFJJWl9kMFF6R0FmUGEwbDF5OEtYWDJoUEQtNXlEOHRGdW1rZ3BDeTVPaDlTcnBXeFdCNTZSaVVUZzZEYjg0TVVYcWRxT0dINFJ2dmNtam54eDRHcEJvbXhfM04xRG41WjlodV9zWDUtNm5WOW80VmlPZGVzeDhXaG9FSHBidmN2SjV6MWNuSVBVdHN4ZmN5UGZpZGhtNm1tZEpuMmRwdE1sMUp4WnViek40V0RnX2VzVg?oc=5",
-      "sourceName": "TradingView",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-510f8d0e7bf234ef6ca6",
@@ -856,6 +826,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-974430b45df92af4d7aa",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Just-In: Startale Launches Super App for Sony’s Soneium Blockchain Ecosystem - CoinGape",
+      "status": "Unconfirmed",
+      "date": "2025-11-11",
+      "publishedAt": "2025-11-11T08:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObUtOX09GLUFrTXpzSXNPeDczcTVwT1lhMmhNeTk4NjQzQW5uUGxCTkIxY0xHajJLQmFJRVVDLV9ZekxXX3VyU0ZzS1JGQkFxdjhYbGNXVkFfMHgxcVVaM3ZwSEhQQWVHaU4wcmNEVXFPbjNMUmJyeGloTjRCTzhZT0NfUDlxWjkzM1pzaUFCc28?oc=5",
+      "sourceName": "CoinGape",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (CoinGape); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-66a61bbcdda193271a19",
@@ -1801,6 +1786,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Blockworks); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-18c917770878fe4c4a68",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Just In: Kraken To Launch Its Own Blockchain in 2025 - CoinGape",
+      "status": "Unconfirmed",
+      "date": "2024-10-24",
+      "publishedAt": "2024-10-24T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2R0Q4UTh5OE5PTkVzV0RybGJiVGo2ZUFxX0JTZEtIeklNaDJaOEhDYlhBQ1YwTTFVeTluS0N3TVJIZ09kRG51QXAxUHo3SGJrZE5xYlcxN2tLRGNSWHhSSHo2T3U1SzZDSldBN3ZrQzRNUm9jY21FSWt5NWpTZw?oc=5",
+      "sourceName": "CoinGape",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (CoinGape); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-d598fb03d3d9b7a2d6df",
