@@ -1,19 +1,19 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-17T02:55:18Z
+> Feed updated: 2026-11-17T13:26:07Z
 
 ## Overview
 
-- Total signals: **183**
+- Total signals: **181**
 - Projects represented: **3**
 - Confirmed source-origin items: **117**
-- Unconfirmed items: **66**
+- Unconfirmed items: **64**
 - Rumors: **0**
 
 ## Categories
 
 - Airdrop: 4
-- News: 173
+- News: 171
 - Partnership: 6
 
 ## Latest signals
@@ -50,14 +50,14 @@
   Source: <https://www.base.org/blog/cobalt>
 - **[Unconfirmed] Soneium · News · 2026-09-29** — BTOB, Lee Chae Yeon and More: K-POP IP Goes Onchain With Sony Crypto - TradingView
   Source: <https://news.google.com/rss/articles/CBMixgFBVV95cUxNdTQ1ZlFoSFIyUHJLcVVmdXBiMjZmaEFqNktwbTdsbDBfcmRvNUprTFQzd0ZEeEJmN2daaVA5dV9UWXRMd3VXalBST0x1RUY2SkdvTHFrNUV4aV8taE5OOTBzLVNTT3FsbUZIN28wYVBJbEpwNFU3dGJVUDRLWjdVLXk2OGM4YUJOVjJNdDBvcmxoLThIdmwxVjNPS3k1VjRvTTRETzkta1lpU2NrVEZpYkFaY3JhS2p4cllvSlVSR1NEY0N2dVE?oc=5>
-- **[Unconfirmed] Soneium · News · 2026-09-29** — Soneium Brings K-Pop IP to Blockchain Ecosystem With Dayonedream - Bitcoin News
-  Source: <https://news.google.com/rss/articles/CBMiowFBVV95cUxNMGJ1aVp5S0p3WDdBQjJFMWwyOWc4YzFqc1JvV1RoVDF2aGhhSjRTUndSQVZNamtiR05aOWM1TndXTVAwdmd3eWFEVmtfRUNnUGFiZWhqQThXcDF2bDhqYmgtMGFWT0xKMnpQT1JfQzJHamFlQ09Xbi1FbllDcXRFaE5weDVQaDJQSV90N1FmQUZKRzZ0WF80OVY3eS1Kd0FEMTlZ?oc=5>
 - **[Confirmed] Base · News · 2026-09-29** — How Centrifuge brought the S&P 500® onchain
   Source: <https://www.base.org/customers/centrifuge>
 - **[Unconfirmed] Soneium · News · 2026-09-28** — Sony-Backed Soneium Partners With DayOneDream to Tokenize K-Pop Revenue - unchainedcrypto.com
   Source: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQajBkQmRXWmx5Z3BaZ3kwMWZCQW5rSkREbWMzN3pibU5IVFFadXJCWHFzeVFWaW1uOHVSTFRjZXNuMnFDQlFlSHJUWlZHR09iVWczb0U3LVl0TEtfTERYbl9WcDdITndMa1FMdmU0U0RZYTZPd0tBOHFBSTJaaG1hUkh1ak5qWEZEa3p4RjdtTVRFVW15RmRIMDYxc0pNWGNJYmc?oc=5>
 - **[Unconfirmed] Ink · News · 2026-09-15** — Kraken Rolls Out DeFi Lending Vaults for Tokenized Nvidia Stock and Major ETFs - BigGo Finance
   Source: <https://news.google.com/rss/articles/CBMidkFVX3lxTE0xSWxKdENYYUZ6MDBiOWtQakpudFotdU1rUW05NTkxUW1EaGo4dTdDM2wtVVROb2Mza3hETTFGQmZyMEJtUTE0TEg2Mnp3MVZ0NjVFR0ktZXhKZjZCYXFrTk4xVUFhb0d4d1hpVGNvaHBkYzlrUVE?oc=5>
+- **[Unconfirmed] Ink · News · 2026-09-15** — Uniswap Burns 592K Tokens in a Week New All-Time High Next? - Coin Gabbar
+  Source: <https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZT0Zkam14OEJodThhT2ZHajR2TlpBZnVZUzdGWlZiNEZ6a1dkRnpRS0tSTkg2eEk1RGVWQ1Q5TlR6V3U1R3dkZG51cHBvaVlWaVFBZ1ZTUm9JOVNXOTZYeHVrbjZHNUFBY3RVeGQ5M1d3MUlYMS16RmRad0tpdw?oc=5>
 
 ---
 Automatically generated from data/auto-news.json. Labels indicate source confidence, not investment advice.
