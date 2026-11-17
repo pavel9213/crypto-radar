@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T13:26:07Z",
+  "updated_at": "2026-11-17T23:30:21Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -123,21 +123,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-06128ce3a8b777ded6a1",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony’s Soneium Brings Access to $549 Million Royalties Fund Onchain - HackerNoon",
-      "status": "Unconfirmed",
-      "date": "2026-10-27",
-      "publishedAt": "2026-10-27T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY3M3ZldpMlNzYXhNS3NCT2NJWklWa1Z6cE5ObFp2LS0wQS0wM1F1Smt3S254MUZMaHdURHd5NTEzVlZWejYxSmE2WWpqZDJsTVROTWE5VzNTNHdjdUh3OUpzR1U2Njh0MUVhelJWb3NRVWRJLWoxbmx2ZTBSNVltQi15UW1CejVLOW9LaXdUai13SG8?oc=5",
-      "sourceName": "HackerNoon",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (HackerNoon); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-ec005ae3f1085d170524",
       "projectId": "base",
       "project": "Base",
@@ -241,6 +226,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-d9b1f5ada42d15185c91",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Soneium Brings K-Pop IP to Blockchain Ecosystem With Dayonedream - Bitcoin News",
+      "status": "Unconfirmed",
+      "date": "2026-09-29",
+      "publishedAt": "2026-09-29T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMGJ1aVp5S0p3WDdBQjJFMWwyOWc4YzFqc1JvV1RoVDF2aGhhSjRTUndSQVZNamtiR05aOWM1TndXTVAwdmd3eWFEVmtfRUNnUGFiZWhqQThXcDF2bDhqYmgtMGFWT0xKMnpQT1JfQzJHamFlQ09Xbi1FbllDcXRFaE5weDVQaDJQSV90N1FmQUZKRzZ0WF80OVY3eS1Kd0FEMTlZ?oc=5",
+      "sourceName": "Bitcoin News",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Bitcoin News); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-32ce3c8c0d0b449020b9",
@@ -1113,6 +1113,21 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
+      "id": "auto-c02c8cc68cdfc49d8033",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "Airdrop",
+      "title": "Surge in Activity on Kraken’s Ink Network Ahead of Token Airdrop - ForkLog",
+      "status": "Unconfirmed",
+      "date": "2025-06-23",
+      "publishedAt": "2025-06-23T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS28xbTQzcjZFdEdOYWJtLVZoWHFMdGdWeFk2UDJXbUtrTW5KVU8yR2pVTkhhYTNKREFPcndaTThPN083c21rSkhZcnR5WTlzTTd3SEdDcE0yeGQ4cFdQb2JBcTlaSjYzOU45S1R1QkNVbFE1RnRoRGw5RkN6RlpVYlRzOFNYczVMNjIyS05SV1A?oc=5",
+      "sourceName": "ForkLog",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (ForkLog); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-5d95e9d077c2f9d633a3",
       "projectId": "ink",
       "project": "Ink",
@@ -1576,6 +1591,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-bfa7031c24453c156400",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Soneium Explains Why It Joined the Optimism Superchain - Coinspeaker",
+      "status": "Unconfirmed",
+      "date": "2025-01-15",
+      "publishedAt": "2025-01-15T08:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWmROUVdZaUlsUGloQTVxVTI0MGpQcEx3UkdMVnAtcWFLYVh5S1Y0TDJVeWFIdy1qMWt5djc3Z2poMFo0WkE5QjF6MWloVTVoYVMxUGtxTDFONmJxVXVTY2FrWnhvcERIUzNBNnFYSk5DS00tR2FRbDN5S0hPdmRNVnlnc3JsUdIBiwFBVV95cUxONFJKS1RRelhUSnNua1JSYnFFWklIR3R5Q0pHd1dwNFpNbjVtdlBweGw4bDMyOU1ySlRwVzVlczRyV2dsdUJfdlVveU1BYll6LVhDSW1JR090X0psdzE1cEd0V0pNVHEwVDMzUEw1ejlHT3U3QkhBR0FlRW5TaEpQVUl0MnNnenNMUGtj?oc=5",
+      "sourceName": "Coinspeaker",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Coinspeaker); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-952116bb243f30d2bbc3",

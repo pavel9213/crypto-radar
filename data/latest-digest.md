@@ -1,19 +1,19 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-17T13:26:07Z
+> Feed updated: 2026-11-17T23:30:21Z
 
 ## Overview
 
-- Total signals: **181**
+- Total signals: **183**
 - Projects represented: **3**
 - Confirmed source-origin items: **117**
-- Unconfirmed items: **64**
+- Unconfirmed items: **66**
 - Rumors: **0**
 
 ## Categories
 
-- Airdrop: 4
-- News: 171
+- Airdrop: 5
+- News: 172
 - Partnership: 6
 
 ## Latest signals
@@ -34,8 +34,6 @@
   Source: <https://news.google.com/rss/articles/CBMif0FVX3lxTE11VkNjdlA3bkh2X3VFZWN3SEVDOEhyaFlhbU9Fai1XeGZMeEtOOUJrdkZjZ0NranFpQV9vNVFEeE92ejl6dHVqclU3dkk2c0hUUHI0MDRxTmpraGJMTDVGakZJNE5yVjc4UC1lNmU3SDA2X0dYM2VzTUFDSVhBVXM?oc=5>
 - **[Confirmed] Base · News · 2026-10-29** — How Shopify brought stablecoin payments to checkout on Base
   Source: <https://www.base.org/customers/shopify>
-- **[Unconfirmed] Soneium · News · 2026-10-27** — Sony’s Soneium Brings Access to $549 Million Royalties Fund Onchain - HackerNoon
-  Source: <https://news.google.com/rss/articles/CBMikwFBVV95cUxPY3M3ZldpMlNzYXhNS3NCT2NJWklWa1Z6cE5ObFp2LS0wQS0wM1F1Smt3S254MUZMaHdURHd5NTEzVlZWejYxSmE2WWpqZDJsTVROTWE5VzNTNHdjdUh3OUpzR1U2Njh0MUVhelJWb3NRVWRJLWoxbmx2ZTBSNVltQi15UW1CejVLOW9LaXdUai13SG8?oc=5>
 - **[Confirmed] Base · News · 2026-10-22** — How Aave unlocked stock-backed loans on Base
   Source: <https://www.base.org/customers/aave>
 - **[Unconfirmed] Base · News · 2026-10-21** — The Coinbase Bull Case Comes Down to One Very Big Number - 24/7 Wall St.
@@ -50,6 +48,8 @@
   Source: <https://www.base.org/blog/cobalt>
 - **[Unconfirmed] Soneium · News · 2026-09-29** — BTOB, Lee Chae Yeon and More: K-POP IP Goes Onchain With Sony Crypto - TradingView
   Source: <https://news.google.com/rss/articles/CBMixgFBVV95cUxNdTQ1ZlFoSFIyUHJLcVVmdXBiMjZmaEFqNktwbTdsbDBfcmRvNUprTFQzd0ZEeEJmN2daaVA5dV9UWXRMd3VXalBST0x1RUY2SkdvTHFrNUV4aV8taE5OOTBzLVNTT3FsbUZIN28wYVBJbEpwNFU3dGJVUDRLWjdVLXk2OGM4YUJOVjJNdDBvcmxoLThIdmwxVjNPS3k1VjRvTTRETzkta1lpU2NrVEZpYkFaY3JhS2p4cllvSlVSR1NEY0N2dVE?oc=5>
+- **[Unconfirmed] Soneium · News · 2026-09-29** — Soneium Brings K-Pop IP to Blockchain Ecosystem With Dayonedream - Bitcoin News
+  Source: <https://news.google.com/rss/articles/CBMiowFBVV95cUxNMGJ1aVp5S0p3WDdBQjJFMWwyOWc4YzFqc1JvV1RoVDF2aGhhSjRTUndSQVZNamtiR05aOWM1TndXTVAwdmd3eWFEVmtfRUNnUGFiZWhqQThXcDF2bDhqYmgtMGFWT0xKMnpQT1JfQzJHamFlQ09Xbi1FbllDcXRFaE5weDVQaDJQSV90N1FmQUZKRzZ0WF80OVY3eS1Kd0FEMTlZ?oc=5>
 - **[Confirmed] Base · News · 2026-09-29** — How Centrifuge brought the S&P 500® onchain
   Source: <https://www.base.org/customers/centrifuge>
 - **[Unconfirmed] Soneium · News · 2026-09-28** — Sony-Backed Soneium Partners With DayOneDream to Tokenize K-Pop Revenue - unchainedcrypto.com
