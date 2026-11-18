@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T23:30:21Z",
+  "updated_at": "2026-11-18T07:28:27Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -1651,21 +1651,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (CryptoRank); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-377e8419709937608e31",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony’s public blockchain platform Soneium launches on mainnet - The Block",
-      "status": "Unconfirmed",
-      "date": "2025-01-13",
-      "publishedAt": "2025-01-13T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGZCSjVHaE9sOFVFTjZ1ek92VW15YjRnVlp6SnRvdEZybUtwdHlfMlFFQnV4Q0dLUzA2S192RlBUWlVQa0VWUWRMU3NiTkR0LWxjaEZsTW9rT0J2c2UwZFk0ZE5ReVJ6STJWeHZyYVZhMXA3czRna0tib1A2MkpGT3JyQmJ0OTFGbFNJT0FfdVZCZzVWS1hnU0FwcnV0UlpCd1hIeUh2N1NsbDZGNmFJVGx1dEE2T1U?oc=5",
-      "sourceName": "The Block",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-bbd17af9d001c1b73c4a",
