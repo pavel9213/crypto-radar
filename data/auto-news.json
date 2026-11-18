@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T07:28:27Z",
+  "updated_at": "2026-11-18T17:15:14Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -121,6 +121,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-06128ce3a8b777ded6a1",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony’s Soneium Brings Access to $549 Million Royalties Fund Onchain - HackerNoon",
+      "status": "Unconfirmed",
+      "date": "2026-10-27",
+      "publishedAt": "2026-10-27T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY3M3ZldpMlNzYXhNS3NCT2NJWklWa1Z6cE5ObFp2LS0wQS0wM1F1Smt3S254MUZMaHdURHd5NTEzVlZWejYxSmE2WWpqZDJsTVROTWE5VzNTNHdjdUh3OUpzR1U2Njh0MUVhelJWb3NRVWRJLWoxbmx2ZTBSNVltQi15UW1CejVLOW9LaXdUai13SG8?oc=5",
+      "sourceName": "HackerNoon",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (HackerNoon); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-ec005ae3f1085d170524",
@@ -288,21 +303,6 @@
       "notes": "Secondary source (BigGo Finance); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-dc25a8748dce0b754337",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Uniswap Burns 592K Tokens in a Week New All-Time High Next? - Coin Gabbar",
-      "status": "Unconfirmed",
-      "date": "2026-09-15",
-      "publishedAt": "2026-09-15T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZT0Zkam14OEJodThhT2ZHajR2TlpBZnVZUzdGWlZiNEZ6a1dkRnpRS0tSTkg2eEk1RGVWQ1Q5TlR6V3U1R3dkZG51cHBvaVlWaVFBZ1ZTUm9JOVNXOTZYeHVrbjZHNUFBY3RVeGQ5M1d3MUlYMS16RmRad0tpdw?oc=5",
-      "sourceName": "Coin Gabbar",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Coin Gabbar); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-f16d630ad94e9d8dd451",
       "projectId": "base",
       "project": "Base",
@@ -468,6 +468,36 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
+      "id": "auto-8968de729675d33954c5",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Nado (Spot) Statistics: Markets, Trading Volume & Trust Score - CoinGecko",
+      "status": "Unconfirmed",
+      "date": "2026-06-17",
+      "publishedAt": "2026-06-17T09:19:35Z",
+      "source": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zUlVyaXlmakROLTNyNGgySnBFLWJsVFhEd0dMN1B0Z2g4R3gwSXVTdEhtRElFLWJQMGdSQ1h2R1VWZS1iM3ZRVDJkQUFscTRzdWdLQjE2N00zVF9R?oc=5",
+      "sourceName": "CoinGecko",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (CoinGecko); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-1643a7dc2e4dec2e1edc",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Nado Statistics: Markets, Trading Volume & Trust Score - CoinGecko",
+      "status": "Unconfirmed",
+      "date": "2026-06-10",
+      "publishedAt": "2026-06-10T03:09:21Z",
+      "source": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GenhwMWNjYUphS2ZKbVhLMEpCSGJiekFxYVBUZTBOdzd2eXN4LUV4ZmczMWNTTkdSclZfUkxmRlU0T2xFb0tpZUJoTE9FWjFXLTZQM0hn?oc=5",
+      "sourceName": "CoinGecko",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (CoinGecko); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-6dd9d72e893ae716affd",
       "projectId": "base",
       "project": "Base",
@@ -511,21 +541,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-7a1562b5423dec0d3f22",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "Airdrop",
-      "title": "How to Farm the Base Airdrop in 2026: A Step-by-Step Guide - Bitget",
-      "status": "Unconfirmed",
-      "date": "2026-05-12",
-      "publishedAt": "2026-05-12T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ITUlYekpPcTBuM1ROQWtvVC1IQ242UVJpbFJuTllLOUFHaTM2ano4Nm5BdnZLNWlpS0E5RWlRRUtRaEZjejE1U29zRmVLVW9lbjB4UV9IR3BkMlZPVWc?oc=5",
-      "sourceName": "Bitget",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Bitget); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-7a05f46b5ac7d5f23db3",
@@ -633,21 +648,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-a8b6964c73f1fd463c9b",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Tether Backs LayerZero in Bet on Cross-Chain Stablecoin Infrastructure - Crypto News Australia",
-      "status": "Unconfirmed",
-      "date": "2026-02-11",
-      "publishedAt": "2026-02-11T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaEhNTXZibUYyMDNrb0swZ3RpRk0yQXc1V0FXSkR5TVA2V1dYYVBtTUo2cUNlS041NGdxbWRHVFY5TTBEbzlnT2JYc1Rxc3RNOEdXa2hnMUJCT3NNdFJ5ZXBJc25RajNxd2haTmdPNDNULUZ6WnEwMWtEX0xmRk1LSXY0X0dWZkRSX1hGamF0OHZMVlI1bVZrVFlMWlUzVDZtSE9DQjZiTFNtVXdoT0E?oc=5",
-      "sourceName": "Crypto News Australia",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Crypto News Australia); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-d6b9175dc7a0bfb2deaa",
       "projectId": "ink",
       "project": "Ink",
@@ -684,8 +684,8 @@
       "category": "News",
       "title": "Sony doubles down on Soneium after first year of mainnet activity - TradingView",
       "status": "Unconfirmed",
-      "date": "2026-01-28",
-      "publishedAt": "2026-01-28T08:00:00Z",
+      "date": "2026-01-29",
+      "publishedAt": "2026-01-29T08:00:00Z",
       "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXJmMEx5UGgzanc0d1J2VnNxUUx1MnJ2bzN3dXNabDQ1cUdGVVIwcGY3bHFPZG5feENNVUV2M1A2Z054UGVDLVZUbnUteTkxVk53RXItT2JyemZpRXJGM3lydEtQemM4bTdZM0pLcEtxUkxtbGN4djdhaF90a09qUnVkWC0xbF9GeVRMaVNFbHJuVVF6M1FkREVqSVRhVzBEalh1TkhaTzB2cmtrXzNmTHJOZnRkTkJWT2MxdVVGSFQtdHM0TGFObg?oc=5",
       "sourceName": "TradingView",
       "sourceType": "news-index",
@@ -1338,6 +1338,21 @@
       "notes": "Secondary source (Animoca Brands); not an official confirmation. Verify with the project before acting."
     },
     {
+      "id": "auto-895e63d1e15f5ca10f9e",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Animoca Brands teams up with Soneium to extend Moca Network's identity layer - The Block",
+      "status": "Unconfirmed",
+      "date": "2025-03-27",
+      "publishedAt": "2025-03-27T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdk5nLW1tdVZ6eGtkMGhFZDBtYnBNUzFoamt2emVGRGYycTFBWUlLdnNPQXA2aWxPQ3ViYU45YXBhRUpWZHdSYkRJdWtKOERReFdTbmRYS09LU2FzTkN5ZkF0SUt4RExleF9yS0pfNGN0bmh3OXZwWkZEaFZ0OTZKeFBmZllMWDlTTVNLMVR4NzM1UkJpZGo2MmhmQUk3NE9TNDZzWDhuTjBmYnhxU0Uyem9ENmQ2M0xiUWRvVlJoVFgyTnFPQzVZeXdmd1JReDllME5N?oc=5",
+      "sourceName": "The Block",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-69abb1ef0bbed2723cea",
       "projectId": "base",
       "project": "Base",
@@ -1921,21 +1936,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Crypto News Australia); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-4d68b235d1ff0fcd070d",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony bets on Web3 with Soneium blockchain and incubation programme - Developer Tech News",
-      "status": "Unconfirmed",
-      "date": "2024-08-28",
-      "publishedAt": "2024-08-28T11:31:54Z",
-      "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVJRWE9yNktIZVczWEZBZHg4RXNYckJ4ckFLdnlCbzVSNHlXb2tib1A5M3Q2S3U1LUJTcFpINnBfNFJOT1hBYUt3eGNpcmJUcURkXzBsVzJGZzRYaTFBUjlwWmdIcjNfWkVqaFU3c2RkMTdQWjYwRVJubVpJdWlPeC1TYzh2VmJPbE5oaGtEUVJpcE51Q0liWDNuSQ?oc=5",
-      "sourceName": "Developer Tech News",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Developer Tech News); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-54f5fd0df2791336947a",
