@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-19T13:05:44Z",
+  "updated_at": "2026-11-19T23:03:12Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
+    {
+      "id": "auto-fe15518493cdd9805b31",
+      "projectId": "base",
+      "project": "Base",
+      "category": "News",
+      "title": "How Wintermute makes markets on Base",
+      "status": "Confirmed",
+      "date": "2026-11-19",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "source": "https://www.base.org/customers/wintermute",
+      "sourceName": "www.base.org",
+      "sourceType": "official",
+      "automatic": true,
+      "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
     {
       "id": "auto-45ea4e7ae431cbc2b4e4",
       "projectId": "base",
@@ -63,7 +78,7 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-f093718bd4e0aa1584e3",
+      "id": "auto-900f9bffa162e8c4935b",
       "projectId": "soneium",
       "project": "Soneium",
       "category": "News",
@@ -71,7 +86,7 @@
       "status": "Unconfirmed",
       "date": "2026-10-29",
       "publishedAt": "2026-10-29T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPenlOZk1OaExkVXFkcG14Tk9UaVZaejhxWjl2V3NkemlMdUp4TEIwRnQ1cWh4alhiZm5idmVVTUZyX24xXzRQUnJDQVlmd1Mxek5ldDBqZXZTckJkQWp5dW9tcGp6LUZxNmZaTkVTRklIbDEtZ3gyUU96cE9sTjdFTXZzWnZiOFJNcGpxSDBZVDFla2hCdGFkcG5Sb1k1dmE5Zkp6M1ZBbnhXSDhPdVlNSVNXS0xMNV9jZlAwX1Exc3BBdw?oc=5",
+      "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZHUxejNhM0NFT3QyNXJWS2NNOHhLUWJDVTVJQS14MC1USThDOFYtNVE2Rm9GYmtNMVhFRVZvbDlBYXZXbzRUNVNpaTBZSGJ5a3pDMVYzWkowNGd6aHd4VGNVZEQ2azBNbm1qbkhpaWVMNFdtV25UVUtRNTAzSk5tQndEWmgyeUdqempUX05ZejVxU2lJdkFKOWFvX21nSHE5YkdNLTZQc0U3OFdmbTJ4VUF3am9UU2Z6bzlJNFlWQQ?oc=5",
       "sourceName": "OneBullEx",
       "sourceType": "news-index",
       "automatic": true,
@@ -678,21 +693,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-510f8d0e7bf234ef6ca6",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony doubles down on Soneium after first year of mainnet activity - TradingView",
-      "status": "Unconfirmed",
-      "date": "2026-01-29",
-      "publishedAt": "2026-01-29T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXJmMEx5UGgzanc0d1J2VnNxUUx1MnJ2bzN3dXNabDQ1cUdGVVIwcGY3bHFPZG5feENNVUV2M1A2Z054UGVDLVZUbnUteTkxVk53RXItT2JyemZpRXJGM3lydEtQemM4bTdZM0pLcEtxUkxtbGN4djdhaF90a09qUnVkWC0xbF9GeVRMaVNFbHJuVVF6M1FkREVqSVRhVzBEalh1TkhaTzB2cmtrXzNmTHJOZnRkTkJWT2MxdVVGSFQtdHM0TGFObg?oc=5",
-      "sourceName": "TradingView",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-b7b1f679e527e13623d4",
       "projectId": "base",
       "project": "Base",
@@ -721,6 +721,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-d2495b3971a4b3479d86",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Soneium Score Season 5 NFT guide - paragraph.com",
+      "status": "Unconfirmed",
+      "date": "2025-12-21",
+      "publishedAt": "2025-12-21T08:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRQTF0cFFhZUJRbURjZnBvejAtclVrWUJ1OWJwd0JjYjk5bEI3aVhVX09OSDBSX0lPd3RRdzNkV2FiVFpNZkRteHpGX2dNUDIyVHhTWlN4UzVvb3cyU2pSQ2RfY1NQTW1RMXVIOUJuek9HNGM?oc=5",
+      "sourceName": "paragraph.com",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (paragraph.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-60f71fb9f76f2d51d38a",
@@ -1848,21 +1863,6 @@
       "notes": "Secondary source (DailyCoin); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-fc79b687088531d10635",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Scam Sniffer Exposes Google Ad for Sony’s Soneium Blockchain as Crypto Wallet Drainer - CryptoPotato",
-      "status": "Unconfirmed",
-      "date": "2024-10-23",
-      "publishedAt": "2024-10-23T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUo1Ul9GSzF4b2N3QV9VNExya0NPMU53LXQyNG10REt2VGFZR0hzMEdZVWlaeVlPZURRUDN0V3k3aktINERwaC02UGV2d2UxS1RqYURpVUtOcENpQlllcFFQV1pFZVloT3R4THFCYkc5d2ZhY2k0Y0dzUGs2bS1vTUt6eXRRNUtESXl3UWl6N1hPWkFSQkF0SG1ieEhKQnIyVmJmWXQzVmlHWkg4d0w0?oc=5",
-      "sourceName": "CryptoPotato",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (CryptoPotato); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-bfe599cf7e3680937df7",
       "projectId": "base",
       "project": "Base",
@@ -2041,21 +2041,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (GamesBeat); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-9a16149061acbe2ecd5e",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Soneium: Sony & Startale's Revolutionary Step Towards Web3 - Coin Gabbar",
-      "status": "Unconfirmed",
-      "date": "2024-08-23",
-      "publishedAt": "2024-08-23T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWWpQMEdKd2Z0Y0dnUHdEODlsS1VVWG0yQlJtSzVFdU9CY2ZqQjdzZWE2QnloWVhNNi12LXVPWHF5UHRSWEpQN1VFRVlMY2VaOHRIQTVOaE05TzYyMThGMWlxT3JVOEZQd3hmUE1QMTFhNlUyZG1TeFhVSERyY2lEMTk0XzAzVzR0ekVn?oc=5",
-      "sourceName": "Coin Gabbar",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Coin Gabbar); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-480374903b4966a9d608",

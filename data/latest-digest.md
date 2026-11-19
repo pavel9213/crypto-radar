@@ -1,23 +1,25 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-19T13:05:44Z
+> Feed updated: 2026-11-19T23:03:12Z
 
 ## Overview
 
-- Total signals: **182**
+- Total signals: **181**
 - Projects represented: **3**
-- Confirmed source-origin items: **117**
-- Unconfirmed items: **65**
+- Confirmed source-origin items: **118**
+- Unconfirmed items: **63**
 - Rumors: **0**
 
 ## Categories
 
 - Airdrop: 4
-- News: 172
+- News: 171
 - Partnership: 6
 
 ## Latest signals
 
+- **[Confirmed] Base · News · 2026-11-19** — How Wintermute makes markets on Base
+  Source: <https://www.base.org/customers/wintermute>
 - **[Confirmed] Base · News · 2026-11-12** — How Exa lets AI agents buy search on demand
   Source: <https://www.base.org/customers/exa>
 - **[Confirmed] Base · News · 2026-11-05** — Introducing Base Denim
@@ -27,7 +29,7 @@
 - **[Confirmed] Base · News · 2026-11-03** — Meet the Base Batches 004 cohort
   Source: <https://www.base.org/blog/base-batches-004-cohort>
 - **[Unconfirmed] Soneium · News · 2026-10-29** — Sony Launches Global Soneium Incubation Program For Onchain Entertainment Startups - OneBullEx
-  Source: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxPenlOZk1OaExkVXFkcG14Tk9UaVZaejhxWjl2V3NkemlMdUp4TEIwRnQ1cWh4alhiZm5idmVVTUZyX24xXzRQUnJDQVlmd1Mxek5ldDBqZXZTckJkQWp5dW9tcGp6LUZxNmZaTkVTRklIbDEtZ3gyUU96cE9sTjdFTXZzWnZiOFJNcGpxSDBZVDFla2hCdGFkcG5Sb1k1dmE5Zkp6M1ZBbnhXSDhPdVlNSVNXS0xMNV9jZlAwX1Exc3BBdw?oc=5>
+  Source: <https://news.google.com/rss/articles/CBMivwFBVV95cUxPZHUxejNhM0NFT3QyNXJWS2NNOHhLUWJDVTVJQS14MC1USThDOFYtNVE2Rm9GYmtNMVhFRVZvbDlBYXZXbzRUNVNpaTBZSGJ5a3pDMVYzWkowNGd6aHd4VGNVZEQ2azBNbm1qbkhpaWVMNFdtV25UVUtRNTAzSk5tQndEWmgyeUdqempUX05ZejVxU2lJdkFKOWFvX21nSHE5YkdNLTZQc0U3OFdmbTJ4VUF3am9UU2Z6bzlJNFlWQQ?oc=5>
 - **[Confirmed] Base · News · 2026-10-29** — How Shopify brought stablecoin payments to checkout on Base
   Source: <https://www.base.org/customers/shopify>
 - **[Unconfirmed] Soneium · News · 2026-10-28** — Sony launches Soneium incubation program for creators - Crypto News
@@ -56,8 +58,6 @@
   Source: <https://www.base.org/customers/centrifuge>
 - **[Unconfirmed] Soneium · News · 2026-09-28** — Sony-Backed Soneium Partners With DayOneDream to Tokenize K-Pop Revenue - unchainedcrypto.com
   Source: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQajBkQmRXWmx5Z3BaZ3kwMWZCQW5rSkREbWMzN3pibU5IVFFadXJCWHFzeVFWaW1uOHVSTFRjZXNuMnFDQlFlSHJUWlZHR09iVWczb0U3LVl0TEtfTERYbl9WcDdITndMa1FMdmU0U0RZYTZPd0tBOHFBSTJaaG1hUkh1ak5qWEZEa3p4RjdtTVRFVW15RmRIMDYxc0pNWGNJYmc?oc=5>
-- **[Unconfirmed] Ink · News · 2026-09-15** — Kraken Rolls Out DeFi Lending Vaults for Tokenized Nvidia Stock and Major ETFs - BigGo Finance
-  Source: <https://news.google.com/rss/articles/CBMidkFVX3lxTE0xSWxKdENYYUZ6MDBiOWtQakpudFotdU1rUW05NTkxUW1EaGo4dTdDM2wtVVROb2Mza3hETTFGQmZyMEJtUTE0TEg2Mnp3MVZ0NjVFR0ktZXhKZjZCYXFrTk4xVUFhb0d4d1hpVGNvaHBkYzlrUVE?oc=5>
 
 ---
 Automatically generated from data/auto-news.json. Labels indicate source confidence, not investment advice.
