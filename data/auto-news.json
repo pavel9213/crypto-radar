@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T07:14:18Z",
+  "updated_at": "2026-11-20T16:57:43Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -31,6 +31,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-b010b548473dbf199fd4",
+      "projectId": "base",
+      "project": "Base",
+      "category": "News",
+      "title": "Base Launches Upgrade to Make Transactions Faster and More Reliable - Indianweb2.com",
+      "status": "Unconfirmed",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T07:54:00Z",
+      "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43TGx6RzZNdlVlUWw3QmpMSWloeDRrWE8zdU1HWDNYa09heHBzOG9iNlNnZHp0TDU5cFRzYkt4OXJWNUlnQ1FWTXpuV3ZvS3BVWWd5S1BhM09YLTk0dmY1aEFVanVUUUo1NFFka1NWNUNWaEFiT1BNcQ?oc=5",
+      "sourceName": "Indianweb2.com",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Indianweb2.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-62c6e624d30cbf39616e",
@@ -678,21 +693,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-510f8d0e7bf234ef6ca6",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony doubles down on Soneium after first year of mainnet activity - TradingView",
-      "status": "Unconfirmed",
-      "date": "2026-01-29",
-      "publishedAt": "2026-01-29T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXJmMEx5UGgzanc0d1J2VnNxUUx1MnJ2bzN3dXNabDQ1cUdGVVIwcGY3bHFPZG5feENNVUV2M1A2Z054UGVDLVZUbnUteTkxVk53RXItT2JyemZpRXJGM3lydEtQemM4bTdZM0pLcEtxUkxtbGN4djdhaF90a09qUnVkWC0xbF9GeVRMaVNFbHJuVVF6M1FkREVqSVRhVzBEalh1TkhaTzB2cmtrXzNmTHJOZnRkTkJWT2MxdVVGSFQtdHM0TGFObg?oc=5",
-      "sourceName": "TradingView",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-b7b1f679e527e13623d4",
       "projectId": "base",
       "project": "Base",
@@ -873,21 +873,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-b5e2d711584f0bde8f89",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "What is PING Crypto? Complete Guide to x402 Protocol's First Token - MEXC",
-      "status": "Unconfirmed",
-      "date": "2025-10-23",
-      "publishedAt": "2025-10-23T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmxibjhXcWlaM2NlSmJEX25ONl9pSm8wTmEyUGVLRHVEVjM2T0tTTVJoYWZSNmY2VHczR01HTlJJVzVXUTRqek9LTG5uYW9vZ1hPM1hVY2h5SlhDTC15STlrM1hWMXFhQkpyVjhvYkhwZjJWWldVckdtOV9lWlZHYXpIUTNrQjBYNTlVS0Rob1U1dEpwSHhQOExfSkgwLWVnR3VB?oc=5",
-      "sourceName": "MEXC",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (MEXC); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-63deab66b69fea67ad3f",
       "projectId": "base",
       "project": "Base",
@@ -991,21 +976,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-197d4dc709e1ed968b45",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony's Soneium rolls out scoring system to track and incentivize user activity on its blockchain - The Block",
-      "status": "Unconfirmed",
-      "date": "2025-08-28",
-      "publishedAt": "2025-08-28T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeVZKNUJUYmdYOTFrT3A0RXppWTVsN1lYbUFhNHFncmtTZHhnRjc0MFprUFJuMkswVEZpMkNuQTVRc0dYOWo0RFJ6VUlJVnZKa1g0Vm5HZGNHa3BtZWFKMjRnVTgxNWVWeHJqcUxKanFBSjlYVWdlRTdPSm1qaEtJbXlmR3B5MmR4Z19zS0RYR0RSWlh0Tm1jM1Rn?oc=5",
-      "sourceName": "The Block",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-6564b50c26ccd0ef872c",
@@ -2026,21 +1996,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (GamesBeat); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-9a16149061acbe2ecd5e",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Soneium: Sony & Startale's Revolutionary Step Towards Web3 - Coin Gabbar",
-      "status": "Unconfirmed",
-      "date": "2024-08-23",
-      "publishedAt": "2024-08-23T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWWpQMEdKd2Z0Y0dnUHdEODlsS1VVWG0yQlJtSzVFdU9CY2ZqQjdzZWE2QnloWVhNNi12LXVPWHF5UHRSWEpQN1VFRVlMY2VaOHRIQTVOaE05TzYyMThGMWlxT3JVOEZQd3hmUE1QMTFhNlUyZG1TeFhVSERyY2lEMTk0XzAzVzR0ekVn?oc=5",
-      "sourceName": "Coin Gabbar",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Coin Gabbar); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-480374903b4966a9d608",

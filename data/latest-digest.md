@@ -1,19 +1,19 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-20T07:14:18Z
+> Feed updated: 2026-11-20T16:57:43Z
 
 ## Overview
 
-- Total signals: **181**
+- Total signals: **178**
 - Projects represented: **3**
 - Confirmed source-origin items: **118**
-- Unconfirmed items: **63**
+- Unconfirmed items: **60**
 - Rumors: **0**
 
 ## Categories
 
 - Airdrop: 4
-- News: 172
+- News: 169
 - Partnership: 5
 
 ## Latest signals
@@ -22,6 +22,8 @@
   Source: <https://www.base.org/customers/wintermute>
 - **[Confirmed] Base · News · 2026-11-12** — How Exa lets AI agents buy search on demand
   Source: <https://www.base.org/customers/exa>
+- **[Unconfirmed] Base · News · 2026-11-06** — Base Launches Upgrade to Make Transactions Faster and More Reliable - Indianweb2.com
+  Source: <https://news.google.com/rss/articles/CBMieEFVX3lxTE43TGx6RzZNdlVlUWw3QmpMSWloeDRrWE8zdU1HWDNYa09heHBzOG9iNlNnZHp0TDU5cFRzYkt4OXJWNUlnQ1FWTXpuV3ZvS3BVWWd5S1BhM09YLTk0dmY1aEFVanVUUUo1NFFka1NWNUNWaEFiT1BNcQ?oc=5>
 - **[Confirmed] Base · News · 2026-11-05** — Introducing Base Denim
   Source: <https://www.base.org/blog/denim>
 - **[Confirmed] Base · News · 2026-11-04** — How Spiko makes yield universal on Base
@@ -56,8 +58,6 @@
   Source: <https://www.base.org/customers/centrifuge>
 - **[Unconfirmed] Soneium · News · 2026-09-28** — Sony-Backed Soneium Partners With DayOneDream to Tokenize K-Pop Revenue - unchainedcrypto.com
   Source: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQajBkQmRXWmx5Z3BaZ3kwMWZCQW5rSkREbWMzN3pibU5IVFFadXJCWHFzeVFWaW1uOHVSTFRjZXNuMnFDQlFlSHJUWlZHR09iVWczb0U3LVl0TEtfTERYbl9WcDdITndMa1FMdmU0U0RZYTZPd0tBOHFBSTJaaG1hUkh1ak5qWEZEa3p4RjdtTVRFVW15RmRIMDYxc0pNWGNJYmc?oc=5>
-- **[Unconfirmed] Ink · News · 2026-09-15** — Kraken Rolls Out DeFi Lending Vaults for Tokenized Nvidia Stock and Major ETFs - BigGo Finance
-  Source: <https://news.google.com/rss/articles/CBMidkFVX3lxTE0xSWxKdENYYUZ6MDBiOWtQakpudFotdU1rUW05NTkxUW1EaGo4dTdDM2wtVVROb2Mza3hETTFGQmZyMEJtUTE0TEg2Mnp3MVZ0NjVFR0ktZXhKZjZCYXFrTk4xVUFhb0d4d1hpVGNvaHBkYzlrUVE?oc=5>
 
 ---
 Automatically generated from data/auto-news.json. Labels indicate source confidence, not investment advice.
