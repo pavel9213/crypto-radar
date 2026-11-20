@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T23:03:12Z",
+  "updated_at": "2026-11-20T07:14:18Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -181,21 +181,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (24/7 Wall St.); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-cc77973791d6007ad0c8",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "The Coinbase Bull Case Comes Down to One Very Big Number - AOL.com",
-      "status": "Unconfirmed",
-      "date": "2026-10-21",
-      "publishedAt": "2026-10-21T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lMEVOY3NoTDMyYkVLOXU2Z2JZTjE1N2R4V3R1NkJJbHVITWc5LWJ3ckNTZFE3Y0pWeW5uWHg4czI1Vzdsak02dzhlSVpDckJEaG13dzRFVXZfMkx5ZExnNnpacHZ0VUxuWHhkS251RWd0MTN3SkJ1cERVSDRGUQ?oc=5",
-      "sourceName": "AOL.com",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (AOL.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-3e0da202b12ce3a265d2",
@@ -691,6 +676,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-510f8d0e7bf234ef6ca6",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony doubles down on Soneium after first year of mainnet activity - TradingView",
+      "status": "Unconfirmed",
+      "date": "2026-01-29",
+      "publishedAt": "2026-01-29T08:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXJmMEx5UGgzanc0d1J2VnNxUUx1MnJ2bzN3dXNabDQ1cUdGVVIwcGY3bHFPZG5feENNVUV2M1A2Z054UGVDLVZUbnUteTkxVk53RXItT2JyemZpRXJGM3lydEtQemM4bTdZM0pLcEtxUkxtbGN4djdhaF90a09qUnVkWC0xbF9GeVRMaVNFbHJuVVF6M1FkREVqSVRhVzBEalh1TkhaTzB2cmtrXzNmTHJOZnRkTkJWT2MxdVVGSFQtdHM0TGFObg?oc=5",
+      "sourceName": "TradingView",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-b7b1f679e527e13623d4",
@@ -1276,21 +1276,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-9fb83723c0a9713c1e88",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "Partnership",
-      "title": "Sony’s Soneium blockchain and Plume partner to offer access to RWA products - The Block",
-      "status": "Unconfirmed",
-      "date": "2025-04-30",
-      "publishedAt": "2025-04-30T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWE1CMmswZ201ajgtcW9abjFIQlhrOVNrc0ZuT2hQODlhUC0zMUJPZzVlbWJTVTlkVnNhUkxVRVM3aHlSQXJfQXFBbjlQSHhyMFZMZnNsdVJ4ckFzeGZkZlVpU3JpOFJQMVV3My04MmZ6eXdvUnduV1N6WTZRb25vNl83Q1VGOC1uQkFjUURuUVAwdkxWN3Y4aGJmUjF4SktSQ1AxN0xxZFVFRGVRaWIyTm5OSDVEdEdRZDNwQk95a2kzdVhfcE05dVZjeUQ?oc=5",
-      "sourceName": "The Block",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-f9707eff4e0da6322218",
@@ -2041,6 +2026,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (GamesBeat); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-9a16149061acbe2ecd5e",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Soneium: Sony & Startale's Revolutionary Step Towards Web3 - Coin Gabbar",
+      "status": "Unconfirmed",
+      "date": "2024-08-23",
+      "publishedAt": "2024-08-23T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWWpQMEdKd2Z0Y0dnUHdEODlsS1VVWG0yQlJtSzVFdU9CY2ZqQjdzZWE2QnloWVhNNi12LXVPWHF5UHRSWEpQN1VFRVlMY2VaOHRIQTVOaE05TzYyMThGMWlxT3JVOEZQd3hmUE1QMTFhNlUyZG1TeFhVSERyY2lEMTk0XzAzVzR0ekVn?oc=5",
+      "sourceName": "Coin Gabbar",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Coin Gabbar); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-480374903b4966a9d608",

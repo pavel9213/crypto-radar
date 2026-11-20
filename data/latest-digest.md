@@ -1,6 +1,6 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-19T23:03:12Z
+> Feed updated: 2026-11-20T07:14:18Z
 
 ## Overview
 
@@ -13,8 +13,8 @@
 ## Categories
 
 - Airdrop: 4
-- News: 171
-- Partnership: 6
+- News: 172
+- Partnership: 5
 
 ## Latest signals
 
@@ -42,8 +42,6 @@
   Source: <https://www.base.org/customers/aave>
 - **[Unconfirmed] Base · News · 2026-10-21** — The Coinbase Bull Case Comes Down to One Very Big Number - 24/7 Wall St.
   Source: <https://news.google.com/rss/articles/CBMiogFBVV95cUxNcFRZS3hEZGdTd3p0SzdSUTlHVVRJVjRNQk1mdjNrVXZmbU9telJRV3pndGdhM0E2YXpERXVnQklMaW9iNTN3SUJjV0RmZHBiWXRUb3ZTWGlSQzNNMVdfNGg5YlAwdXJpZzZFRlJpT0pEOW9sUlA0bjdIQ2ZQb3IxS0NfeHJsSWVFejVfQ1dOTWhLQkxleUM3TVp5cnJhajZXOUE?oc=5>
-- **[Unconfirmed] Base · News · 2026-10-21** — The Coinbase Bull Case Comes Down to One Very Big Number - AOL.com
-  Source: <https://news.google.com/rss/articles/CBMifkFVX3lxTE1lMEVOY3NoTDMyYkVLOXU2Z2JZTjE1N2R4V3R1NkJJbHVITWc5LWJ3ckNTZFE3Y0pWeW5uWHg4czI1Vzdsak02dzhlSVpDckJEaG13dzRFVXZfMkx5ZExnNnpacHZ0VUxuWHhkS251RWd0MTN3SkJ1cERVSDRGUQ?oc=5>
 - **[Confirmed] Base · News · 2026-10-15** — How Tuyo brought spending and earning together on Base
   Source: <https://www.base.org/customers/tuyo>
 - **[Confirmed] Base · News · 2026-10-07** — How Ethos makes reputation portable on Base
@@ -58,6 +56,8 @@
   Source: <https://www.base.org/customers/centrifuge>
 - **[Unconfirmed] Soneium · News · 2026-09-28** — Sony-Backed Soneium Partners With DayOneDream to Tokenize K-Pop Revenue - unchainedcrypto.com
   Source: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQajBkQmRXWmx5Z3BaZ3kwMWZCQW5rSkREbWMzN3pibU5IVFFadXJCWHFzeVFWaW1uOHVSTFRjZXNuMnFDQlFlSHJUWlZHR09iVWczb0U3LVl0TEtfTERYbl9WcDdITndMa1FMdmU0U0RZYTZPd0tBOHFBSTJaaG1hUkh1ak5qWEZEa3p4RjdtTVRFVW15RmRIMDYxc0pNWGNJYmc?oc=5>
+- **[Unconfirmed] Ink · News · 2026-09-15** — Kraken Rolls Out DeFi Lending Vaults for Tokenized Nvidia Stock and Major ETFs - BigGo Finance
+  Source: <https://news.google.com/rss/articles/CBMidkFVX3lxTE0xSWxKdENYYUZ6MDBiOWtQakpudFotdU1rUW05NTkxUW1EaGo4dTdDM2wtVVROb2Mza3hETTFGQmZyMEJtUTE0TEg2Mnp3MVZ0NjVFR0ktZXhKZjZCYXFrTk4xVUFhb0d4d1hpVGNvaHBkYzlrUVE?oc=5>
 
 ---
 Automatically generated from data/auto-news.json. Labels indicate source confidence, not investment advice.
