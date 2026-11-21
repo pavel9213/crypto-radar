@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T12:38:30Z",
+  "updated_at": "2026-11-21T21:38:55Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -1713,21 +1713,6 @@
       "notes": "Secondary source (CoinGape); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-d598fb03d3d9b7a2d6df",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Here’s How Kraken’s Ink Blockchain Will Work - DailyCoin",
-      "status": "Unconfirmed",
-      "date": "2024-10-24",
-      "publishedAt": "2024-10-24T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CT0QwTWhOVEVKOFI4cFB4am8zSFlXNGtnb3JYYTRxM1EwWTcwZUFfVC1FaEJjdjhXdWZpVl9TVjNHQnhOZGkzWGk3c196TEVJUEcyTVpPNnRrcGpDS0N0YnlyWlJ6VDJFMVdiRjBmdklDUGc?oc=5",
-      "sourceName": "DailyCoin",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (DailyCoin); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-bfe599cf7e3680937df7",
       "projectId": "base",
       "project": "Base",
@@ -1891,6 +1876,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (GamesBeat); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-7a0572e0bda8c1cc9587",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony Enters the Blockchain World with Soneium - PhoneWorld",
+      "status": "Unconfirmed",
+      "date": "2024-08-23",
+      "publishedAt": "2024-08-23T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOV8zcFZmNmgycGpscnBJM3BBSEJGUnJwcTNhS0ExVHBDMlFzUG5IVEhhdFBDbzI2OExJTmVsU1I4YTEySnhjcGx4bkJSZXpLUjFKcTZDSXpaREMyQUowREhYekp2MlBhbVN1WlBUUWszNExLUmFEQWlqZnFndmxadzBR?oc=5",
+      "sourceName": "PhoneWorld",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (PhoneWorld); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-480374903b4966a9d608",
