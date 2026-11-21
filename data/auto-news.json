@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-20T16:57:43Z",
+  "updated_at": "2026-11-21T01:30:34Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
+    {
+      "id": "auto-7f943219e334ff8caf70",
+      "projectId": "base",
+      "project": "Base",
+      "category": "News",
+      "title": "What’s happening on Base: week of November 20, 2026",
+      "status": "Confirmed",
+      "date": "2026-11-20",
+      "publishedAt": "2026-11-20T00:00:00Z",
+      "source": "https://www.base.org/blog/weekly-update-2026-11-20",
+      "sourceName": "www.base.org",
+      "sourceType": "official",
+      "automatic": true,
+      "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
     {
       "id": "auto-fe15518493cdd9805b31",
       "projectId": "base",
@@ -663,21 +678,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-d6b9175dc7a0bfb2deaa",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "On-Chain Pivot Robinhood Launches Ethereum L2-Traded Tokenized Stocks - Castle Crypto",
-      "status": "Unconfirmed",
-      "date": "2026-02-11",
-      "publishedAt": "2026-02-11T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR3Bnd3U2V1pYMXN3MHFoSENDRUlqN0tmbUxsN21EdW1XVGhPX0o0eEphNGJWaWhvRXZZRGtzODBnMFNBVDJCT2JQeFcxNlcxMkZkeEdUOWw3cHZ3bWNZdmxwd09CNFN2YkIzbjVlQUs4OFRJRVRWSFVEUnZMamVHU1VBdEV3OU5QODZTYndRTXhRQUxCc1g5azVYMmN4SjBH?oc=5",
-      "sourceName": "Castle Crypto",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Castle Crypto); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-6fd98d85e60cb3bb7290",
       "projectId": "base",
       "project": "Base",
@@ -828,21 +828,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-66a61bbcdda193271a19",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Japan's Startale unveils super-app for Sony's Soneium blockchain ecosystem - The Block",
-      "status": "Unconfirmed",
-      "date": "2025-11-11",
-      "publishedAt": "2025-11-11T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMDZDWFVUM2JjLXlSTnItRWZjQ1A1LU9TRTFUQ1VwWnNBYlhEY2pXZDU4dm85QUp0WE1NaGlqdGhsOGJrd1FHOXNKWFJweFV4b1hQYVFIajZUZUlFTFF2X2VEVlRHelJqSWtPQUFZelJpV1VvNWtwU3pHYmpGN0hMdGtGR1ZvbVZFVnFNa3M5WWdkdjV1Umc?oc=5",
-      "sourceName": "The Block",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-974430b45df92af4d7aa",
       "projectId": "soneium",
       "project": "Soneium",
@@ -976,6 +961,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-197d4dc709e1ed968b45",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony's Soneium rolls out scoring system to track and incentivize user activity on its blockchain - The Block",
+      "status": "Unconfirmed",
+      "date": "2025-08-28",
+      "publishedAt": "2025-08-28T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeVZKNUJUYmdYOTFrT3A0RXppWTVsN1lYbUFhNHFncmtTZHhnRjc0MFprUFJuMkswVEZpMkNuQTVRc0dYOWo0RFJ6VUlJVnZKa1g0Vm5HZGNHa3BtZWFKMjRnVTgxNWVWeHJqcUxKanFBSjlYVWdlRTdPSm1qaEtJbXlmR3B5MmR4Z19zS0RYR0RSWlh0Tm1jM1Rn?oc=5",
+      "sourceName": "The Block",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-6564b50c26ccd0ef872c",
@@ -1293,21 +1293,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-91646acbf85e6ddae033",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Animoca Brands teams with Sony’s Soneium blockchain for anime digital IDs - The Australian",
-      "status": "Unconfirmed",
-      "date": "2025-04-01",
-      "publishedAt": "2025-04-01T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQS19XYVJwSTBaYU1iSzNkOC1DTnZnQjhOVEhjOXl2UUcydXhXNzB4R2ZpbVJLV2NVeG5aS3AwNnlEZHBLWUNGMl81VElfSW1RenhjaWZ0dnpsdnU5cHJwLTczTHRtck5QM2tMeHhMNkJKcXRyRy1MTzlMdzk0QlhybGxocHA4OFRpU0ZEdWQ4ckNnWGUzM01xMnFpNU45cEVyOXZVSkVSNlozOUowMGctal95VGQwN2l0b0tuaWFiblBzOW93MGFHa1Qtd3ZsNDh3TzZwUnFWNDMxOFA2QkJ6M1NwbUdqRkZQdld4SHNTUDhZN1J6TjNaZXl4UHRFUzRfaVFTczFrOA?oc=5",
-      "sourceName": "The Australian",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (The Australian); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-e5fe31c124a7d3dc63cb",
       "projectId": "soneium",
       "project": "Soneium",
@@ -1381,21 +1366,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-2768355c21c82f199df3",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony's Soneium Blockchain Integrates Mini-Apps Into LINE, Targeting 200 Million Users in Web3 Push - blockhead.co",
-      "status": "Unconfirmed",
-      "date": "2025-03-12",
-      "publishedAt": "2025-03-12T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcjRaR2M3YkkzRnlONmt4SGgzNWZ5Vm1HWWFTTXFCdTA1U0xVOWxpYU1JWDVablV0WnQ0N0JVVWtQUlR2R1d2aTUya0RXNnBYbXlQdXRVLUFnVjJ5ZXZ0SThtYURVa3IxLUlRY1FteGpBaE00bmRIdlgyRV9oZlZTTlc4OW9GSDBZaFVLWkZDMndnbUxUR3lTX3JjXzllOTYxTjVCdmdtMUpPYkhQSExseWpMVFhaTkhSak1vLUlyNTY5Vl9WR1lFUWdVelUzMm9S?oc=5",
-      "sourceName": "blockhead.co",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (blockhead.co); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-b1246c47f6adf44a690f",
@@ -1606,21 +1576,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-bfa7031c24453c156400",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Soneium Explains Why It Joined the Optimism Superchain - Coinspeaker",
-      "status": "Unconfirmed",
-      "date": "2025-01-15",
-      "publishedAt": "2025-01-15T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWmROUVdZaUlsUGloQTVxVTI0MGpQcEx3UkdMVnAtcWFLYVh5S1Y0TDJVeWFIdy1qMWt5djc3Z2poMFo0WkE5QjF6MWloVTVoYVMxUGtxTDFONmJxVXVTY2FrWnhvcERIUzNBNnFYSk5DS00tR2FRbDN5S0hPdmRNVnlnc3JsUdIBiwFBVV95cUxONFJKS1RRelhUSnNua1JSYnFFWklIR3R5Q0pHd1dwNFpNbjVtdlBweGw4bDMyOU1ySlRwVzVlczRyV2dsdUJfdlVveU1BYll6LVhDSW1JR090X0psdzE1cEd0V0pNVHEwVDMzUEw1ejlHT3U3QkhBR0FlRW5TaEpQVUl0MnNnenNMUGtj?oc=5",
-      "sourceName": "Coinspeaker",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Coinspeaker); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-952116bb243f30d2bbc3",
