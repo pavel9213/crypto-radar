@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T21:38:55Z",
+  "updated_at": "2026-11-22T06:46:22Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -106,6 +106,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (OneBullEx); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-f19e1502b987ed8fa96c",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony launches global onchain entertainment incubation programme - grafa.com",
+      "status": "Unconfirmed",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T06:53:22Z",
+      "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVktUbWgyUU9uc1NRVFZlYXZPWXlUajVXdHlocDhiM2VTZ2VSZEVMODhhMUpUZ1U2WDlzWHZzMGhHaGloZkRsRnc5bFVTblg1eXFTY2QzeGJFRkVqdjVVaUk0TnR1QUtjbUM1bDdhdWhyZFpMS1pMRnpXcmQ3V0tmVWRDVmNwVFA5OEZOaVFpcGtqcWxKcVJDejEtMDM?oc=5",
+      "sourceName": "grafa.com",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (grafa.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-066d138e2926f4ab5f22",
@@ -294,8 +309,8 @@
       "category": "News",
       "title": "Kraken Rolls Out DeFi Lending Vaults for Tokenized Nvidia Stock and Major ETFs - BigGo Finance",
       "status": "Unconfirmed",
-      "date": "2026-09-14",
-      "publishedAt": "2026-09-14T07:00:00Z",
+      "date": "2026-09-15",
+      "publishedAt": "2026-09-15T07:00:00Z",
       "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xSWxKdENYYUZ6MDBiOWtQakpudFotdU1rUW05NTkxUW1EaGo4dTdDM2wtVVROb2Mza3hETTFGQmZyMEJtUTE0TEg2Mnp3MVZ0NjVFR0ktZXhKZjZCYXFrTk4xVUFhb0d4d1hpVGNvaHBkYzlrUVE?oc=5",
       "sourceName": "BigGo Finance",
       "sourceType": "news-index",
@@ -406,6 +421,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-dfeb1c2ed71dff720107",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Chainlink Quarterly Review: Q2, 2026 - Chainlink",
+      "status": "Unconfirmed",
+      "date": "2026-07-24",
+      "publishedAt": "2026-07-24T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12OXhzTXRmY1pJeU11eXVMamJseU5PQlBHRWFBWkg4RWE2TXh1MWxpTzBEU3Ntd2FLSVdIMGFtQTVMMkNNc0tYbmlRVE9lUms4NTd1VlBVV2F0aHBF?oc=5",
+      "sourceName": "Chainlink",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Chainlink); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-1d7eff35e7bcbdf33d5a",
