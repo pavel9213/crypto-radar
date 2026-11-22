@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T16:16:57Z",
+  "updated_at": "2026-11-22T21:53:35Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -1428,21 +1428,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-5cd0cb34bf7604d59c89",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony Music Publishing Jumps Into… NFTs? - Digital Music News",
-      "status": "Unconfirmed",
-      "date": "2025-02-26",
-      "publishedAt": "2025-02-26T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON0FWdmpJbnZyWnNxM2ptQktNVERCYkotWGZoZ2FPWlY5WjBsZTFScmpvYjNrVGVKMDRXUF85eEJrU3pMSzZNa2JBTnNhZ05Da3Z4MVRzdWpmS2JHZ3B4djlldVJHeV9DSmwwTVVvOFFSWFF1TjNKRVJRTzZhY0l5Yi1idUxGVEN2bmc?oc=5",
-      "sourceName": "Digital Music News",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Digital Music News); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-1847f492ef95884c66f3",
       "projectId": "base",
       "project": "Base",
@@ -1816,6 +1801,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-c78e13327fc2fe0b6044",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony’s Soneium blockchain partners with Transak for fiat on-ramp services - CoinJournal",
+      "status": "Unconfirmed",
+      "date": "2024-08-29",
+      "publishedAt": "2024-08-29T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd0lIcVRTY0ZpbDExQ0ZhM1Bwdkl5NDlGS3JmZzNxWHljTmFXWTZOOXE2cGNHb3htT0NheGVBYmt6ZlBpOFlWcU9WZkJiX2FNVVlkM3hFaklmdFllbVM0OEVGTzdFRE5ZeHFNSTd5cjJJUlZ6WWpNMS0yRGRVMk8xLVVMZjhtb3Q3NnZ0YUdRSUxvTGxzb1YtbTFDd3Vzd0cxNEhLZA?oc=5",
+      "sourceName": "CoinJournal",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (CoinJournal); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-54f5fd0df2791336947a",
