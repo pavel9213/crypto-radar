@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T06:46:22Z",
+  "updated_at": "2026-11-22T16:16:57Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -106,21 +106,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (OneBullEx); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-f19e1502b987ed8fa96c",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony launches global onchain entertainment incubation programme - grafa.com",
-      "status": "Unconfirmed",
-      "date": "2026-10-29",
-      "publishedAt": "2026-10-29T06:53:22Z",
-      "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVktUbWgyUU9uc1NRVFZlYXZPWXlUajVXdHlocDhiM2VTZ2VSZEVMODhhMUpUZ1U2WDlzWHZzMGhHaGloZkRsRnc5bFVTblg1eXFTY2QzeGJFRkVqdjVVaUk0TnR1QUtjbUM1bDdhdWhyZFpMS1pMRnpXcmQ3V0tmVWRDVmNwVFA5OEZOaVFpcGtqcWxKcVJDejEtMDM?oc=5",
-      "sourceName": "grafa.com",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (grafa.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-066d138e2926f4ab5f22",
@@ -301,6 +286,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (unchainedcrypto.com); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-1c4c331ce783c50211ac",
+      "projectId": "base",
+      "project": "Base",
+      "category": "News",
+      "title": "Coinbase switches BLUECHIP-USD trading pair to limit-only mode - Crypto Briefing",
+      "status": "Unconfirmed",
+      "date": "2026-09-16",
+      "publishedAt": "2026-09-16T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmaEE3bnR6cWtnV1AzaU5LLWFTcHFaTmpWLU8yMGRCQWQ0QWZhY203NW9makZjemNOQXNnTmJlWVZZbGVudTk2bWxSZVVueTVrdTBVZ2EwclF4Zk5pMjVpQnZUNnF1R0xyX1NMRW1vZXB6UDQ?oc=5",
+      "sourceName": "Crypto Briefing",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Crypto Briefing); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-5b763ce14236dd3d7acb",
@@ -601,21 +601,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-5707222400c55108db13",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "The Financial Techniques of Crypto Giant Kraken - Binance",
-      "status": "Unconfirmed",
-      "date": "2026-04-19",
-      "publishedAt": "2026-04-19T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIVUp5WmZuTm9VYTNoMXNaY05DTkt2UGZOeWlOdWdkTFdoSVVzUUlndFlfQk1qS2RVVERxSGg0RFNSdk1ZVzlaSFF1YmthZ08zbzVOSEhVYkE3aFhJU1RjWkJfR2w?oc=5",
-      "sourceName": "Binance",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Binance); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-ed537061cc7dae94fe29",
@@ -1246,6 +1231,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-9fb83723c0a9713c1e88",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "Partnership",
+      "title": "Sony’s Soneium blockchain and Plume partner to offer access to RWA products - The Block",
+      "status": "Unconfirmed",
+      "date": "2025-04-30",
+      "publishedAt": "2025-04-30T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWE1CMmswZ201ajgtcW9abjFIQlhrOVNrc0ZuT2hQODlhUC0zMUJPZzVlbWJTVTlkVnNhUkxVRVM3aHlSQXJfQXFBbjlQSHhyMFZMZnNsdVJ4ckFzeGZkZlVpU3JpOFJQMVV3My04MmZ6eXdvUnduV1N6WTZRb25vNl83Q1VGOC1uQkFjUURuUVAwdkxWN3Y4aGJmUjF4SktSQ1AxN0xxZFVFRGVRaWIyTm5OSDVEdEdRZDNwQk95a2kzdVhfcE05dVZjeUQ?oc=5",
+      "sourceName": "The Block",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-f9707eff4e0da6322218",
@@ -1981,21 +1981,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-1e948c74e3478fd235a2",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "Report: Coinbase Asset Management Creating Tokenized Money Market Fund - PYMNTS.com",
-      "status": "Unconfirmed",
-      "date": "2024-07-24",
-      "publishedAt": "2024-07-24T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS2M4WmxheGpobTFxdWhSX3JweV9iOTFDTHNwZGwyNk9SQnAzbHJkN3BuUmNDVUFrdXVLb0VJcVNTeW42NlJfZm1MMUZneUZGWTE0V1VxVEZUeVNDTmdEZVBXbFhEbUlkM3hKc3lPTkFmNjcxYWNETGp4azAzb1c0eENicWZ3Y1c0UUJjNWZoSXUtSzNtX1RhdGZZU09UckM4NHFybGxhVzNuNjFiNWR2dVdsMA?oc=5",
-      "sourceName": "PYMNTS.com",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (PYMNTS.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-8e12b6a1f1b8594d91fa",

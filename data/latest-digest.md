@@ -1,20 +1,20 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-22T06:46:22Z
+> Feed updated: 2026-11-22T16:16:57Z
 
 ## Overview
 
-- Total signals: **174**
+- Total signals: **173**
 - Projects represented: **3**
 - Confirmed source-origin items: **119**
-- Unconfirmed items: **55**
+- Unconfirmed items: **54**
 - Rumors: **0**
 
 ## Categories
 
 - Airdrop: 5
-- News: 164
-- Partnership: 5
+- News: 162
+- Partnership: 6
 
 ## Latest signals
 
@@ -32,8 +32,6 @@
   Source: <https://www.base.org/blog/base-batches-004-cohort>
 - **[Unconfirmed] Soneium · News · 2026-10-29** — Sony Launches Global Soneium Incubation Program For Onchain Entertainment Startups - OneBullEx
   Source: <https://news.google.com/rss/articles/CBMivwFBVV95cUxPZHUxejNhM0NFT3QyNXJWS2NNOHhLUWJDVTVJQS14MC1USThDOFYtNVE2Rm9GYmtNMVhFRVZvbDlBYXZXbzRUNVNpaTBZSGJ5a3pDMVYzWkowNGd6aHd4VGNVZEQ2azBNbm1qbkhpaWVMNFdtV25UVUtRNTAzSk5tQndEWmgyeUdqempUX05ZejVxU2lJdkFKOWFvX21nSHE5YkdNLTZQc0U3OFdmbTJ4VUF3am9UU2Z6bzlJNFlWQQ?oc=5>
-- **[Unconfirmed] Soneium · News · 2026-10-29** — Sony launches global onchain entertainment incubation programme - grafa.com
-  Source: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPVktUbWgyUU9uc1NRVFZlYXZPWXlUajVXdHlocDhiM2VTZ2VSZEVMODhhMUpUZ1U2WDlzWHZzMGhHaGloZkRsRnc5bFVTblg1eXFTY2QzeGJFRkVqdjVVaUk0TnR1QUtjbUM1bDdhdWhyZFpMS1pMRnpXcmQ3V0tmVWRDVmNwVFA5OEZOaVFpcGtqcWxKcVJDejEtMDM?oc=5>
 - **[Confirmed] Base · News · 2026-10-29** — How Shopify brought stablecoin payments to checkout on Base
   Source: <https://www.base.org/customers/shopify>
 - **[Unconfirmed] Soneium · News · 2026-10-28** — Sony launches Soneium incubation program for creators - Crypto News
@@ -58,6 +56,8 @@
   Source: <https://www.base.org/customers/centrifuge>
 - **[Unconfirmed] Soneium · News · 2026-09-28** — Sony-Backed Soneium Partners With DayOneDream to Tokenize K-Pop Revenue - unchainedcrypto.com
   Source: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQajBkQmRXWmx5Z3BaZ3kwMWZCQW5rSkREbWMzN3pibU5IVFFadXJCWHFzeVFWaW1uOHVSTFRjZXNuMnFDQlFlSHJUWlZHR09iVWczb0U3LVl0TEtfTERYbl9WcDdITndMa1FMdmU0U0RZYTZPd0tBOHFBSTJaaG1hUkh1ak5qWEZEa3p4RjdtTVRFVW15RmRIMDYxc0pNWGNJYmc?oc=5>
+- **[Unconfirmed] Base · News · 2026-09-16** — Coinbase switches BLUECHIP-USD trading pair to limit-only mode - Crypto Briefing
+  Source: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBmaEE3bnR6cWtnV1AzaU5LLWFTcHFaTmpWLU8yMGRCQWQ0QWZhY203NW9makZjemNOQXNnTmJlWVZZbGVudTk2bWxSZVVueTVrdTBVZ2EwclF4Zk5pMjVpQnZUNnF1R0xyX1NMRW1vZXB6UDQ?oc=5>
 
 ---
 Automatically generated from data/auto-news.json. Labels indicate source confidence, not investment advice.
