@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T07:37:20Z",
+  "updated_at": "2026-11-23T20:13:47Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -933,6 +933,21 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
+      "id": "auto-f472367aa7f929613565",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Kraken launches tokenised US stocks in EU as competition with Robinhood intensifies - dlnews.com",
+      "status": "Unconfirmed",
+      "date": "2025-09-10",
+      "publishedAt": "2025-09-10T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRW0xUmVYbHZRYXdJOGlpVjd6dVJsUnk5VElIV3VvYk9FdXdVSER5UU9NX21tSS1hOFNaSUpzZGJkblY3NGtDWXNhdVZIOFlERXhUV01tWnBubkFlQ1V3ekJxQ2ZKd0ljTGFqckdhRXlWTmotNk1sakh1Yl9JVnpUY29BQUIzLTNJX0dzTDUxZkYzQkhjYWc?oc=5",
+      "sourceName": "dlnews.com",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (dlnews.com); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-cbaa7eecad044fcc16f9",
       "projectId": "base",
       "project": "Base",
@@ -1096,21 +1111,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-45ea9a4a7c2747fda63a",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Activity on Kraken's Ink Layer 2 rises ahead of token rollout - The Block",
-      "status": "Unconfirmed",
-      "date": "2025-06-23",
-      "publishedAt": "2025-06-23T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR3Q3R3pEOXY1RUdDVUFvQUE2NFczOWkxR1I4NUNpbDdrMHFRc0tpbi1laDRYNGkzZjBqNWpiNFBMVTJaMUdMNWdHSXhzVVhxV2FuRUQ5dVVQdDJGNHBCX0IyTDc1bm9YcXZkNTJtM1llN2VXcDNGZ1ZQQ0NRcldFM3FmRkZ3ME5wVFE?oc=5",
-      "sourceName": "The Block",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-c02c8cc68cdfc49d8033",
@@ -1323,21 +1323,6 @@
       "notes": "Secondary source (Animoca Brands); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-895e63d1e15f5ca10f9e",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Animoca Brands teams up with Soneium to extend Moca Network's identity layer - The Block",
-      "status": "Unconfirmed",
-      "date": "2025-03-27",
-      "publishedAt": "2025-03-27T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdk5nLW1tdVZ6eGtkMGhFZDBtYnBNUzFoamt2emVGRGYycTFBWUlLdnNPQXA2aWxPQ3ViYU45YXBhRUpWZHdSYkRJdWtKOERReFdTbmRYS09LU2FzTkN5ZkF0SUt4RExleF9yS0pfNGN0bmh3OXZwWkZEaFZ0OTZKeFBmZllMWDlTTVNLMVR4NzM1UkJpZGo2MmhmQUk3NE9TNDZzWDhuTjBmYnhxU0Uyem9ENmQ2M0xiUWRvVlJoVFgyTnFPQzVZeXdmd1JReDllME5N?oc=5",
-      "sourceName": "The Block",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (The Block); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-69abb1ef0bbed2723cea",
       "projectId": "base",
       "project": "Base",
@@ -1366,6 +1351,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-b1246c47f6adf44a690f",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Japanese Tech Giants Sony and LINE Join Forces in Blockchain Deal - CoinDesk",
+      "status": "Unconfirmed",
+      "date": "2025-03-12",
+      "publishedAt": "2025-03-12T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMFRiWmlsS20wd3FoRWV2WWtFZ0t1UXFQMzNVNHkyNGhfLUc0MFkySmE4dUhzS293TFFZTGQwQVd3ZGRTSHZzcERrdGRGZ0xoR01CSm9zR3JyUkR1UUR0UXpYNjNRTXl4R0hWN3p3UWdjaEJtRDJsMXBqQVplTkFjaTl2aVpzZ0V6TG1hWnExYVJING94RUQ1ODRGZW9yYk81ZjMyT2NvNHRpdw?oc=5",
+      "sourceName": "CoinDesk",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (CoinDesk); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-0c61ee2749098f218fef",
@@ -1441,21 +1441,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-b9cf1494306be745ad72",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony forms Astar-Soneium alliance - Binance",
-      "status": "Unconfirmed",
-      "date": "2025-02-11",
-      "publishedAt": "2025-02-11T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fZlo2Q19vSk1DVEdKMktWZmdJRy1KM1EzYzU5bDhjdjluMENEU3dFODdQR1ZkOU1XVDRUdnJnZnRnWTk5U3Nzd0lhd2E2UzF5cURLQ09pZHhJMElubHhQNkVxRQ?oc=5",
-      "sourceName": "Binance",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Binance); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-6d1bdd9a5b975cacde4e",
@@ -1981,6 +1966,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-1e948c74e3478fd235a2",
+      "projectId": "base",
+      "project": "Base",
+      "category": "News",
+      "title": "Report: Coinbase Asset Management Creating Tokenized Money Market Fund - PYMNTS.com",
+      "status": "Unconfirmed",
+      "date": "2024-07-24",
+      "publishedAt": "2024-07-24T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS2M4WmxheGpobTFxdWhSX3JweV9iOTFDTHNwZGwyNk9SQnAzbHJkN3BuUmNDVUFrdXVLb0VJcVNTeW42NlJfZm1MMUZneUZGWTE0V1VxVEZUeVNDTmdEZVBXbFhEbUlkM3hKc3lPTkFmNjcxYWNETGp4azAzb1c0eENicWZ3Y1c0UUJjNWZoSXUtSzNtX1RhdGZZU09UckM4NHFybGxhVzNuNjFiNWR2dVdsMA?oc=5",
+      "sourceName": "PYMNTS.com",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (PYMNTS.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-8e12b6a1f1b8594d91fa",
