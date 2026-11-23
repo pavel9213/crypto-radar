@@ -1,6 +1,6 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-22T21:53:35Z
+> Feed updated: 2026-11-23T07:37:20Z
 
 ## Overview
 
@@ -31,7 +31,7 @@
 - **[Confirmed] Base · News · 2026-11-03** — Meet the Base Batches 004 cohort
   Source: <https://www.base.org/blog/base-batches-004-cohort>
 - **[Unconfirmed] Soneium · News · 2026-10-29** — Sony Launches Global Soneium Incubation Program For Onchain Entertainment Startups - OneBullEx
-  Source: <https://news.google.com/rss/articles/CBMivwFBVV95cUxPZHUxejNhM0NFT3QyNXJWS2NNOHhLUWJDVTVJQS14MC1USThDOFYtNVE2Rm9GYmtNMVhFRVZvbDlBYXZXbzRUNVNpaTBZSGJ5a3pDMVYzWkowNGd6aHd4VGNVZEQ2azBNbm1qbkhpaWVMNFdtV25UVUtRNTAzSk5tQndEWmgyeUdqempUX05ZejVxU2lJdkFKOWFvX21nSHE5YkdNLTZQc0U3OFdmbTJ4VUF3am9UU2Z6bzlJNFlWQQ?oc=5>
+  Source: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxPenlOZk1OaExkVXFkcG14Tk9UaVZaejhxWjl2V3NkemlMdUp4TEIwRnQ1cWh4alhiZm5idmVVTUZyX24xXzRQUnJDQVlmd1Mxek5ldDBqZXZTckJkQWp5dW9tcGp6LUZxNmZaTkVTRklIbDEtZ3gyUU96cE9sTjdFTXZzWnZiOFJNcGpxSDBZVDFla2hCdGFkcG5Sb1k1dmE5Zkp6M1ZBbnhXSDhPdVlNSVNXS0xMNV9jZlAwX1Exc3BBdw?oc=5>
 - **[Confirmed] Base · News · 2026-10-29** — How Shopify brought stablecoin payments to checkout on Base
   Source: <https://www.base.org/customers/shopify>
 - **[Unconfirmed] Soneium · News · 2026-10-28** — Sony launches Soneium incubation program for creators - Crypto News

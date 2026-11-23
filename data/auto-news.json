@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T21:53:35Z",
+  "updated_at": "2026-11-23T07:37:20Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -93,7 +93,7 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-900f9bffa162e8c4935b",
+      "id": "auto-f093718bd4e0aa1584e3",
       "projectId": "soneium",
       "project": "Soneium",
       "category": "News",
@@ -101,7 +101,7 @@
       "status": "Unconfirmed",
       "date": "2026-10-29",
       "publishedAt": "2026-10-29T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZHUxejNhM0NFT3QyNXJWS2NNOHhLUWJDVTVJQS14MC1USThDOFYtNVE2Rm9GYmtNMVhFRVZvbDlBYXZXbzRUNVNpaTBZSGJ5a3pDMVYzWkowNGd6aHd4VGNVZEQ2azBNbm1qbkhpaWVMNFdtV25UVUtRNTAzSk5tQndEWmgyeUdqempUX05ZejVxU2lJdkFKOWFvX21nSHE5YkdNLTZQc0U3OFdmbTJ4VUF3am9UU2Z6bzlJNFlWQQ?oc=5",
+      "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPenlOZk1OaExkVXFkcG14Tk9UaVZaejhxWjl2V3NkemlMdUp4TEIwRnQ1cWh4alhiZm5idmVVTUZyX24xXzRQUnJDQVlmd1Mxek5ldDBqZXZTckJkQWp5dW9tcGp6LUZxNmZaTkVTRklIbDEtZ3gyUU96cE9sTjdFTXZzWnZiOFJNcGpxSDBZVDFla2hCdGFkcG5Sb1k1dmE5Zkp6M1ZBbnhXSDhPdVlNSVNXS0xMNV9jZlAwX1Exc3BBdw?oc=5",
       "sourceName": "OneBullEx",
       "sourceType": "news-index",
       "automatic": true,
