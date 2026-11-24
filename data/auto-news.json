@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-24T04:48:06Z",
+  "updated_at": "2026-11-24T19:30:14Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
+    {
+      "id": "auto-7ee22e69b4fe0f4bd946",
+      "projectId": "base",
+      "project": "Base",
+      "category": "News",
+      "title": "How Base is secured in layers",
+      "status": "Confirmed",
+      "date": "2026-11-24",
+      "publishedAt": "2026-11-24T00:00:00Z",
+      "source": "https://www.base.org/blog/secured-in-layers",
+      "sourceName": "www.base.org",
+      "sourceType": "official",
+      "automatic": true,
+      "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
     {
       "id": "auto-7f943219e334ff8caf70",
       "projectId": "base",
@@ -46,21 +61,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-b010b548473dbf199fd4",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "Base Launches Upgrade to Make Transactions Faster and More Reliable - Indianweb2.com",
-      "status": "Unconfirmed",
-      "date": "2026-11-06",
-      "publishedAt": "2026-11-06T07:54:00Z",
-      "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43TGx6RzZNdlVlUWw3QmpMSWloeDRrWE8zdU1HWDNYa09heHBzOG9iNlNnZHp0TDU5cFRzYkt4OXJWNUlnQ1FWTXpuV3ZvS3BVWWd5S1BhM09YLTk0dmY1aEFVanVUUUo1NFFka1NWNUNWaEFiT1BNcQ?oc=5",
-      "sourceName": "Indianweb2.com",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Indianweb2.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-62c6e624d30cbf39616e",
@@ -121,6 +121,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (OneBullEx); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-f19e1502b987ed8fa96c",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony launches global onchain entertainment incubation programme - grafa.com",
+      "status": "Unconfirmed",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T06:53:22Z",
+      "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVktUbWgyUU9uc1NRVFZlYXZPWXlUajVXdHlocDhiM2VTZ2VSZEVMODhhMUpUZ1U2WDlzWHZzMGhHaGloZkRsRnc5bFVTblg1eXFTY2QzeGJFRkVqdjVVaUk0TnR1QUtjbUM1bDdhdWhyZFpMS1pMRnpXcmQ3V0tmVWRDVmNwVFA5OEZOaVFpcGtqcWxKcVJDejEtMDM?oc=5",
+      "sourceName": "grafa.com",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (grafa.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-066d138e2926f4ab5f22",
@@ -517,15 +532,15 @@
       "projectId": "ink",
       "project": "Ink",
       "category": "News",
-      "title": "Nado Statistics: Markets, Trading Volume & Trust Score - CoinGecko",
+      "title": "Nado Statistics: Markets, Trading Volume & Trust Score - Coingecko",
       "status": "Unconfirmed",
       "date": "2026-06-10",
       "publishedAt": "2026-06-10T03:09:21Z",
       "source": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GenhwMWNjYUphS2ZKbVhLMEpCSGJiekFxYVBUZTBOdzd2eXN4LUV4ZmczMWNTTkdSclZfUkxmRlU0T2xFb0tpZUJoTE9FWjFXLTZQM0hn?oc=5",
-      "sourceName": "CoinGecko",
+      "sourceName": "Coingecko",
       "sourceType": "news-index",
       "automatic": true,
-      "notes": "Secondary source (CoinGecko); not an official confirmation. Verify with the project before acting."
+      "notes": "Secondary source (Coingecko); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-6dd9d72e893ae716affd",
@@ -616,6 +631,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-5707222400c55108db13",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "The Financial Techniques of Crypto Giant Kraken - Binance",
+      "status": "Unconfirmed",
+      "date": "2026-04-19",
+      "publishedAt": "2026-04-19T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIVUp5WmZuTm9VYTNoMXNaY05DTkt2UGZOeWlOdWdkTFdoSVVzUUlndFlfQk1qS2RVVERxSGg0RFNSdk1ZVzlaSFF1YmthZ08zbzVOSEhVYkE3aFhJU1RjWkJfR2w?oc=5",
+      "sourceName": "Binance",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Binance); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-ed537061cc7dae94fe29",
@@ -843,21 +873,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-974430b45df92af4d7aa",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Just-In: Startale Launches Super App for Sony’s Soneium Blockchain Ecosystem - CoinGape",
-      "status": "Unconfirmed",
-      "date": "2025-11-11",
-      "publishedAt": "2025-11-11T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObUtOX09GLUFrTXpzSXNPeDczcTVwT1lhMmhNeTk4NjQzQW5uUGxCTkIxY0xHajJLQmFJRVVDLV9ZekxXX3VyU0ZzS1JGQkFxdjhYbGNXVkFfMHgxcVVaM3ZwSEhQQWVHaU4wcmNEVXFPbjNMUmJyeGloTjRCTzhZT0NfUDlxWjkzM1pzaUFCc28?oc=5",
-      "sourceName": "CoinGape",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (CoinGape); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-a64f061f726ad05931b7",
       "projectId": "base",
       "project": "Base",
@@ -871,6 +886,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-b5e2d711584f0bde8f89",
+      "projectId": "base",
+      "project": "Base",
+      "category": "News",
+      "title": "What is PING Crypto? Complete Guide to x402 Protocol's First Token - MEXC",
+      "status": "Unconfirmed",
+      "date": "2025-10-23",
+      "publishedAt": "2025-10-23T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmxibjhXcWlaM2NlSmJEX25ONl9pSm8wTmEyUGVLRHVEVjM2T0tTTVJoYWZSNmY2VHczR01HTlJJVzVXUTRqek9LTG5uYW9vZ1hPM1hVY2h5SlhDTC15STlrM1hWMXFhQkpyVjhvYkhwZjJWWldVckdtOV9lWlZHYXpIUTNrQjBYNTlVS0Rob1U1dEpwSHhQOExfSkgwLWVnR3VB?oc=5",
+      "sourceName": "MEXC",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (MEXC); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-63deab66b69fea67ad3f",
@@ -1507,15 +1537,15 @@
       "projectId": "soneium",
       "project": "Soneium",
       "category": "News",
-      "title": "Soneium Blockchain: Coins, NFTs, Exchanges & More - CoinGecko",
+      "title": "Soneium Blockchain: Coins, NFTs, Exchanges & More - Coingecko",
       "status": "Unconfirmed",
       "date": "2025-01-17",
       "publishedAt": "2025-01-17T07:49:30Z",
       "source": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1QlJKb2JJclZfUS1ZVEJOY2ZDVXpPVWN2YlREelRMNGxxb25QZ3BBZGxNNnV3OUtRNVZ1ZmNCVHU3MUtRN1hQNkx3Z1dNRG9IbXJhWk93?oc=5",
-      "sourceName": "CoinGecko",
+      "sourceName": "Coingecko",
       "sourceType": "news-index",
       "automatic": true,
-      "notes": "Secondary source (CoinGecko); not an official confirmation. Verify with the project before acting."
+      "notes": "Secondary source (Coingecko); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-c95d66f8c6ef9359552a",
@@ -1597,15 +1627,15 @@
       "projectId": "ink",
       "project": "Ink",
       "category": "News",
-      "title": "Ink Blockchain: Coins, NFTs, Exchanges & More - CoinGecko",
+      "title": "Ink Blockchain: Coins, NFTs, Exchanges & More - Coingecko",
       "status": "Unconfirmed",
       "date": "2024-12-20",
       "publishedAt": "2024-12-20T09:21:50Z",
       "source": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91RlpJSnB3RnFxbjVEekNkYjkwQUJyVGt5cjlqdUphNi11SGg3cjBIdW5uQnAzYkszRlhxbkJDYk4xeGtweUVZU3F3ZzJuV2NC?oc=5",
-      "sourceName": "CoinGecko",
+      "sourceName": "Coingecko",
       "sourceType": "news-index",
       "automatic": true,
-      "notes": "Secondary source (CoinGecko); not an official confirmation. Verify with the project before acting."
+      "notes": "Secondary source (Coingecko); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-653de286c200044124ea",
