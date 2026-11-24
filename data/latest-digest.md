@@ -1,6 +1,6 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-23T20:13:47Z
+> Feed updated: 2026-11-24T04:48:06Z
 
 ## Overview
 
@@ -24,6 +24,8 @@
   Source: <https://www.base.org/customers/wintermute>
 - **[Confirmed] Base · News · 2026-11-12** — How Exa lets AI agents buy search on demand
   Source: <https://www.base.org/customers/exa>
+- **[Unconfirmed] Base · News · 2026-11-06** — Base Launches Upgrade to Make Transactions Faster and More Reliable - Indianweb2.com
+  Source: <https://news.google.com/rss/articles/CBMieEFVX3lxTE43TGx6RzZNdlVlUWw3QmpMSWloeDRrWE8zdU1HWDNYa09heHBzOG9iNlNnZHp0TDU5cFRzYkt4OXJWNUlnQ1FWTXpuV3ZvS3BVWWd5S1BhM09YLTk0dmY1aEFVanVUUUo1NFFka1NWNUNWaEFiT1BNcQ?oc=5>
 - **[Confirmed] Base · News · 2026-11-05** — Introducing Base Denim
   Source: <https://www.base.org/blog/denim>
 - **[Confirmed] Base · News · 2026-11-04** — How Spiko makes yield universal on Base
@@ -56,8 +58,6 @@
   Source: <https://www.base.org/customers/centrifuge>
 - **[Unconfirmed] Soneium · News · 2026-09-28** — Sony-Backed Soneium Partners With DayOneDream to Tokenize K-Pop Revenue - unchainedcrypto.com
   Source: <https://news.google.com/rss/articles/CBMiogFBVV95cUxQajBkQmRXWmx5Z3BaZ3kwMWZCQW5rSkREbWMzN3pibU5IVFFadXJCWHFzeVFWaW1uOHVSTFRjZXNuMnFDQlFlSHJUWlZHR09iVWczb0U3LVl0TEtfTERYbl9WcDdITndMa1FMdmU0U0RZYTZPd0tBOHFBSTJaaG1hUkh1ak5qWEZEa3p4RjdtTVRFVW15RmRIMDYxc0pNWGNJYmc?oc=5>
-- **[Unconfirmed] Base · News · 2026-09-16** — Coinbase switches BLUECHIP-USD trading pair to limit-only mode - Crypto Briefing
-  Source: <https://news.google.com/rss/articles/CBMic0FVX3lxTFBmaEE3bnR6cWtnV1AzaU5LLWFTcHFaTmpWLU8yMGRCQWQ0QWZhY203NW9makZjemNOQXNnTmJlWVZZbGVudTk2bWxSZVVueTVrdTBVZ2EwclF4Zk5pMjVpQnZUNnF1R0xyX1NMRW1vZXB6UDQ?oc=5>
 
 ---
 Automatically generated from data/auto-news.json. Labels indicate source confidence, not investment advice.

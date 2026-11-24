@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T20:13:47Z",
+  "updated_at": "2026-11-24T04:48:06Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -46,6 +46,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-b010b548473dbf199fd4",
+      "projectId": "base",
+      "project": "Base",
+      "category": "News",
+      "title": "Base Launches Upgrade to Make Transactions Faster and More Reliable - Indianweb2.com",
+      "status": "Unconfirmed",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T07:54:00Z",
+      "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43TGx6RzZNdlVlUWw3QmpMSWloeDRrWE8zdU1HWDNYa09heHBzOG9iNlNnZHp0TDU5cFRzYkt4OXJWNUlnQ1FWTXpuV3ZvS3BVWWd5S1BhM09YLTk0dmY1aEFVanVUUUo1NFFka1NWNUNWaEFiT1BNcQ?oc=5",
+      "sourceName": "Indianweb2.com",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Indianweb2.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-62c6e624d30cbf39616e",
@@ -933,21 +948,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-f472367aa7f929613565",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Kraken launches tokenised US stocks in EU as competition with Robinhood intensifies - dlnews.com",
-      "status": "Unconfirmed",
-      "date": "2025-09-10",
-      "publishedAt": "2025-09-10T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRW0xUmVYbHZRYXdJOGlpVjd6dVJsUnk5VElIV3VvYk9FdXdVSER5UU9NX21tSS1hOFNaSUpzZGJkblY3NGtDWXNhdVZIOFlERXhUV01tWnBubkFlQ1V3ekJxQ2ZKd0ljTGFqckdhRXlWTmotNk1sakh1Yl9JVnpUY29BQUIzLTNJX0dzTDUxZkYzQkhjYWc?oc=5",
-      "sourceName": "dlnews.com",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (dlnews.com); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-cbaa7eecad044fcc16f9",
       "projectId": "base",
       "project": "Base",
@@ -1036,21 +1036,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-e16cff9672dcd1967001",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "What is BRETT coin​ and how high can it go by 2030? - AMBCrypto",
-      "status": "Unconfirmed",
-      "date": "2025-07-26",
-      "publishedAt": "2025-07-26T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hTF92a0RpZ2NVN2NPekQ3Tkd0VHdnbnkycWF2OTdXd0h5UUplNGFWYldPTUFiNFdOZTNfOGZmT2JiS29KMjU3cWVVUFBSZVZzTW4xWEFUaHVzNjA5TkdyS2xJRWFzOXo2c1pWS0I1RjBUZEhzZXl6SUlPUms?oc=5",
-      "sourceName": "AMBCrypto",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (AMBCrypto); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-0f4761b3da15050dc34c",
@@ -1156,6 +1141,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-f6d26ced4012041e1ece",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Kraken's Ethereum Layer-2 Ink Network Is Launching a Token - Decrypt",
+      "status": "Unconfirmed",
+      "date": "2025-06-17",
+      "publishedAt": "2025-06-17T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sczRMeTBqbmhFZjU3QUNUX0JWYnNsak5lQldZcHRlZ01xV0VHUEtLcVFUX1dJSzBJWkVBZTNUeWZQaUVwRURyc0g5dTZWWkxubjVLM3lCWGRsVFYxZ0VxalBpWlNFR0RKN3dmQm1fWW5id0RlcTNWNA?oc=5",
+      "sourceName": "Decrypt",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Decrypt); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-f8a7518394738cc27b13",
@@ -1698,19 +1698,19 @@
       "notes": "Secondary source (Blockworks); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-18c917770878fe4c4a68",
+      "id": "auto-d598fb03d3d9b7a2d6df",
       "projectId": "ink",
       "project": "Ink",
       "category": "News",
-      "title": "Just In: Kraken To Launch Its Own Blockchain in 2025 - CoinGape",
+      "title": "Here’s How Kraken’s Ink Blockchain Will Work - DailyCoin",
       "status": "Unconfirmed",
       "date": "2024-10-24",
       "publishedAt": "2024-10-24T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2R0Q4UTh5OE5PTkVzV0RybGJiVGo2ZUFxX0JTZEtIeklNaDJaOEhDYlhBQ1YwTTFVeTluS0N3TVJIZ09kRG51QXAxUHo3SGJrZE5xYlcxN2tLRGNSWHhSSHo2T3U1SzZDSldBN3ZrQzRNUm9jY21FSWt5NWpTZw?oc=5",
-      "sourceName": "CoinGape",
+      "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CT0QwTWhOVEVKOFI4cFB4am8zSFlXNGtnb3JYYTRxM1EwWTcwZUFfVC1FaEJjdjhXdWZpVl9TVjNHQnhOZGkzWGk3c196TEVJUEcyTVpPNnRrcGpDS0N0YnlyWlJ6VDJFMVdiRjBmdklDUGc?oc=5",
+      "sourceName": "DailyCoin",
       "sourceType": "news-index",
       "automatic": true,
-      "notes": "Secondary source (CoinGape); not an official confirmation. Verify with the project before acting."
+      "notes": "Secondary source (DailyCoin); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-bfe599cf7e3680937df7",
