@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T19:30:14Z",
+  "updated_at": "2026-11-25T03:32:46Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -738,6 +738,21 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
+      "id": "auto-510f8d0e7bf234ef6ca6",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony doubles down on Soneium after first year of mainnet activity - TradingView",
+      "status": "Unconfirmed",
+      "date": "2026-01-29",
+      "publishedAt": "2026-01-29T08:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXJmMEx5UGgzanc0d1J2VnNxUUx1MnJ2bzN3dXNabDQ1cUdGVVIwcGY3bHFPZG5feENNVUV2M1A2Z054UGVDLVZUbnUteTkxVk53RXItT2JyemZpRXJGM3lydEtQemM4bTdZM0pLcEtxUkxtbGN4djdhaF90a09qUnVkWC0xbF9GeVRMaVNFbHJuVVF6M1FkREVqSVRhVzBEalh1TkhaTzB2cmtrXzNmTHJOZnRkTkJWT2MxdVVGSFQtdHM0TGFObg?oc=5",
+      "sourceName": "TradingView",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (TradingView); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-b7b1f679e527e13623d4",
       "projectId": "base",
       "project": "Base",
@@ -1128,21 +1143,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-c02c8cc68cdfc49d8033",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "Airdrop",
-      "title": "Surge in Activity on Kraken’s Ink Network Ahead of Token Airdrop - ForkLog",
-      "status": "Unconfirmed",
-      "date": "2025-06-23",
-      "publishedAt": "2025-06-23T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS28xbTQzcjZFdEdOYWJtLVZoWHFMdGdWeFk2UDJXbUtrTW5KVU8yR2pVTkhhYTNKREFPcndaTThPN083c21rSkhZcnR5WTlzTTd3SEdDcE0yeGQ4cFdQb2JBcTlaSjYzOU45S1R1QkNVbFE1RnRoRGw5RkN6RlpVYlRzOFNYczVMNjIyS05SV1A?oc=5",
-      "sourceName": "ForkLog",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (ForkLog); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-5d95e9d077c2f9d633a3",
       "projectId": "ink",
       "project": "Ink",
@@ -1458,6 +1458,21 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
+      "id": "auto-5cd0cb34bf7604d59c89",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony Music Publishing Jumps Into… NFTs? - Digital Music News",
+      "status": "Unconfirmed",
+      "date": "2025-02-26",
+      "publishedAt": "2025-02-26T08:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON0FWdmpJbnZyWnNxM2ptQktNVERCYkotWGZoZ2FPWlY5WjBsZTFScmpvYjNrVGVKMDRXUF85eEJrU3pMSzZNa2JBTnNhZ05Da3Z4MVRzdWpmS2JHZ3B4djlldVJHeV9DSmwwTVVvOFFSWFF1TjNKRVJRTzZhY0l5Yi1idUxGVEN2bmc?oc=5",
+      "sourceName": "Digital Music News",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Digital Music News); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-1847f492ef95884c66f3",
       "projectId": "base",
       "project": "Base",
@@ -1597,15 +1612,15 @@
       "projectId": "ink",
       "project": "Ink",
       "category": "News",
-      "title": "Squidswap Statistics: Markets, Trading Volume & Trust Score - CoinGecko",
+      "title": "Squidswap Statistics: Markets, Trading Volume & Trust Score - Coingecko",
       "status": "Unconfirmed",
       "date": "2025-01-10",
       "publishedAt": "2025-01-10T10:45:37Z",
       "source": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xUHloemVqcENFVW5IWXhLQnMtRzJoM0RmNTRhTVE1ci0zbEtxLS1wSHZ5aWNMV2dUSHFFV0oyVVhNV2Z0YTVkR0EzcDRSeFlsS0k0WHM1OXZYTXhW?oc=5",
-      "sourceName": "CoinGecko",
+      "sourceName": "Coingecko",
       "sourceType": "news-index",
       "automatic": true,
-      "notes": "Secondary source (CoinGecko); not an official confirmation. Verify with the project before acting."
+      "notes": "Secondary source (Coingecko); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-4484ac7184089d77cc14",

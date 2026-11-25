@@ -1,19 +1,19 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-24T19:30:14Z
+> Feed updated: 2026-11-25T03:32:46Z
 
 ## Overview
 
-- Total signals: **175**
+- Total signals: **176**
 - Projects represented: **3**
 - Confirmed source-origin items: **120**
-- Unconfirmed items: **55**
+- Unconfirmed items: **56**
 - Rumors: **0**
 
 ## Categories
 
-- Airdrop: 5
-- News: 164
+- Airdrop: 4
+- News: 166
 - Partnership: 6
 
 ## Latest signals
