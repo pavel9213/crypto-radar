@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T03:32:46Z",
+  "updated_at": "2026-11-25T14:21:43Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -61,6 +61,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-b010b548473dbf199fd4",
+      "projectId": "base",
+      "project": "Base",
+      "category": "News",
+      "title": "Base Launches Upgrade to Make Transactions Faster and More Reliable - Indianweb2.com",
+      "status": "Unconfirmed",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-06T07:54:00Z",
+      "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43TGx6RzZNdlVlUWw3QmpMSWloeDRrWE8zdU1HWDNYa09heHBzOG9iNlNnZHp0TDU5cFRzYkt4OXJWNUlnQ1FWTXpuV3ZvS3BVWWd5S1BhM09YLTk0dmY1aEFVanVUUUo1NFFka1NWNUNWaEFiT1BNcQ?oc=5",
+      "sourceName": "Indianweb2.com",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Indianweb2.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-62c6e624d30cbf39616e",
@@ -316,21 +331,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (unchainedcrypto.com); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-1c4c331ce783c50211ac",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "Coinbase switches BLUECHIP-USD trading pair to limit-only mode - Crypto Briefing",
-      "status": "Unconfirmed",
-      "date": "2026-09-16",
-      "publishedAt": "2026-09-16T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmaEE3bnR6cWtnV1AzaU5LLWFTcHFaTmpWLU8yMGRCQWQ0QWZhY203NW9makZjemNOQXNnTmJlWVZZbGVudTk2bWxSZVVueTVrdTBVZ2EwclF4Zk5pMjVpQnZUNnF1R0xyX1NMRW1vZXB6UDQ?oc=5",
-      "sourceName": "Crypto Briefing",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Crypto Briefing); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-5b763ce14236dd3d7acb",
@@ -781,21 +781,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-d2495b3971a4b3479d86",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Soneium Score Season 5 NFT guide - paragraph.com",
-      "status": "Unconfirmed",
-      "date": "2025-12-21",
-      "publishedAt": "2025-12-21T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRQTF0cFFhZUJRbURjZnBvejAtclVrWUJ1OWJwd0JjYjk5bEI3aVhVX09OSDBSX0lPd3RRdzNkV2FiVFpNZkRteHpGX2dNUDIyVHhTWlN4UzVvb3cyU2pSQ2RfY1NQTW1RMXVIOUJuek9HNGM?oc=5",
-      "sourceName": "paragraph.com",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (paragraph.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-60f71fb9f76f2d51d38a",
