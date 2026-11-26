@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T14:21:43Z",
+  "updated_at": "2026-11-26T00:20:34Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -136,21 +136,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (OneBullEx); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-f19e1502b987ed8fa96c",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony launches global onchain entertainment incubation programme - grafa.com",
-      "status": "Unconfirmed",
-      "date": "2026-10-29",
-      "publishedAt": "2026-10-29T06:53:22Z",
-      "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVktUbWgyUU9uc1NRVFZlYXZPWXlUajVXdHlocDhiM2VTZ2VSZEVMODhhMUpUZ1U2WDlzWHZzMGhHaGloZkRsRnc5bFVTblg1eXFTY2QzeGJFRkVqdjVVaUk0TnR1QUtjbUM1bDdhdWhyZFpMS1pMRnpXcmQ3V0tmVWRDVmNwVFA5OEZOaVFpcGtqcWxKcVJDejEtMDM?oc=5",
-      "sourceName": "grafa.com",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (grafa.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-066d138e2926f4ab5f22",
@@ -526,6 +511,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-8968de729675d33954c5",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Nado (Spot) Statistics: Markets, Trading Volume & Trust Score - Coingecko",
+      "status": "Unconfirmed",
+      "date": "2026-06-17",
+      "publishedAt": "2026-06-17T09:19:35Z",
+      "source": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zUlVyaXlmakROLTNyNGgySnBFLWJsVFhEd0dMN1B0Z2g4R3gwSXVTdEhtRElFLWJQMGdSQ1h2R1VWZS1iM3ZRVDJkQUFscTRzdWdLQjE2N00zVF9R?oc=5",
+      "sourceName": "Coingecko",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Coingecko); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-1643a7dc2e4dec2e1edc",
@@ -1591,21 +1591,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Ledger Insights); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-bbd17af9d001c1b73c4a",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Squidswap Statistics: Markets, Trading Volume & Trust Score - Coingecko",
-      "status": "Unconfirmed",
-      "date": "2025-01-10",
-      "publishedAt": "2025-01-10T10:45:37Z",
-      "source": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xUHloemVqcENFVW5IWXhLQnMtRzJoM0RmNTRhTVE1ci0zbEtxLS1wSHZ5aWNMV2dUSHFFV0oyVVhNV2Z0YTVkR0EzcDRSeFlsS0k0WHM1OXZYTXhW?oc=5",
-      "sourceName": "Coingecko",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Coingecko); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-4484ac7184089d77cc14",

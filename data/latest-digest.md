@@ -1,19 +1,19 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-25T14:21:43Z
+> Feed updated: 2026-11-26T00:20:34Z
 
 ## Overview
 
-- Total signals: **175**
+- Total signals: **174**
 - Projects represented: **3**
 - Confirmed source-origin items: **120**
-- Unconfirmed items: **55**
+- Unconfirmed items: **54**
 - Rumors: **0**
 
 ## Categories
 
 - Airdrop: 4
-- News: 165
+- News: 164
 - Partnership: 6
 
 ## Latest signals
@@ -36,8 +36,6 @@
   Source: <https://www.base.org/blog/base-batches-004-cohort>
 - **[Unconfirmed] Soneium · News · 2026-10-29** — Sony Launches Global Soneium Incubation Program For Onchain Entertainment Startups - OneBullEx
   Source: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxPenlOZk1OaExkVXFkcG14Tk9UaVZaejhxWjl2V3NkemlMdUp4TEIwRnQ1cWh4alhiZm5idmVVTUZyX24xXzRQUnJDQVlmd1Mxek5ldDBqZXZTckJkQWp5dW9tcGp6LUZxNmZaTkVTRklIbDEtZ3gyUU96cE9sTjdFTXZzWnZiOFJNcGpxSDBZVDFla2hCdGFkcG5Sb1k1dmE5Zkp6M1ZBbnhXSDhPdVlNSVNXS0xMNV9jZlAwX1Exc3BBdw?oc=5>
-- **[Unconfirmed] Soneium · News · 2026-10-29** — Sony launches global onchain entertainment incubation programme - grafa.com
-  Source: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPVktUbWgyUU9uc1NRVFZlYXZPWXlUajVXdHlocDhiM2VTZ2VSZEVMODhhMUpUZ1U2WDlzWHZzMGhHaGloZkRsRnc5bFVTblg1eXFTY2QzeGJFRkVqdjVVaUk0TnR1QUtjbUM1bDdhdWhyZFpMS1pMRnpXcmQ3V0tmVWRDVmNwVFA5OEZOaVFpcGtqcWxKcVJDejEtMDM?oc=5>
 - **[Confirmed] Base · News · 2026-10-29** — How Shopify brought stablecoin payments to checkout on Base
   Source: <https://www.base.org/customers/shopify>
 - **[Unconfirmed] Soneium · News · 2026-10-28** — Sony launches Soneium incubation program for creators - Crypto News
@@ -58,6 +56,8 @@
   Source: <https://www.base.org/blog/cobalt>
 - **[Unconfirmed] Soneium · News · 2026-09-29** — BTOB, Lee Chae Yeon and More: K-POP IP Goes Onchain With Sony Crypto - TradingView
   Source: <https://news.google.com/rss/articles/CBMixgFBVV95cUxNdTQ1ZlFoSFIyUHJLcVVmdXBiMjZmaEFqNktwbTdsbDBfcmRvNUprTFQzd0ZEeEJmN2daaVA5dV9UWXRMd3VXalBST0x1RUY2SkdvTHFrNUV4aV8taE5OOTBzLVNTT3FsbUZIN28wYVBJbEpwNFU3dGJVUDRLWjdVLXk2OGM4YUJOVjJNdDBvcmxoLThIdmwxVjNPS3k1VjRvTTRETzkta1lpU2NrVEZpYkFaY3JhS2p4cllvSlVSR1NEY0N2dVE?oc=5>
+- **[Confirmed] Base · News · 2026-09-29** — How Centrifuge brought the S&P 500® onchain
+  Source: <https://www.base.org/customers/centrifuge>
 
 ---
 Automatically generated from data/auto-news.json. Labels indicate source confidence, not investment advice.
