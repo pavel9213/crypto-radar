@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T00:20:34Z",
+  "updated_at": "2026-11-26T13:53:24Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -63,21 +63,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-b010b548473dbf199fd4",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "Base Launches Upgrade to Make Transactions Faster and More Reliable - Indianweb2.com",
-      "status": "Unconfirmed",
-      "date": "2026-11-06",
-      "publishedAt": "2026-11-06T07:54:00Z",
-      "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43TGx6RzZNdlVlUWw3QmpMSWloeDRrWE8zdU1HWDNYa09heHBzOG9iNlNnZHp0TDU5cFRzYkt4OXJWNUlnQ1FWTXpuV3ZvS3BVWWd5S1BhM09YLTk0dmY1aEFVanVUUUo1NFFka1NWNUNWaEFiT1BNcQ?oc=5",
-      "sourceName": "Indianweb2.com",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Indianweb2.com); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-62c6e624d30cbf39616e",
       "projectId": "base",
       "project": "Base",
@@ -136,6 +121,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (OneBullEx); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-f19e1502b987ed8fa96c",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony launches global onchain entertainment incubation programme - grafa.com",
+      "status": "Unconfirmed",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T06:53:22Z",
+      "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVktUbWgyUU9uc1NRVFZlYXZPWXlUajVXdHlocDhiM2VTZ2VSZEVMODhhMUpUZ1U2WDlzWHZzMGhHaGloZkRsRnc5bFVTblg1eXFTY2QzeGJFRkVqdjVVaUk0TnR1QUtjbUM1bDdhdWhyZFpMS1pMRnpXcmQ3V0tmVWRDVmNwVFA5OEZOaVFpcGtqcWxKcVJDejEtMDM?oc=5",
+      "sourceName": "grafa.com",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (grafa.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-066d138e2926f4ab5f22",
@@ -318,6 +318,21 @@
       "notes": "Secondary source (unchainedcrypto.com); not an official confirmation. Verify with the project before acting."
     },
     {
+      "id": "auto-1c4c331ce783c50211ac",
+      "projectId": "base",
+      "project": "Base",
+      "category": "News",
+      "title": "Coinbase switches BLUECHIP-USD trading pair to limit-only mode - Crypto Briefing",
+      "status": "Unconfirmed",
+      "date": "2026-09-16",
+      "publishedAt": "2026-09-16T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmaEE3bnR6cWtnV1AzaU5LLWFTcHFaTmpWLU8yMGRCQWQ0QWZhY203NW9makZjemNOQXNnTmJlWVZZbGVudTk2bWxSZVVueTVrdTBVZ2EwclF4Zk5pMjVpQnZUNnF1R0xyX1NMRW1vZXB6UDQ?oc=5",
+      "sourceName": "Crypto Briefing",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Crypto Briefing); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-5b763ce14236dd3d7acb",
       "projectId": "ink",
       "project": "Ink",
@@ -436,21 +451,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-dfeb1c2ed71dff720107",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "Chainlink Quarterly Review: Q2, 2026 - Chainlink",
-      "status": "Unconfirmed",
-      "date": "2026-07-24",
-      "publishedAt": "2026-07-24T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12OXhzTXRmY1pJeU11eXVMamJseU5PQlBHRWFBWkg4RWE2TXh1MWxpTzBEU3Ntd2FLSVdIMGFtQTVMMkNNc0tYbmlRVE9lUms4NTd1VlBVV2F0aHBF?oc=5",
-      "sourceName": "Chainlink",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Chainlink); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-1d7eff35e7bcbdf33d5a",
@@ -1533,6 +1533,21 @@
       "notes": "Secondary source (BitPinas); not an official confirmation. Verify with the project before acting."
     },
     {
+      "id": "auto-9fd3570c775aa3d6befd",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony Launches Ethereum Network Soneium: Will It Bring Blockchain to PlayStation? - Binance",
+      "status": "Unconfirmed",
+      "date": "2025-01-18",
+      "publishedAt": "2025-01-18T08:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYQUx5OFJIeURtTVRDOC1BWklweGc4NUVERzVrRk1vZm56aE1zRWpsdG5GSnJxeU9GMl9FU05kTnZYN3M4U29XdHBLNUtUeHdwOF82am9EdVBKOHBCNUhob0NDVQ?oc=5",
+      "sourceName": "Binance",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Binance); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-5ec80fc80ea0029c4ca3",
       "projectId": "soneium",
       "project": "Soneium",
@@ -2431,6 +2446,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-8be209dd045f3b046a9e",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "opBNB: Funding, Investors, Team and Key Events - CryptoRank",
+      "status": "Unconfirmed",
+      "date": "2023-06-22",
+      "publishedAt": "2023-06-22T19:21:38Z",
+      "source": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAweWR4TVh0ZFNPaG9JMU83bHNXbzJfRGFvcGppTHBDMGQwNkx4UU5TdFlHQS12Q2xPcGRUSDYtNHQ4Rm9qdnNMbg?oc=5",
+      "sourceName": "CryptoRank",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (CryptoRank); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-6f21c907452bfc93fd87",
