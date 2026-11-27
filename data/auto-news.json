@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T00:34:52Z",
+  "updated_at": "2026-11-27T13:51:26Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -121,21 +121,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (OneBullEx); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-f19e1502b987ed8fa96c",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony launches global onchain entertainment incubation programme - grafa.com",
-      "status": "Unconfirmed",
-      "date": "2026-10-29",
-      "publishedAt": "2026-10-29T06:53:22Z",
-      "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVktUbWgyUU9uc1NRVFZlYXZPWXlUajVXdHlocDhiM2VTZ2VSZEVMODhhMUpUZ1U2WDlzWHZzMGhHaGloZkRsRnc5bFVTblg1eXFTY2QzeGJFRkVqdjVVaUk0TnR1QUtjbUM1bDdhdWhyZFpMS1pMRnpXcmQ3V0tmVWRDVmNwVFA5OEZOaVFpcGtqcWxKcVJDejEtMDM?oc=5",
-      "sourceName": "grafa.com",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (grafa.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-066d138e2926f4ab5f22",
@@ -603,21 +588,6 @@
       "notes": "Secondary source (Bitget); not an official confirmation. Verify with the project before acting."
     },
     {
-      "id": "auto-7a05f46b5ac7d5f23db3",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "Airdrop",
-      "title": "Farming the INK airdrop in the Kraken ecosystem: a complete guide - Incrypted",
-      "status": "Unconfirmed",
-      "date": "2026-04-23",
-      "publishedAt": "2026-04-23T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04c2FJUHk3YmhscHQyWkQ1aXFVVWM0RXZQX2FsNjNHNDBVLVZ3RVBhcTBUMDMyVWhDNkxLamVnRU83UWVWM1hWS19MY2ZNUQ?oc=5",
-      "sourceName": "Incrypted",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Incrypted); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-0c8cd77c34f80a6cd3a8",
       "projectId": "base",
       "project": "Base",
@@ -633,21 +603,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-5707222400c55108db13",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "News",
-      "title": "The Financial Techniques of Crypto Giant Kraken - Binance",
-      "status": "Unconfirmed",
-      "date": "2026-04-19",
-      "publishedAt": "2026-04-19T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIVUp5WmZuTm9VYTNoMXNaY05DTkt2UGZOeWlOdWdkTFdoSVVzUUlndFlfQk1qS2RVVERxSGg0RFNSdk1ZVzlaSFF1YmthZ08zbzVOSEhVYkE3aFhJU1RjWkJfR2w?oc=5",
-      "sourceName": "Binance",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Binance); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-ed537061cc7dae94fe29",
       "projectId": "ink",
       "project": "Ink",
@@ -661,6 +616,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Incrypted); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-5707222400c55108db13",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "The Financial Techniques of Crypto Giant Kraken - Binance",
+      "status": "Unconfirmed",
+      "date": "2026-04-19",
+      "publishedAt": "2026-04-19T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIVUp5WmZuTm9VYTNoMXNaY05DTkt2UGZOeWlOdWdkTFdoSVVzUUlndFlfQk1qS2RVVERxSGg0RFNSdk1ZVzlaSFF1YmthZ08zbzVOSEhVYkE3aFhJU1RjWkJfR2w?oc=5",
+      "sourceName": "Binance",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Binance); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-5c904f6c256413c00640",
@@ -1777,15 +1747,15 @@
       "projectId": "soneium",
       "project": "Soneium",
       "category": "News",
-      "title": "What Is Soneium? A Beginner’s Guide To Sony’s Blockchain - CoinGecko",
+      "title": "What Is Soneium? A Beginner’s Guide To Sony’s Blockchain - Coingecko",
       "status": "Unconfirmed",
       "date": "2024-09-20",
       "publishedAt": "2024-09-20T07:00:00Z",
       "source": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wTlBQYXZPeVE3OUtJZjg3UVplZDNIZnhQNmQ3dHlWODBqOW9ldGFRM2xjNElXR2V0enp5ejUyTGZQZVBWNnVnYWdBbzJEQjcwUlVGNFRZNGRyNXRBZEFZNWs1aEVtQ1V2SGR3?oc=5",
-      "sourceName": "CoinGecko",
+      "sourceName": "Coingecko",
       "sourceType": "news-index",
       "automatic": true,
-      "notes": "Secondary source (CoinGecko); not an official confirmation. Verify with the project before acting."
+      "notes": "Secondary source (Coingecko); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-8d60aeaa191cc31a4ff6",
@@ -1906,6 +1876,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Binance); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-1476cf7ad96e91ceaed6",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony’s Layer-2 Blockchain Soneium to Rival Coinbase’s Base Network - BeInCrypto",
+      "status": "Unconfirmed",
+      "date": "2024-08-23",
+      "publishedAt": "2024-08-23T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rZy1YUlBRTWlIbU1QdzBneU1XRThoMi1kTm1ZZ0VmOVItTmwwWXZlcHg5T0VtZGtBUWtfWVg2bENNcmpKQ3JPNU93T0tlYzJxNkIyUDhLU3pmbWdSWllGdWRweFpmX2c?oc=5",
+      "sourceName": "BeInCrypto",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (BeInCrypto); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-c961480f7bfd040c650c",
