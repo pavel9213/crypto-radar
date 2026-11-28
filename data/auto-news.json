@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T07:48:07Z",
+  "updated_at": "2026-11-28T16:52:57Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -136,6 +136,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (OneBullEx); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-f19e1502b987ed8fa96c",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony launches global onchain entertainment incubation programme - grafa.com",
+      "status": "Unconfirmed",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T06:53:22Z",
+      "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVktUbWgyUU9uc1NRVFZlYXZPWXlUajVXdHlocDhiM2VTZ2VSZEVMODhhMUpUZ1U2WDlzWHZzMGhHaGloZkRsRnc5bFVTblg1eXFTY2QzeGJFRkVqdjVVaUk0TnR1QUtjbUM1bDdhdWhyZFpMS1pMRnpXcmQ3V0tmVWRDVmNwVFA5OEZOaVFpcGtqcWxKcVJDejEtMDM?oc=5",
+      "sourceName": "grafa.com",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (grafa.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-066d138e2926f4ab5f22",
@@ -333,6 +348,21 @@
       "notes": "Secondary source (Crypto Briefing); not an official confirmation. Verify with the project before acting."
     },
     {
+      "id": "auto-ea6f9ae6a4c707930066",
+      "projectId": "base",
+      "project": "Base",
+      "category": "Points",
+      "title": "Micron stock could rise 70% as TD Cowen analyst points to overlooked demand catalyst - Crypto Briefing",
+      "status": "Unconfirmed",
+      "date": "2026-09-16",
+      "publishedAt": "2026-09-16T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrUEhVZFA0VG9lcnV2RXhodUF0dmZ3cmFmSWpnWVcxWDJob3ZqQ1JtZzJBX2Rwb3QxcWkwOG9tclltd21iQ3NfMW9sd0o1M0psZTl6UC1LMXR4TW1NZE5KTFhfVnBtV0JSb1duWUtidjdLWURVUVE?oc=5",
+      "sourceName": "Crypto Briefing",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Crypto Briefing); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-5b763ce14236dd3d7acb",
       "projectId": "ink",
       "project": "Ink",
@@ -451,6 +481,21 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
+    },
+    {
+      "id": "auto-dfeb1c2ed71dff720107",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "News",
+      "title": "Chainlink Quarterly Review: Q2, 2026 - Chainlink",
+      "status": "Unconfirmed",
+      "date": "2026-07-24",
+      "publishedAt": "2026-07-24T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12OXhzTXRmY1pJeU11eXVMamJseU5PQlBHRWFBWkg4RWE2TXh1MWxpTzBEU3Ntd2FLSVdIMGFtQTVMMkNNc0tYbmlRVE9lUms4NTd1VlBVV2F0aHBF?oc=5",
+      "sourceName": "Chainlink",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Chainlink); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-1d7eff35e7bcbdf33d5a",
@@ -901,21 +946,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-b5e2d711584f0bde8f89",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "What is PING Crypto? Complete Guide to x402 Protocol's First Token - MEXC",
-      "status": "Unconfirmed",
-      "date": "2025-10-23",
-      "publishedAt": "2025-10-23T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmxibjhXcWlaM2NlSmJEX25ONl9pSm8wTmEyUGVLRHVEVjM2T0tTTVJoYWZSNmY2VHczR01HTlJJVzVXUTRqek9LTG5uYW9vZ1hPM1hVY2h5SlhDTC15STlrM1hWMXFhQkpyVjhvYkhwZjJWWldVckdtOV9lWlZHYXpIUTNrQjBYNTlVS0Rob1U1dEpwSHhQOExfSkgwLWVnR3VB?oc=5",
-      "sourceName": "MEXC",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (MEXC); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-63deab66b69fea67ad3f",
@@ -1471,21 +1501,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-5cd0cb34bf7604d59c89",
-      "projectId": "soneium",
-      "project": "Soneium",
-      "category": "News",
-      "title": "Sony Music Publishing Jumps Into… NFTs? - Digital Music News",
-      "status": "Unconfirmed",
-      "date": "2025-02-26",
-      "publishedAt": "2025-02-26T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON0FWdmpJbnZyWnNxM2ptQktNVERCYkotWGZoZ2FPWlY5WjBsZTFScmpvYjNrVGVKMDRXUF85eEJrU3pMSzZNa2JBTnNhZ05Da3Z4MVRzdWpmS2JHZ3B4djlldVJHeV9DSmwwTVVvOFFSWFF1TjNKRVJRTzZhY0l5Yi1idUxGVEN2bmc?oc=5",
-      "sourceName": "Digital Music News",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Digital Music News); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-eb2e6dafae692c32686b",
