@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T13:51:26Z",
+  "updated_at": "2026-11-28T00:02:14Z",
   "source_mode": "official feeds + secondary news index + X API",
   "events": [
     {
@@ -123,6 +123,21 @@
       "notes": "Secondary source (OneBullEx); not an official confirmation. Verify with the project before acting."
     },
     {
+      "id": "auto-f19e1502b987ed8fa96c",
+      "projectId": "soneium",
+      "project": "Soneium",
+      "category": "News",
+      "title": "Sony launches global onchain entertainment incubation programme - grafa.com",
+      "status": "Unconfirmed",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T06:53:22Z",
+      "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVktUbWgyUU9uc1NRVFZlYXZPWXlUajVXdHlocDhiM2VTZ2VSZEVMODhhMUpUZ1U2WDlzWHZzMGhHaGloZkRsRnc5bFVTblg1eXFTY2QzeGJFRkVqdjVVaUk0TnR1QUtjbUM1bDdhdWhyZFpMS1pMRnpXcmQ3V0tmVWRDVmNwVFA5OEZOaVFpcGtqcWxKcVJDejEtMDM?oc=5",
+      "sourceName": "grafa.com",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (grafa.com); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-066d138e2926f4ab5f22",
       "projectId": "base",
       "project": "Base",
@@ -196,21 +211,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-fe0b906f66bf4dde9e3e",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "The Coinbase Bull Case Comes Down to One Very Big Number - 24/7 Wall St.",
-      "status": "Unconfirmed",
-      "date": "2026-10-21",
-      "publishedAt": "2026-10-21T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcFRZS3hEZGdTd3p0SzdSUTlHVVRJVjRNQk1mdjNrVXZmbU9telJRV3pndGdhM0E2YXpERXVnQklMaW9iNTN3SUJjV0RmZHBiWXRUb3ZTWGlSQzNNMVdfNGg5YlAwdXJpZzZFRlJpT0pEOW9sUlA0bjdIQ2ZQb3IxS0NfeHJsSWVFejVfQ1dOTWhLQkxleUM3TVp5cnJhajZXOUE?oc=5",
-      "sourceName": "24/7 Wall St.",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (24/7 Wall St.); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-3e0da202b12ce3a265d2",
@@ -301,21 +301,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (unchainedcrypto.com); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-1c4c331ce783c50211ac",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "Coinbase switches BLUECHIP-USD trading pair to limit-only mode - Crypto Briefing",
-      "status": "Unconfirmed",
-      "date": "2026-09-16",
-      "publishedAt": "2026-09-16T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmaEE3bnR6cWtnV1AzaU5LLWFTcHFaTmpWLU8yMGRCQWQ0QWZhY203NW9makZjemNOQXNnTmJlWVZZbGVudTk2bWxSZVVueTVrdTBVZ2EwclF4Zk5pMjVpQnZUNnF1R0xyX1NMRW1vZXB6UDQ?oc=5",
-      "sourceName": "Crypto Briefing",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Crypto Briefing); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-5b763ce14236dd3d7acb",
@@ -588,6 +573,21 @@
       "notes": "Secondary source (Bitget); not an official confirmation. Verify with the project before acting."
     },
     {
+      "id": "auto-7a05f46b5ac7d5f23db3",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "Airdrop",
+      "title": "Farming the INK airdrop in the Kraken ecosystem: a complete guide - Incrypted",
+      "status": "Unconfirmed",
+      "date": "2026-04-23",
+      "publishedAt": "2026-04-23T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04c2FJUHk3YmhscHQyWkQ1aXFVVWM0RXZQX2FsNjNHNDBVLVZ3RVBhcTBUMDMyVWhDNkxLamVnRU83UWVWM1hWS19MY2ZNUQ?oc=5",
+      "sourceName": "Incrypted",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Incrypted); not an official confirmation. Verify with the project before acting."
+    },
+    {
       "id": "auto-0c8cd77c34f80a6cd3a8",
       "projectId": "base",
       "project": "Base",
@@ -603,21 +603,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-ed537061cc7dae94fe29",
-      "projectId": "ink",
-      "project": "Ink",
-      "category": "Airdrop",
-      "title": "Tydro — active in the project with a focus on the INK airdrop - Incrypted",
-      "status": "Unconfirmed",
-      "date": "2026-04-19",
-      "publishedAt": "2026-04-19T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLb1lfNnF3QWVvWUZQOXNLdEJpbldvT0c0ay1XMFBDYVpIdHlzeU1ETkNtSEo1cVcxc2ZUZFlSOFNhMHJKTWlreXdXX245N2g2cFE?oc=5",
-      "sourceName": "Incrypted",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Incrypted); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-5707222400c55108db13",
       "projectId": "ink",
       "project": "Ink",
@@ -631,6 +616,21 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Binance); not an official confirmation. Verify with the project before acting."
+    },
+    {
+      "id": "auto-ed537061cc7dae94fe29",
+      "projectId": "ink",
+      "project": "Ink",
+      "category": "Airdrop",
+      "title": "Tydro — active in the project with a focus on the INK airdrop - Incrypted",
+      "status": "Unconfirmed",
+      "date": "2026-04-19",
+      "publishedAt": "2026-04-19T07:00:00Z",
+      "source": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLb1lfNnF3QWVvWUZQOXNLdEJpbldvT0c0ay1XMFBDYVpIdHlzeU1ETkNtSEo1cVcxc2ZUZFlSOFNhMHJKTWlreXdXX245N2g2cFE?oc=5",
+      "sourceName": "Incrypted",
+      "sourceType": "news-index",
+      "automatic": true,
+      "notes": "Secondary source (Incrypted); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-5c904f6c256413c00640",
@@ -858,21 +858,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-b5e2d711584f0bde8f89",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "What is PING Crypto? Complete Guide to x402 Protocol's First Token - MEXC",
-      "status": "Unconfirmed",
-      "date": "2025-10-23",
-      "publishedAt": "2025-10-23T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmxibjhXcWlaM2NlSmJEX25ONl9pSm8wTmEyUGVLRHVEVjM2T0tTTVJoYWZSNmY2VHczR01HTlJJVzVXUTRqek9LTG5uYW9vZ1hPM1hVY2h5SlhDTC15STlrM1hWMXFhQkpyVjhvYkhwZjJWWldVckdtOV9lWlZHYXpIUTNrQjBYNTlVS0Rob1U1dEpwSHhQOExfSkgwLWVnR3VB?oc=5",
-      "sourceName": "MEXC",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (MEXC); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-63deab66b69fea67ad3f",
       "projectId": "base",
       "project": "Base",
@@ -901,21 +886,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-4c704abfc63b0a4897c8",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "Toshi (TOSHI) Crypto Price Prediction 2025–2030: Latest News, Analysis & How to Buy - Bitget",
-      "status": "Unconfirmed",
-      "date": "2025-09-20",
-      "publishedAt": "2025-09-20T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1JSaDlBY2cyR3paV2NoQTEwcEtURDNLRmtfUXJEeFFzbExNNmZ6RzdILVNxNWp0clZPRUs4Tkx4RVplbkg4UEVSdlhGWXJkczdJRDVrZTU4N3l6MkJzekdLTGgxSno2Q1RzWVpMcUVVQm1pS1dvcThNYVNMR2pfMkJ5Q2Mtb21lVFpkYjBtWkllNkE?oc=5",
-      "sourceName": "Bitget",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Bitget); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-1def45c7c167448c4c60",
@@ -1141,21 +1111,6 @@
       "sourceType": "news-index",
       "automatic": true,
       "notes": "Secondary source (Decrypt); not an official confirmation. Verify with the project before acting."
-    },
-    {
-      "id": "auto-f8a7518394738cc27b13",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "JPMorgan Chase Says Deposit Token Offers ‘Superior Alternative’ to Stablecoins - PYMNTS.com",
-      "status": "Unconfirmed",
-      "date": "2025-06-17",
-      "publishedAt": "2025-06-17T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNTR5QlZ4YUxBaTFnS2l0bU1Fbk9oUDJDUnNDR19IV20tZHctcFplUGh0U3hmcXI0ZnZpS1p0bWJiTFNQVkNicy1jZmotX1FHWTd5eDl6QzFZQ1dtbTBqeHlPSkFIbTE5cjVMZWRzVkQyU3FmUkhlVUJyb0g2aU45dHMzdU5CeHF1cEZrQXN0ai02bHoya1pIa3VLY3daRTZBUk83QTZsaUYxRG90bi1SemJFVUtVc2c?oc=5",
-      "sourceName": "PYMNTS.com",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (PYMNTS.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-a54c08e23c6f0d52698c",
@@ -1486,21 +1441,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-8d3d5e5f44034046a003",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "Coinbase CEO Meets Philippine Finance Chief in Davos to Explore PH Expansion - BitPinas",
-      "status": "Unconfirmed",
-      "date": "2025-01-22",
-      "publishedAt": "2025-01-22T08:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93Q3ptbzNEZER4NXMwUjdwZ1Vkb3Rzb0NZM29UZy1OdWktSnhPanI5RG1sOVBOTU80WGVSekJyVXljbmxYM1J4NVc0OFR4X3I5UVVhNE9hVkp6Mk9TTHZJOTVGcU5wM2JVS28tUmNwdlJvYU1YOGZOQ2FuRHVKc28?oc=5",
-      "sourceName": "BitPinas",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (BitPinas); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-9fd3570c775aa3d6befd",
@@ -1953,21 +1893,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-1a48707ba52d68229587",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "Doodles: Bridging the Future of NFTs with Base and Coinbase - nft culture",
-      "status": "Unconfirmed",
-      "date": "2024-07-31",
-      "publishedAt": "2024-07-31T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbEpzSlJ1MTZlWHZ0Um5uV3VsZk5qY3FLb1VaMGVmc2VMMDl1Q0NXWWNqRlQta0wtN1JaZDN6XzZRTGlYeGRBN1lpUUJFaUJSakZqWlZXRUNRTzlOSmFFZ3JRX0NLVU5oTW5yN2dGWkMzcF9QaEVOTDEyVkhyMjhEVTl2NmZQNDh1RVFEQzU2LWFPVU9nTjMtVkhGVdIBowFBVV95cUxOTEh4SWRJRnZLLVM5d2VlX1hnT0Uya3hGMXhDTFJENnpHampYMlNMc3NsMGVrTk1wRXlpTDVpWXNZSXRhYktTZEp0ZmItZldzdDVMVENQTk9FNEdmQUppekZwYTdiajBFeDQ2UE4weWFaZjBURWtJUDJLbmtfY2lMeXRhb29CVEdwb2ZBdkl2QVpxOEFtRkVKUzBqdmtXM2s5WjM0?oc=5",
-      "sourceName": "nft culture",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (nft culture); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-e88f79ae616303806bad",
       "projectId": "base",
       "project": "Base",
@@ -1981,21 +1906,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-1e948c74e3478fd235a2",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "Report: Coinbase Asset Management Creating Tokenized Money Market Fund - PYMNTS.com",
-      "status": "Unconfirmed",
-      "date": "2024-07-24",
-      "publishedAt": "2024-07-24T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS2M4WmxheGpobTFxdWhSX3JweV9iOTFDTHNwZGwyNk9SQnAzbHJkN3BuUmNDVUFrdXVLb0VJcVNTeW42NlJfZm1MMUZneUZGWTE0V1VxVEZUeVNDTmdEZVBXbFhEbUlkM3hKc3lPTkFmNjcxYWNETGp4azAzb1c0eENicWZ3Y1c0UUJjNWZoSXUtSzNtX1RhdGZZU09UckM4NHFybGxhVzNuNjFiNWR2dVdsMA?oc=5",
-      "sourceName": "PYMNTS.com",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (PYMNTS.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-8e12b6a1f1b8594d91fa",
@@ -2268,21 +2178,6 @@
       "notes": "Published by an official project source; check the linked announcement for exact details."
     },
     {
-      "id": "auto-94b3007ff85166c687e3",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "What is Base Blockchain and How Does It Work? - Bitget",
-      "status": "Unconfirmed",
-      "date": "2023-09-25",
-      "publishedAt": "2023-09-25T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YX1hQN01ENmJTSTBfenVHZDhiRTRTY0hWa2dOWTVIbERheWh0TVRzbU9iUG5DeWlxd0kyRDcydEJ2M19OZFRYRE9xczZOc29JRmJOX1lQNHl4ckhfTFJzRTdqWVBvUG1aVEE?oc=5",
-      "sourceName": "Bitget",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (Bitget); not an official confirmation. Verify with the project before acting."
-    },
-    {
       "id": "auto-9b09947c2be6cb47d89e",
       "projectId": "base",
       "project": "Base",
@@ -2356,21 +2251,6 @@
       "sourceType": "official",
       "automatic": true,
       "notes": "Published by an official project source; check the linked announcement for exact details."
-    },
-    {
-      "id": "auto-d02c60c801a0da8a734d",
-      "projectId": "base",
-      "project": "Base",
-      "category": "News",
-      "title": "More Than 500 Scam Tokens Detected on Coinbase’s Base Blockchain - PYMNTS.com",
-      "status": "Unconfirmed",
-      "date": "2023-08-16",
-      "publishedAt": "2023-08-16T07:00:00Z",
-      "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMC15d3pETXZxc0tGeWZ0VnYwUDFwanFwY1FjZnh6M0pLTXBUT2dWZnBvbUlueHJhdVhfOE1HT2piOWVjazd2c09nWjZwanI1YVZXbHdGY2tPWjdaUVJPSUQwWDBBczRVc2lDclAyM1g3ZzVQaWpfeE5ZSXJYQlpEdnU0OVR4NGFIUTlIUFowcERLWTFFbGpudlVQaFR1aGxiS0NtNFVEenhyN1k?oc=5",
-      "sourceName": "PYMNTS.com",
-      "sourceType": "news-index",
-      "automatic": true,
-      "notes": "Secondary source (PYMNTS.com); not an official confirmation. Verify with the project before acting."
     },
     {
       "id": "auto-68f4335959fa4abfe8b7",

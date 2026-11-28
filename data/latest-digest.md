@@ -1,19 +1,19 @@
 # Crypto Radar — Signal Digest
 
-> Feed updated: 2026-11-27T13:51:26Z
+> Feed updated: 2026-11-28T00:02:14Z
 
 ## Overview
 
-- Total signals: **175**
+- Total signals: **167**
 - Projects represented: **3**
 - Confirmed source-origin items: **120**
-- Unconfirmed items: **55**
+- Unconfirmed items: **47**
 - Rumors: **0**
 
 ## Categories
 
-- Airdrop: 3
-- News: 166
+- Airdrop: 4
+- News: 157
 - Partnership: 6
 
 ## Latest signals
@@ -34,6 +34,8 @@
   Source: <https://www.base.org/blog/base-batches-004-cohort>
 - **[Unconfirmed] Soneium · News · 2026-10-29** — Sony Launches Global Soneium Incubation Program For Onchain Entertainment Startups - OneBullEx
   Source: <https://news.google.com/rss/articles/CBMiwgFBVV95cUxPenlOZk1OaExkVXFkcG14Tk9UaVZaejhxWjl2V3NkemlMdUp4TEIwRnQ1cWh4alhiZm5idmVVTUZyX24xXzRQUnJDQVlmd1Mxek5ldDBqZXZTckJkQWp5dW9tcGp6LUZxNmZaTkVTRklIbDEtZ3gyUU96cE9sTjdFTXZzWnZiOFJNcGpxSDBZVDFla2hCdGFkcG5Sb1k1dmE5Zkp6M1ZBbnhXSDhPdVlNSVNXS0xMNV9jZlAwX1Exc3BBdw?oc=5>
+- **[Unconfirmed] Soneium · News · 2026-10-29** — Sony launches global onchain entertainment incubation programme - grafa.com
+  Source: <https://news.google.com/rss/articles/CBMinAFBVV95cUxPVktUbWgyUU9uc1NRVFZlYXZPWXlUajVXdHlocDhiM2VTZ2VSZEVMODhhMUpUZ1U2WDlzWHZzMGhHaGloZkRsRnc5bFVTblg1eXFTY2QzeGJFRkVqdjVVaUk0TnR1QUtjbUM1bDdhdWhyZFpMS1pMRnpXcmQ3V0tmVWRDVmNwVFA5OEZOaVFpcGtqcWxKcVJDejEtMDM?oc=5>
 - **[Confirmed] Base · News · 2026-10-29** — How Shopify brought stablecoin payments to checkout on Base
   Source: <https://www.base.org/customers/shopify>
 - **[Unconfirmed] Soneium · News · 2026-10-28** — Sony launches Soneium incubation program for creators - Crypto News
@@ -44,8 +46,6 @@
   Source: <https://news.google.com/rss/articles/CBMimwFBVV95cUxPYlU0NWNFTVBLRGxVM2x0cmRWQzFRUTBzMjFDdVlha29oeWs3VWh4bWJQeHVYVUt4bTNwMDJPYUkxUll0UWtuVkNiOERDb3B2bUVMdzRScWhVLW1iUm9RR2RzVkIzZlRYcVU2eElTYVY4RUJCaFBQUHh6S1o2ek1pSmIzc2pET1RtckYzc2luMWRxWFZBTXY3N3lpbw?oc=5>
 - **[Confirmed] Base · News · 2026-10-22** — How Aave unlocked stock-backed loans on Base
   Source: <https://www.base.org/customers/aave>
-- **[Unconfirmed] Base · News · 2026-10-21** — The Coinbase Bull Case Comes Down to One Very Big Number - 24/7 Wall St.
-  Source: <https://news.google.com/rss/articles/CBMiogFBVV95cUxNcFRZS3hEZGdTd3p0SzdSUTlHVVRJVjRNQk1mdjNrVXZmbU9telJRV3pndGdhM0E2YXpERXVnQklMaW9iNTN3SUJjV0RmZHBiWXRUb3ZTWGlSQzNNMVdfNGg5YlAwdXJpZzZFRlJpT0pEOW9sUlA0bjdIQ2ZQb3IxS0NfeHJsSWVFejVfQ1dOTWhLQkxleUM3TVp5cnJhajZXOUE?oc=5>
 - **[Confirmed] Base · News · 2026-10-15** — How Tuyo brought spending and earning together on Base
   Source: <https://www.base.org/customers/tuyo>
 - **[Confirmed] Base · News · 2026-10-07** — How Ethos makes reputation portable on Base
